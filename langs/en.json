@@ -37,6 +37,8 @@
     "DEBUG_NOT_ALLOWED": "Debug mode is not allowed on this server",
     "WRONG_BRANCH": "Server uses different update branch",
     "WRONG_STABLE_BUILD": "Server is running different version of alt:V",
-    "WRONG_BETA_BUILD": "Server is using newer version of alt:V. Restart your game to get update"
+    "WRONG_BETA_BUILD": "Server is using newer version of alt:V. Restart your game to get update",
+    "CLIENT_OUTDATED": "Server is using newer version of alt:V",
+    "SERVER_OUTDATED": "Server is using older version of alt:V"
   }
 }
