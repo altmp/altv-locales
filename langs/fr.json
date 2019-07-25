@@ -3,17 +3,17 @@
   "strings": {
     "SERVERS": "Serveurs",
     "FAVORITES": "Favoris",
-    "HISTORY": "Histoire",
+    "HISTORY": "Historique",
     "DIRECT_CONNECT": "Connection directe",
     "DISCONNECT": "Déconnecter",
     "SETTINGS": "Paramètres",
     "EXIT": "Sortir",
     "SERVER_BROWSER": "Navigateur de serveurs",
     "SEARCH": "Rechercher",
-    "HIDE_FULL": "Cacher plein",
-    "HIDE_EMPTY": "Cacher vide",
-    "HIDE_LOCKED": "Cacher verrouillé",
-    "UPDATE": "Réactualiser",
+    "HIDE_FULL": "Cacher serveur plein",
+    "HIDE_EMPTY": "Cacher serveur vide",
+    "HIDE_LOCKED": "Cacher serveur verrouillé",
+    "UPDATE": "Rafréchir",
     "SERVER_NAME": "Nom du serveur",
     "PLAYERS": "Joueurs",
     "GAMEMODE": "Mode de jeu",
@@ -22,7 +22,7 @@
     "FAVORITE_SERVERS": "Serveurs favoris",
     "LANGUAGE": "Langue",
     "ENTER_PASSWORD": "Entrer le mot de passe",
-    "CONNECT": "Relier",
+    "CONNECT": "Connexion",
     "NICKNAME": "Nom en jeu",
     "VOICE_CHAT": "Chat vocal",
     "INPUT_DEVICE": "Périphérique d'entrée",
@@ -37,6 +37,6 @@
     "DEBUG_NOT_ALLOWED": "Le mode de débogage n'est pas autorisé sur ce serveur",
     "WRONG_BRANCH": "Le serveur utilise une branche de mise à jour différente",
     "WRONG_STABLE_BUILD": "Le serveur exécute une version différente de alt:V",
-    "WRONG_BETA_BUILD": "Le serveur utilise une version plus récente de alt:V. Redémarrez votre jeu pour obtenir la mise à joure"
+    "WRONG_BETA_BUILD": "Le serveur utilise une version plus récente de alt:V. Redémarrez votre jeu pour obtenir la mise à jour"
   }
 }
