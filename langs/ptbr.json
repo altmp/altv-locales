@@ -37,6 +37,6 @@
     "DEBUG_NOT_ALLOWED": "O modo de depuração não é permitido neste servidor",
     "WRONG_BRANCH": "Servidor usa branch de atualização diferente",
     "WRONG_STABLE_BUILD": "Servidor está executando uma versão diferente do Alt:V",
-    "WRONG_BETA_BUILD": "O servidor está usando uma versão mais recente do Alt:V. Reinicie o seu jogo para obter atualização"
+    "WRONG_BETA_BUILD": "O servidor está usando uma versão mais recente do alt:V. Reinicie o seu jogo para obter a atualização"
   }
 }
