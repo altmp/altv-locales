@@ -1,83 +1,42 @@
 {
-
-  "name": «Українська»,
-
+  "name": "Українська",
   "strings": {
-
     "SERVERS": "Сервери",
-
-    "FAVORITES": «Обране",
-
+    "FAVORITES": "Обране",
     "HISTORY": "Історія",
-
-    "DIRECT_CONNECT": «Підключення напряму»,
-
-    "DISCONNECT": "Відключитися»,
-
-    "SETTINGS": "Налаштування»,
-
-    "EXIT": "Вихід»,
-
+    "DIRECT_CONNECT": "Підключення напряму",
+    "DISCONNECT": "Відключитися",
+    "SETTINGS": "Налаштування",
+    "EXIT": "Вихід",
     "SERVER_BROWSER": "Список серверів",
-
-    "SEARCH": "Пошук»,
-
-    "HIDE_FULL": «Приховати заповнені»,
-
-    "HIDE_EMPTY": «Приховати пусті»,
-
-    "HIDE_LOCKED": «Приховати закриті»,
-
-    "UPDATE": «Оновити»,
-
-    "SERVER_NAME": «Ім’я серверу»,
-
-    "PLAYERS": «Гравці»,
-
+    "SEARCH": "Пошук",
+    "HIDE_FULL": "Приховати заповнені",
+    "HIDE_EMPTY": "Приховати пусті",
+    "HIDE_LOCKED": "Приховати закриті",
+    "UPDATE": "Оновити",
+    "SERVER_NAME": "Ім’я серверу",
+    "PLAYERS": "Гравці",
     "GAMEMODE": "Режим",
-
     "PING": "Пінг",
-
     "WEBSITE": "Вебсайт",
-
-    "FAVORITE_SERVERS": «Обрані сервера",
-
-    "LANGUAGE": «Мова»,
-
+    "FAVORITE_SERVERS": "Обрані сервера",
+    "LANGUAGE": "Мова",
     "ENTER_PASSWORD": "Введіть пароль",
-
-    "CONNECT": "Підключись»,
-
+    "CONNECT": "Підключись",
     "NICKNAME": "Нікнейм",
-
     "VOICE_CHAT": "Голосовий чат",
-
-    "INPUT_DEVICE": «Вхідний пристрій »,
-
-    "OUTPUT_DEVICE": «Вихідний пристрій»,
-
-    "DEFAULT": «За замовчуванням»,
-
-    "INPUT_VOLUME": «Вхідна гучність»,
-
-    "OUTPUT_VOLUME": «Вихідна гучнісь»,
-
+    "INPUT_DEVICE": "Вхідний пристрій ",
+    "OUTPUT_DEVICE": "Вихідний пристрій",
+    "DEFAULT": "За замовчуванням",
+    "INPUT_VOLUME": "Вхідна гучність",
+    "OUTPUT_VOLUME": "Вихідна гучнісь",
     "CONNECTION_FAILED": "Не вдалося підключитися",
-
-    "LOST_CONNECTION": «З’єднання втрачено»,
-
-    "UNKNOWN_ERROR": "Невідома помилка»,
-
+    "LOST_CONNECTION": "З’єднання втрачено",
+    "UNKNOWN_ERROR": "Невідома помилка",
     "WRONG_PASSWORD": "Невірний пароль",
-
     "DEBUG_NOT_ALLOWED": "Режим налагодження недоступний",
-
-    "WRONG_BRANCH": "Сервер використовує іншу вітку оновленнь»,
-
+    "WRONG_BRANCH": "Сервер використовує іншу вітку оновленнь",
     "WRONG_STABLE_BUILD": "Сервер використовує іншу версію alt:V",
-
-    "WRONG_BETA_BUILD": "Сервер використовує новішу версію alt:V. Перезавантажте клієнт для оновлення»
-
+    "WRONG_BETA_BUILD": "Сервер використовує новішу версію alt:V. Перезавантажте клієнт для оновлення"
   }
-
 }
