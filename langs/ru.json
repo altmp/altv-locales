@@ -26,7 +26,7 @@
     "NICKNAME": "Никнейм",
     "VOICE_CHAT": "Голосовой чат",
     "INPUT_DEVICE": "Устройство ввода",
-    "OUTPUT_DEVICE": "Устройство вывод",
+    "OUTPUT_DEVICE": "Устройство вывода",
     "DEFAULT": "По умолчанию",
     "INPUT_VOLUME": "Громкость ввода",
     "OUTPUT_VOLUME": "Громкость вывода",
@@ -39,6 +39,11 @@
     "WRONG_STABLE_BUILD": "Сервер использует другую версию alt:V",
     "WRONG_BETA_BUILD": "Сервер использует более новую версию alt:V. Перезапустите клиент для получения обновления",
     "CLIENT_OUTDATED": "Сервер использует более новую версию alt:V",
-    "SERVER_OUTDATED": "Сервер использует более старую версию alt:V"
+    "SERVER_OUTDATED": "Сервер использует более старую версию alt:V",
+    "REFUSED_BY_SERVER": "Сервер отклонил соединение",
+    "EARLY_AUTH_FAILED": "Ранняя авторизация не завершена",
+    "HTTP_SERVER_CONNECT_FAILED": "Не удалось подключиться к HTTP серверу",
+    "RESOURCE_DOWNLOAD_FAILED": "Не удалось скачать ресурс",
+    "RESOURCE_CHECK_FAILED": "Ресурс не прошел проверку на целостность"
   }
 }
