@@ -39,6 +39,14 @@
     "WRONG_STABLE_BUILD": "El servidor usa una versión diferente de alt:V",
     "WRONG_BETA_BUILD": "El servidor usa una versión actualizada de alt:V. Reinicia el juego para actualizar",
     "CLIENT_OUTDATED": "El servidor usa una versión actualizada de alt:V",
-    "SERVER_OUTDATED": "El servidor usa una versión desactualizada de alt:V"
+    "SERVER_OUTDATED": "El servidor usa una versión desactualizada de alt:V",
+    "REFUSED_BY_SERVER": "Rechazado por el servidor",
+    "EARLY_AUTH_FAILED": "La autentificación ha fallado",
+    "HTTP_SERVER_CONNECT_FAILED": "Fallo al conectar al servidor HTTP",
+    "RESOURCE_DOWNLOAD_FAILED": "Fallo al descargar los recursos",
+    "RESOURCE_CHECK_FAILED": "Fallo al comprobar la integridad de los recursos",
+    "CHANGE_NICKNAME": "Cambiar nombre de usuario",
+    "CONNECTING": "Conectando",
+    "ABORT": "Abortar"
   }
 }
