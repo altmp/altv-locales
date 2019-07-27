@@ -44,6 +44,9 @@
     "EARLY_AUTH_FAILED": "Ранняя авторизация не завершена",
     "HTTP_SERVER_CONNECT_FAILED": "Не удалось подключиться к HTTP серверу",
     "RESOURCE_DOWNLOAD_FAILED": "Не удалось скачать ресурс",
-    "RESOURCE_CHECK_FAILED": "Ресурс не прошел проверку на целостность"
+    "RESOURCE_CHECK_FAILED": "Ресурс не прошел проверку на целостность",
+    "CHANGE_NICKNAME": "Введите ваш никнейм",
+    "CONNECTING": "Подключение",
+    "ABORT": "Отмена"
   }
 }

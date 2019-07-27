@@ -44,6 +44,9 @@
     "EARLY_AUTH_FAILED": "Early auth failed",
     "HTTP_SERVER_CONNECT_FAILED": "Failed to connect to HTTP server",
     "RESOURCE_DOWNLOAD_FAILED": "Failed to download resource",
-    "RESOURCE_CHECK_FAILED": "Integrity check of resource failed"
+    "RESOURCE_CHECK_FAILED": "Integrity check of resource failed",
+    "CHANGE_NICKNAME": "Change your nickname",
+    "CONNECTING": "Connecting",
+    "ABORT": "Abort"
   }
 }
