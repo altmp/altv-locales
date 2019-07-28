@@ -47,6 +47,6 @@
       "RESOURCE_CHECK_FAILED": "Sprawdzanie integralności zasobu nie powiodło się",
       "CHANGE_NICKNAME": "Zmień swój pseudonim",
       "CONNECTING": "Łączenie",
-      "ABORT": "Anuluj"
+      "ABORT": "Przerwij"
     }
   }
