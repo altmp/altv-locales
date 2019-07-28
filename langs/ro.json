@@ -38,7 +38,7 @@
     "WRONG_BRANCH": "Serverul utilizează o ramură a actualizărilor diferită",
     "WRONG_STABLE_BUILD": "Serverul rulează o versiune diferită pentru alt:V",
     "WRONG_BETA_BUILD": "Serverul rulează o versiune mai nouă pentru alt:V. Repornește jocul pentru a primi actualizarea"
-	  "CLIENT_OUTDATED": "Serverul rulează o versiune mai nouă pentru alt:V",
+    "CLIENT_OUTDATED": "Serverul rulează o versiune mai nouă pentru alt:V",
     "SERVER_OUTDATED": "Serverul rulează o versiune mai veche pentru alt:V",
     "REFUSED_BY_SERVER": "Refuzat de către server",
     "EARLY_AUTH_FAILED": "Autentificarea preliminară a eșuat",
