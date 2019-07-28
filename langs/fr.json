@@ -4,7 +4,7 @@
     "SERVERS": "Serveurs",
     "FAVORITES": "Favoris",
     "HISTORY": "Historique",
-    "DIRECT_CONNECT": "Connection directe",
+    "DIRECT_CONNECT": "Connexion directe",
     "DISCONNECT": "Déconnexion",
     "SETTINGS": "Paramètres",
     "EXIT": "Sortir",
@@ -22,8 +22,8 @@
     "FAVORITE_SERVERS": "Serveurs favoris",
     "LANGUAGE": "Langue",
     "ENTER_PASSWORD": "Entrer le mot de passe",
-    "CONNECT": "Connexion",
-    "NICKNAME": "Nom en jeu",
+    "CONNECT": "Connecter",
+    "NICKNAME": "Surnom",
     "VOICE_CHAT": "Chat vocal",
     "INPUT_DEVICE": "Périphérique d'entrée",
     "OUTPUT_DEVICE": "Périphérique de sortie",
@@ -43,10 +43,10 @@
     "REFUSED_BY_SERVER": "Refusé par le serveur",
     "EARLY_AUTH_FAILED": "L'autorisation précoce a échoué",
     "HTTP_SERVER_CONNECT_FAILED": "La connexion au serveur HTTP a échoué",
-    "RESOURCE_DOWNLOAD_FAILED": "Du téléchargement de la ressource a échoué",
+    "RESOURCE_DOWNLOAD_FAILED": "Le téléchargement de la ressource a échoué",
     "RESOURCE_CHECK_FAILED": "Le contrôle d'intégrité de la ressource a échoué",
-    "CHANGE_NICKNAME": "Changer votre nom en jeu",
-    "CONNECTING": "Connecter",
-    "ABORT": "Abandonner"
+    "CHANGE_NICKNAME": "Changer votre surnom",
+    "CONNECTING": "Connexion en cours",
+    "ABORT": "Annuler"
   }
 }
