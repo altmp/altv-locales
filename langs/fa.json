@@ -39,6 +39,15 @@
     "WRONG_STABLE_BUILD": "سرور روی ورژن دیگری از alt:V برقرار است",
     "WRONG_BETA_BUILD": "سرور از ورژن جدیدتر alt:V استفاده میکند. بازی خود را برای آپدیت ریستارت کنید",
     "CLIENT_OUTDATED": "سرور از ورژن جدیدتر alt:V استفاده میکند.",
-    "SERVER_OUTDATED": "سرور از ورژن قدیمی تر alt:V استفاده میکند."
+    "SERVER_OUTDATED": "سرور از ورژن قدیمی تر alt:V استفاده میکند.",
+    "REFUSED_BY_SERVER": "توسط سرور رد شد.",
+    "EARLY_AUTH_FAILED": "Early auth ناموفق بود",
+    "HTTP_SERVER_CONNECT_FAILED": "اتصال به سرور HTTP ناموفق بود",
+    "RESOURCE_DOWNLOAD_FAILED": "دانلود resource ناموفق بود",
+    "RESOURCE_CHECK_FAILED": "بررسی درستی resource ناموفق بود",
+    "CHANGE_NICKNAME": "نام خود را بررسی کنید",
+    "CONNECTING": "در حال اتصال",
+    "ABORT": "لغو کردن"
+    
   }
 }
