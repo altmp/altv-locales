@@ -37,7 +37,16 @@
       "DEBUG_NOT_ALLOWED": "Tryb debugowania nie jest dozwolony na tym serwerze",
       "WRONG_BRANCH": "Serwer korzysta z innego wydania aktualizacji",
       "WRONG_STABLE_BUILD": "Serwer jest uruchomiony na innej wersji alt:V",
-      "WRONG_BETA_BUILD": "Serwer używa nowszej wersji alt:V. Uruchom ponownie grę, aby dokonać aktualizacji"
+      "WRONG_BETA_BUILD": "Serwer używa nowszej wersji alt:V. Uruchom ponownie grę, aby dokonać aktualizacji",
+      "CLIENT_OUTDATED": "Serwer używa nowszą wersje alt:V",
+      "SERVER_OUTDATED": "Serwer używa starszą wersje alt:V",
+      "REFUSED_BY_SERVER": "Odmówiony przez serwer",
+      "EARLY_AUTH_FAILED": "Wczesne uwierzytelnienie nie powiodło się",
+      "HTTP_SERVER_CONNECT_FAILED": "Nie udało się połączyć z serwerem HTTP",
+      "RESOURCE_DOWNLOAD_FAILED": "Nie udało się pobrać zasobu",
+      "RESOURCE_CHECK_FAILED": "Kontrola integralności zasobu nie powiodła się",
+      "CHANGE_NICKNAME": "Zmień swój pseudonim",
+      "CONNECTING": "Łączenie",
+      "ABORT": "Anuluj"
     }
   }
-  
