@@ -47,6 +47,9 @@
     "RESOURCE_CHECK_FAILED": "Integrity check of resource failed",
     "CHANGE_NICKNAME": "Change your nickname",
     "CONNECTING": "Connecting",
-    "ABORT": "Abort"
+    "ABORT": "Abort",
+    "CLOSE": "Close",
+    "PASSWORD": "Password",
+    "LEAVE_EMPTY_IF_NONE": "Leave empty if none"
   }
 }

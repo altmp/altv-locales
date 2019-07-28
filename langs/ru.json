@@ -47,6 +47,9 @@
     "RESOURCE_CHECK_FAILED": "Ресурс не прошел проверку на целостность",
     "CHANGE_NICKNAME": "Введите ваш никнейм",
     "CONNECTING": "Подключение",
-    "ABORT": "Отмена"
+    "ABORT": "Отмена",
+    "CLOSE": "Закрыть",
+    "PASSWORD": "Пароль",
+    "LEAVE_EMPTY_IF_NONE": "Оставьте пустым при отсутствии"
   }
 }
