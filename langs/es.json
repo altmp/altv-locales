@@ -47,6 +47,9 @@
     "RESOURCE_CHECK_FAILED": "Fallo al comprobar la integridad de los recursos",
     "CHANGE_NICKNAME": "Cambiar nombre de usuario",
     "CONNECTING": "Conectando",
-    "ABORT": "Abortar"
+    "ABORT": "Cancelar",
+    "CLOSE": "Cerrar",
+    "PASSWORD": "Contraseña",
+    "LEAVE_EMPTY_IF_NONE": "Dejar en blanco si no tiene"
   }
 }
