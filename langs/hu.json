@@ -12,7 +12,7 @@
     "SEARCH": "Keresés",
     "HIDE_FULL": "Betelt szerverek elrejtése",
     "HIDE_EMPTY": "Üres szerverek elrejtése",
-    "HIDE_LOCKED": "Lejelszavazott szerverek elrejtése",
+    "HIDE_LOCKED": "Lezárt szerverek elrejtése",
     "UPDATE": "Frissítés",
     "SERVER_NAME": "Szerver név",
     "PLAYERS": "Játékosok",
@@ -35,7 +35,7 @@
     "UNKNOWN_ERROR": "Ismeretlen hiba",
     "WRONG_PASSWORD": "Téves jelszó",
     "DEBUG_NOT_ALLOWED": "A hibakeresés nem engedélyezett a szerveren",
-    "WRONG_BRANCH": "Server uses different update branch",
+    "WRONG_BRANCH": "A szerver eltérő frissítési ágat használ",
     "WRONG_STABLE_BUILD": "A szerver egy különböző verziót használ",
     "WRONG_BETA_BUILD": "A szerver az Alt:V egy újabb verzióját használja. Indítsd újra a játékot, hogy megkapd a frissítést"
   }
