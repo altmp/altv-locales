@@ -47,7 +47,7 @@
     "RESOURCE_CHECK_FAILED": "Kontrola integrity zdroje selhala",
     "CHANGE_NICKNAME": "Změna přezdívky",
     "CONNECTING": "Připojování",
-    "ABORT": "Přerušit"
+    "ABORT": "Přerušit",
     "CLOSE": "Zavřít",
     "PASSWORD": "Heslo",
     "LEAVE_EMPTY_IF_NONE": "Zanechte prázdné pokud tady nic není"
