@@ -1,9 +1,15 @@
 {
   "name": "English",
   "strings": {
+    "HOME": "Home",
+    "WELCOME_TO": "Welcome to",
+    "RECENT_SERVERS": "Recent servers",
+    "PLAYERS_ONLINE": "Players online",
+    "SERVERS_ONLINE": "Servers online",
     "SERVERS": "Servers",
     "FAVORITES": "Favorites",
     "HISTORY": "History",
+    "PROMOTED": "Promoted",
     "DIRECT_CONNECT": "Direct connect",
     "DISCONNECT": "Disconnect",
     "SETTINGS": "Settings",
@@ -23,9 +29,13 @@
     "ENTER_PASSWORD": "Enter password",
     "CONNECT": "Connect",
     "NICKNAME": "Nickname",
+    "SERVERLIST": "Serverlist",
+    "PROMOTED_ON_TOP": "Promoted servers on top",
     "VOICE_CHAT": "Voice chat",
     "INPUT_DEVICE": "Input device",
     "OUTPUT_DEVICE": "Output device",
+    "VOICE_ENABLED": "Enabled",
+    "NOISE_SUPPRESSION": "Noise suppression",
     "DEFAULT": "Default",
     "INPUT_VOLUME": "Input volume",
     "OUTPUT_VOLUME": "Output volume",
@@ -49,6 +59,6 @@
     "ABORT": "Abort",
     "CLOSE": "Close",
     "PASSWORD": "Password",
-    "LEAVE_EMPTY_IF_NONE": "Leave empty if none"
+    "PASSWORD_IF_NEEDED": "Password (if needed)"
   }
 }

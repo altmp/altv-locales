@@ -1,9 +1,15 @@
 {
   "name": "Русский",
   "strings": {
+    "HOME": "Главная",
+    "WELCOME_TO": "Добро пожаловать в",
+    "RECENT_SERVERS": "Недавние сервера",
+    "PLAYERS_ONLINE": "Игроки онлайн",
+    "SERVERS_ONLINE": "Сервера онлайн",
     "SERVERS": "Сервера",
     "FAVORITES": "Избранное",
     "HISTORY": "История",
+    "PROMOTED": "Продвигаемые",
     "DIRECT_CONNECT": "Прямое подключение",
     "DISCONNECT": "Отключиться",
     "SETTINGS": "Настройки",
@@ -23,9 +29,13 @@
     "ENTER_PASSWORD": "Введите пароль",
     "CONNECT": "Подключиться",
     "NICKNAME": "Никнейм",
+    "SERVERLIST": "Список серверов",
+    "PROMOTED_ON_TOP": "Показывать сначала продвигаемые сервера",
     "VOICE_CHAT": "Голосовой чат",
     "INPUT_DEVICE": "Устройство ввода",
     "OUTPUT_DEVICE": "Устройство вывода",
+    "VOICE_ENABLED": "Активен",
+    "NOISE_SUPPRESSION": "Шумоподавление",
     "DEFAULT": "По умолчанию",
     "INPUT_VOLUME": "Громкость ввода",
     "OUTPUT_VOLUME": "Громкость вывода",
@@ -49,6 +59,6 @@
     "ABORT": "Отмена",
     "CLOSE": "Закрыть",
     "PASSWORD": "Пароль",
-    "LEAVE_EMPTY_IF_NONE": "Оставьте пустым при отсутствии"
+    "PASSWORD_IF_NEEDED": "Пароль (если есть)"
   }
 }
