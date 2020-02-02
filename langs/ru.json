@@ -37,7 +37,8 @@
     "VOICE_ENABLED": "Активен",
     "NOISE_SUPPRESSION": "Шумоподавление",
     "DEFAULT": "По умолчанию",
-    "INPUT_VOLUME": "Громкость ввода",
+    "INPUT_VOLUME": "Громкость микрофона",
+    "INPUT_SENSITIVITY": "Чувствительность микрофона",
     "OUTPUT_VOLUME": "Громкость вывода",
     "CONNECTION_FAILED": "Не удалось подключиться",
     "LOST_CONNECTION": "Потеряно соединение с сервером",
@@ -59,6 +60,11 @@
     "ABORT": "Отмена",
     "CLOSE": "Закрыть",
     "PASSWORD": "Пароль",
-    "PASSWORD_IF_NEEDED": "Пароль (если есть)"
+    "PASSWORD_IF_NEEDED": "Пароль (если есть)",
+    "ABOUT": "О нас",
+    "OPENSOURCE_LIBS": "Используемые библиотеки",
+    "OPENSOURCE_LIBS_FULL": "The following sets forth attribution notices for third party software that may be contained in portions of alt:V Multiplayer. We thank the open source community for all of their contributions.",
+    "DEVELOPERS_AND_CONTRIBUTORS": "Разработчики и другие участники",
+    "SERVER_OFFLINE": "Сервер офлайн :("
   }
 }

@@ -11,6 +11,7 @@
     "HISTORY": "History",
     "PROMOTED": "Promoted",
     "DIRECT_CONNECT": "Direct connect",
+    "ABOUT": "About",
     "DISCONNECT": "Disconnect",
     "SETTINGS": "Settings",
     "EXIT": "Exit",
@@ -38,6 +39,7 @@
     "NOISE_SUPPRESSION": "Noise suppression",
     "DEFAULT": "Default",
     "INPUT_VOLUME": "Input volume",
+    "INPUT_SENSITIVITY": "Input sensitivity",
     "OUTPUT_VOLUME": "Output volume",
     "CONNECTION_FAILED": "Connection failed",
     "LOST_CONNECTION": "Lost connection to server",
@@ -59,6 +61,10 @@
     "ABORT": "Abort",
     "CLOSE": "Close",
     "PASSWORD": "Password",
-    "PASSWORD_IF_NEEDED": "Password (if needed)"
+    "PASSWORD_IF_NEEDED": "Password (if needed)",
+    "OPENSOURCE_LIBS": "Libraries we use",
+    "OPENSOURCE_LIBS_FULL": "The following sets forth attribution notices for third party software that may be contained in portions of alt:V Multiplayer. We thank the open source community for all of their contributions.",
+    "DEVELOPERS_AND_CONTRIBUTORS": "Developers and contributors",
+    "SERVER_OFFLINE": "Server is offline :("
   }
 }
