@@ -38,6 +38,7 @@
     "VOICE_ENABLED": "Enabled",
     "NOISE_SUPPRESSION": "Noise suppression",
     "DEFAULT": "Default",
+    "VOICE_ACTIVATION": "Voice activation",
     "INPUT_VOLUME": "Input volume",
     "INPUT_SENSITIVITY": "Input sensitivity",
     "OUTPUT_VOLUME": "Output volume",
@@ -65,6 +66,9 @@
     "OPENSOURCE_LIBS": "Libraries we use",
     "OPENSOURCE_LIBS_FULL": "The following sets forth attribution notices for third party software that may be contained in portions of alt:V Multiplayer. We thank the open source community for all of their contributions.",
     "DEVELOPERS_AND_CONTRIBUTORS": "Developers and contributors",
-    "SERVER_OFFLINE": "Server is offline :("
+    "SERVER_OFFLINE": "Server is offline",
+    "NOTHING_HERE": "Nothing here",
+    "LOADING": "Loading...",
+    "FAILED_TO_LOAD_SERVERS": "Failed to load servers"
   }
 }
