@@ -50,6 +50,6 @@
     "ABORT": "Mégse",
     "CLOSE": "Bezárás",
     "PASSWORD": "Jelszó",
-    "LEAVE_EMPTY_IF_NONE": "Hagyj üresen ha nincs"
+    "LEAVE_EMPTY_IF_NONE": "Hagyd üresen ha nincs"
   }
 }
