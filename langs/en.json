@@ -35,8 +35,21 @@
     "UNKNOWN_ERROR": "Unknown error",
     "WRONG_PASSWORD": "Wrong password",
     "DEBUG_NOT_ALLOWED": "Debug mode is not allowed on this server",
-    "WRONG_BRANCH": "Server uses different update branch",
-    "WRONG_STABLE_BUILD": "Server is running different version of alt:V",
-    "WRONG_BETA_BUILD": "Server is using newer version of alt:V. Restart your game to get update"
+    "WRONG_BRANCH": "Server uses a different update branch",
+    "WRONG_STABLE_BUILD": "Server is running a different version of alt:V",
+    "WRONG_BETA_BUILD": "Server is using a newer version of alt:V. Restart your game to get update",
+    "CLIENT_OUTDATED": "Server is using a newer version of alt:V",
+    "SERVER_OUTDATED": "Server is using an older version of alt:V",
+    "REFUSED_BY_SERVER": "Refused by server",
+    "EARLY_AUTH_FAILED": "Early auth failed",
+    "HTTP_SERVER_CONNECT_FAILED": "Failed to connect to HTTP server",
+    "RESOURCE_DOWNLOAD_FAILED": "Failed to download resource",
+    "RESOURCE_CHECK_FAILED": "Integrity check of resource failed",
+    "CHANGE_NICKNAME": "Change your nickname",
+    "CONNECTING": "Connecting",
+    "ABORT": "Abort",
+    "CLOSE": "Close",
+    "PASSWORD": "Password",
+    "LEAVE_EMPTY_IF_NONE": "Leave empty if none"
   }
 }
