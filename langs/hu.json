@@ -37,6 +37,19 @@
     "DEBUG_NOT_ALLOWED": "A hibakeresés nem engedélyezett a szerveren",
     "WRONG_BRANCH": "A szerver eltérő frissítési ágat használ",
     "WRONG_STABLE_BUILD": "A szerver egy különböző verziót használ",
-    "WRONG_BETA_BUILD": "A szerver az Alt:V egy újabb verzióját használja. Indítsd újra a játékot, hogy megkapd a frissítést"
+    "WRONG_BETA_BUILD": "A szerver az alt:V egy újabb verzióját használja. Indítsd újra a játékot, hogy megkapd a frissítést",
+    "CLIENT_OUTDATED": "A szerver az alt:V egy újabb verzióját használja.",
+    "SERVER_OUTDATED": "A szerver egy régebbi alt:V szerver verziót használ.",
+    "REFUSED_BY_SERVER": "A szerver megtagadta a kapcsolatot",
+    "EARLY_AUTH_FAILED": "A korai hitelesítés sikertelen",
+    "HTTP_SERVER_CONNECT_FAILED": "Nem sikerült kapcsolódni a HTTP szerverhez",
+    "RESOURCE_DOWNLOAD_FAILED": "Sikertelen resource letöltés",
+    "RESOURCE_CHECK_FAILED": "A resource integritásának ellenörzése sikertelen",
+    "CHANGE_NICKNAME": "Játékbeli név megváltoztatása",
+    "CONNECTING": "Csatlakozás folyamatban",
+    "ABORT": "Mégse",
+    "CLOSE": "Bezárás",
+    "PASSWORD": "Jelszó",
+    "LEAVE_EMPTY_IF_NONE": "Hagyj üresen ha nincs"
   }
 }
