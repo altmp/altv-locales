@@ -2,8 +2,8 @@
 This repository contains locales for alt:V Multiplayer and appropriate flags.
 
 # Flags
-Flags were taken from [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit/tree/c92bdbcae623258a253dea0aeffef076b8ae97a2/Images)
-and licenced under MIT License available [here](https://github.com/madebybowtie/FlagKit/blob/c92bdbcae623258a253dea0aeffef076b8ae97a2/LICENSE)
+Flags were taken from [madebybowtie/FlagKit](https://github.com/madebybowtie/FlagKit/tree/1597c8872150299fe1d7a18d8c7403730da309c6/Assets/SVG)
+and licenced under MIT License available [here](https://github.com/madebybowtie/FlagKit/blob/1597c8872150299fe1d7a18d8c7403730da309c6/LICENSE)
 
 All credits go to the authors.
 
