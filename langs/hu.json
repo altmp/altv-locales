@@ -2,14 +2,14 @@
   "name": "Magyar",
   "strings": {
     "HOME": "Főoldal",
-    "WELCOME_TO": "Üdvözlünk",
+    "WELCOME_TO": "Üdvözlünk a",
     "RECENT_SERVERS": "Korábbi csatlakozások",
     "PLAYERS_ONLINE": "Elérhető játékosok",
     "SERVERS_ONLINE": "Elérhető szerverek",
     "SERVERS": "Szerverek",
-    "FAVORITES": "Kedvenceid",
+    "FAVORITES": "Kedvencek",
     "HISTORY": "Eddigi szerverek",
-    "PROMOTED": "Promoted",
+    "PROMOTED": "Promotált",
     "DIRECT_CONNECT": "Közvetlen csatlakozás",
     "ABOUT": "Rólunk",
     "DISCONNECT": "Lecsatlakozás",
@@ -70,6 +70,6 @@
     "NOTHING_HERE": "Nincs itt semmi",
     "LOADING": "Betöltés...",
     "FAILED_TO_LOAD_SERVERS": "A szerverek betöltése nem sikerült",
-    "EMPTY_HERE": "Még nincs tartalom. Még."
+    "EMPTY_HERE": "Még nem csatlakoztál szerverre."
   }
 }
