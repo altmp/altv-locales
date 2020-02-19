@@ -40,6 +40,7 @@
     "VOICE_ACTIVATION": "Активация по голосу",
     "INPUT_VOLUME": "Громкость микрофона",
     "INPUT_SENSITIVITY": "Чувствительность микрофона",
+    "PUSH_TO_TALK_KEY": "Кнопка push-to-talk",
     "OUTPUT_VOLUME": "Громкость вывода",
     "CONNECTION_FAILED": "Не удалось подключиться",
     "LOST_CONNECTION": "Потеряно соединение с сервером",
