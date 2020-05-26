@@ -41,6 +41,7 @@
     "RESOURCE_DOWNLOAD_FAILED": "Eine Ressource konnte nicht heruntergeladen wnerden",
     "RESOURCE_CHECK_FAILED": "Der Integritätscheck einer Ressource ist fehlgeschlagen",
     "CHANGE_NICKNAME": "Nutzername ändern",
+    "PUSH_TO_TALK_KEY": "Push-to-Talk Taste",
     "CONNECTING": "Verbindung wird hergestellt",
     "ABORT": "Abbrechen",
     "CLOSE": "Schließen",
