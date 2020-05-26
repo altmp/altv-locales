@@ -13,4 +13,4 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v1
       - name: Test
-        run: node .github\test.js
+        run: node .github/test.js
