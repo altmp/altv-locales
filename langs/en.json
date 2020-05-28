@@ -71,6 +71,7 @@
     "NOTHING_HERE": "Nothing here",
     "LOADING": "Loading...",
     "FAILED_TO_LOAD_SERVERS": "Failed to load servers",
-    "EMPTY_HERE": "It's empty here. Yet."
+    "EMPTY_HERE": "It's empty here. Yet.",
+    "TEST": ""
   }
 }
