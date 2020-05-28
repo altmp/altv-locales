@@ -11,6 +11,13 @@ jobs:
         with:
           node-version: 12.x
       - name: Checkout repository
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
+      - name: Get file changes
+        uses: trilom/file-changes-action@v1.2.3
+        with:
+          output: ' '
+      - name: Echo file changes
+        run: |
+          echo Changed files: ${{ steps.get_file_changes.outputs.files }}
       - name: Test
-        run: node .github/test.js
+        run: npm run test
