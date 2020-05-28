@@ -17,8 +17,5 @@ jobs:
         uses: trilom/file-changes-action@v1.2.4
         with:
           output: ' '
-      - name: Echo file changes
-        run: |
-          echo Changed files: ${{ steps.get_file_changes.outputs.files }}
       - name: Test
         run: npm run test -- ${{ steps.get_file_changes.outputs.files }}
