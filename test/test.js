@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const assert = require('assert');
 const testData = 'langs';
+console.log(process.argv);
 let file = fs.readFileSync(path.join('langs', 'en.json'), "utf8");
 const en = Object.entries(JSON.parse(file).strings);
 let failed = false;
