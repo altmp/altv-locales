@@ -1,8 +1,24 @@
 const fs = require('fs');
 const path = require('path');
 const assert = require('assert');
-const testData = 'langs';
-console.log(process.argv);
+const dirPath = "langs";
+const args = process.argv.slice(2);
+let files = [];
+if(args.length == 0) {
+  for(const filename of fs.readdirSync(dirPath)) {
+    const filePath = path.join(dirPath, filename);
+    if(fs.lstatSync(filePath).isDirectory()) continue;
+    const ext = filename.split('.').slice(1).join('.');
+    if(ext !== "json") continue;
+    files.push(filename);
+  }
+} else {
+  for(const filePath of args) {
+  	if(!filePath.startsWith(dirPath)) continue;
+  	files.push(path.basename(filePath));
+  }
+}
+console.log(files);
 let file = fs.readFileSync(path.join('langs', 'en.json'), "utf8");
 const en = Object.entries(JSON.parse(file).strings);
 let failed = false;
