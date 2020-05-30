@@ -18,7 +18,7 @@ if(args.length == 0) {
     files.push(path.basename(filePath));
   }
 }
-let file = fs.readFileSync(path.join('langs', 'en.json'), "utf8");
+let file = fs.readFileSync(path.join(langFolder, 'en.json'), "utf8");
 const tmpl = Object.entries(JSON.parse(file).strings);
 let failed = false;
 for(const filename of files) {
@@ -44,8 +44,8 @@ for(const filename of files) {
         for(const elem of diff) {
             const actual = elem.actual;
             const expected = elem.expected;
-            console.log(`  \x1b[31m-    "${actual[0]}": "${actual[1]}"\x1b[0m`);
-            console.log(`  \x1b[32m+    "${expected[0]}": "${actual[1]}"\x1b[0m`);
+            console.log(`  \x1b[31m-\t"${actual[0]}": "${actual[1]}"\x1b[0m`);
+            console.log(`  \x1b[32m+\t"${expected[0]}": "${actual[1]}"\x1b[0m`);
         }
         console.log(`  \x1b[32m+ expected\x1b[0m \x1b[31m- actual\x1b[0m`);
         console.log(`  \x1b[31mError: File contents differ.\x1b[0m`);
