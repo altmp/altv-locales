@@ -71,6 +71,9 @@
     "NOTHING_HERE": "Ничего не найдено",
     "LOADING": "Загрузка...",
     "FAILED_TO_LOAD_SERVERS": "Не удалось загрузить список серверов",
-    "EMPTY_HERE": "Пока что здесь пусто"
+    "EMPTY_HERE": "Пока что здесь пусто",
+    "DISCONNECTED": "Соединение разорвано",
+    "TIMED_OUT": "Таймаут",
+    "SERVER_NOT_RESPONDING": "Сервер не отвечает"
   }
 }
