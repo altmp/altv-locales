@@ -71,6 +71,9 @@
     "NOTHING_HERE": "Rien par ici",
     "LOADING": "Chargement...",
     "FAILED_TO_LOAD_SERVERS": "Le chargement des serveurs a échoué",
-    "EMPTY_HERE": "Rien par ici. Pourtant."
+    "EMPTY_HERE": "Rien par ici. Pourtant.",
+    "DISCONNECTED": "Déconnecté",
+    "TIMED_OUT": "Connexion interrompue après le délai",
+    "SERVER_NOT_RESPONDING": "Serveur ne répond pas"
   }
 }
