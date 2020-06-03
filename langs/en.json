@@ -74,6 +74,7 @@
     "EMPTY_HERE": "It's empty here. Yet.",
     "DISCONNECTED": "Disconnected",
     "TIMED_OUT": "Timed out",
-    "SERVER_NOT_RESPONDING": "Server not responding"
+    "SERVER_NOT_RESPONDING": "Server not responding",
+    "KICKED_OUT": "You've been kicked from the server"
   }
 }

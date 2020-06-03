@@ -74,6 +74,7 @@
     "EMPTY_HERE": "Пока что здесь пусто",
     "DISCONNECTED": "Соединение разорвано",
     "TIMED_OUT": "Таймаут",
-    "SERVER_NOT_RESPONDING": "Сервер не отвечает"
+    "SERVER_NOT_RESPONDING": "Сервер не отвечает",
+    "KICKED_OUT": "Вы были кикнуты"
   }
 }
