@@ -56,7 +56,7 @@
     "REFUSED_BY_SERVER": "Die Verbindung wurde vom Server verweigert",
     "EARLY_AUTH_FAILED": "Die vorzeitige Autorisierung ist fehlgeschlagen",
     "HTTP_SERVER_CONNECT_FAILED": "Es konnte keine Verbindung zum HTTP Server hergestellt werden",
-    "RESOURCE_DOWNLOAD_FAILED": "Eine Ressource konnte nicht heruntergeladen wnerden",
+    "RESOURCE_DOWNLOAD_FAILED": "Eine Ressource konnte nicht heruntergeladen werden",
     "RESOURCE_CHECK_FAILED": "Der Integritätscheck einer Ressource ist fehlgeschlagen",
     "CHANGE_NICKNAME": "Nutzername ändern",
     "CONNECTING": "Verbindung wird hergestellt",
