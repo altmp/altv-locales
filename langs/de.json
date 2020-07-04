@@ -71,7 +71,7 @@
     "NOTHING_HERE": "Hier gibt's nichts zu sehen",
     "LOADING": "Lädt...",
     "FAILED_TO_LOAD_SERVERS": "Laden der Server ist fehlgeschlagen",
-    "EMPTY_HERE": "Es ist leer hier. Bis jetzt."
+    "EMPTY_HERE": "Es ist leer hier. Bis jetzt.",
     "DISCONNECTED": "Verbindung getrennt",
     "TIMED_OUT": "Zeitüberschreitung",
     "SERVER_NOT_RESPONDING": "Server antwortet nicht",
