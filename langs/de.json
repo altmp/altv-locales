@@ -1,7 +1,7 @@
 {
   "name": "Deutsch",
   "strings": {
-    "HOME": "Home",
+    "HOME": "Startseite",
     "WELCOME_TO": "Willkommen bei",
     "RECENT_SERVERS": "Letzte Server",
     "PLAYERS_ONLINE": "Spieler online",
@@ -72,5 +72,9 @@
     "LOADING": "Lädt...",
     "FAILED_TO_LOAD_SERVERS": "Laden der Server ist fehlgeschlagen",
     "EMPTY_HERE": "Es ist leer hier. Bis jetzt."
+    "DISCONNECTED": "Verbindung getrennt",
+    "TIMED_OUT": "Zeitüberschreitung",
+    "SERVER_NOT_RESPONDING": "Server antwortet nicht",
+    "KICKED_OUT": "Du wurdest vom Server gekickt"
   }
 }
