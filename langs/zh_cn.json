@@ -75,6 +75,7 @@
     "DISCONNECTED": "连接断开",
     "TIMED_OUT": "超时",
     "SERVER_NOT_RESPONDING": "服务器没有响应",
-    "KICKED_OUT": "你被踢出了服务器"
+    "KICKED_OUT": "你被踢出了服务器",
+    "OTHER_SERVERS": "其他服务器"
   }
 }
