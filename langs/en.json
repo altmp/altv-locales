@@ -75,6 +75,7 @@
     "DISCONNECTED": "Disconnected",
     "TIMED_OUT": "Timed out",
     "SERVER_NOT_RESPONDING": "Server not responding",
-    "KICKED_OUT": "You've been kicked from the server"
+    "KICKED_OUT": "You've been kicked from the server",
+    "OTHER_SERVERS": "Other servers"
   }
 }
