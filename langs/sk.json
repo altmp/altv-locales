@@ -22,7 +22,7 @@
     "LOCKED": "Zamknutý",
     "SERVER_NAME": "Názov servera",
     "PLAYERS": "Hráči",
-    "GAMEMODE": "Herní mód",
+    "GAMEMODE": "Herný mód",
     "PING": "Ping",
     "WEBSITE": "Webová stránka",
     "FAVORITE_SERVERS": "Obľúbené servery",
@@ -68,7 +68,7 @@
     "OPENSOURCE_LIBS_FULL": "V nasledujúcom texte sa odkazuje na softvér tretích strán, ktorý sa v častiach používa v alt:V Multiplayer. Ďakujeme komunite otvorených zdrojov za všetky ich príspevky.",
     "DEVELOPERS_AND_CONTRIBUTORS": "Vývojári a prispievatelia",
     "SERVER_OFFLINE": "Server je offline",
-    "NOTHING_HERE": "Nič tu nie je,"
+    "NOTHING_HERE": "Nič tu nie je",
     "LOADING": "Načítava sa ...",
     "FAILED_TO_LOAD_SERVERS": "Nepodarilo sa načítať servery",
     "EMPTY_HERE": "Je tu prázdno. Zatiaľ."

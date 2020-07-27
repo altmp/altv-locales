@@ -41,6 +41,7 @@
     "VOICE_ACTIVATION": "Activación por voz",
     "INPUT_VOLUME": "Volumen de entrada",
     "INPUT_SENSITIVITY": "Sensibilidad de entrada",
+    "PUSH_TO_TALK_KEY": "Tecla pulsar para hablar",
     "OUTPUT_VOLUME": "Volumen de salida",
     "CONNECTION_FAILED": "Conexión fallida",
     "LOST_CONNECTION": "Conexión perdida con el servidor",

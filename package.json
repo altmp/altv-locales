@@ -1,0 +1,19 @@
+{
+  "name": "altv-locales",
+  "version": "1.0.0",
+  "description": "This repository contains locales for alt:V Multiplayer and appropriate flags.",
+  "main": "",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altmp/altv-locales.git"
+  },
+  "author": "altMP Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altmp/altv/issues"
+  },
+  "homepage": "https://github.com/altmp/altv-locales#readme"
+}
