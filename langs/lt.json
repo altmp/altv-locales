@@ -39,10 +39,10 @@
     "NOISE_SUPPRESSION": "Triukšmo slopinimas",
     "DEFAULT": "Numatytasis",
     "VOICE_ACTIVATION": "Balso aktyvavimo įvestis",
-    "INPUT_VOLUME": "Įvesties garsas",
+    "INPUT_VOLUME": "Įvesties garso stiprumas",
     "INPUT_SENSITIVITY": "Mikrafono jautrumas",
-    "PUSH_TO_TALK_KEY": "„Push-to-talk“ klavišas",
-    "OUTPUT_VOLUME": "Išvesties garsas",
+    "PUSH_TO_TALK_KEY": "Spausti-kad-kablėti klavišas",
+    "OUTPUT_VOLUME": "Išvesties garso stiprumas",
     "CONNECTION_FAILED": "Nepavyko prisijungti",
     "LOST_CONNECTION": "Prarastas ryšys su serveriu",
     "UNKNOWN_ERROR": "Nežinoma klaida",
@@ -65,12 +65,17 @@
     "PASSWORD": "Slaptažodis",
     "PASSWORD_IF_NEEDED": "Slaptažodis (jei reikia)",
     "OPENSOURCE_LIBS": "Mūsų naudojamos bibliotekos",
-    "DEVELOPERS_AND_CONTRIBUTORS": "Kūrėjai ir pagalbininkai",
     "OPENSOURCE_LIBS_FULL": "Tai išdėsto atribucijos pranešimus trečiosios šalies programinei įrangai, kuri gali būti įtraukiama „alt:V Multiplayer“ aplikacijoje. Dėkojame „open-source“ bendruomenei už visą jų pagalbą.",
+    "DEVELOPERS_AND_CONTRIBUTORS": "Kūrėjai ir pagalbininkai",
     "SERVER_OFFLINE": "Serveris išjungtas",
     "NOTHING_HERE": "Nieko čia nėra",
     "LOADING": "Kraunama...",
     "FAILED_TO_LOAD_SERVERS": "Nepavyo įkelti serverių",
-    "EMPTY_HERE": "Čia tuščia. Vis dėlto."
+    "EMPTY_HERE": "Čia tuščia. Vis dėlto.",
+    "DISCONNECTED": "Atjungtas",
+    "TIMED_OUT": "Laikas baigėsi",
+    "SERVER_NOT_RESPONDING": "Serveris neatsako",
+    "KICKED_OUT": "Jus išmetė iš serverio",
+    "OTHER_SERVERS": "Kiti serveriai"
   }
 }
