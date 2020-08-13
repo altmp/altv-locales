@@ -75,6 +75,7 @@
     "DISCONNECTED": "Verbindung getrennt",
     "TIMED_OUT": "Zeitüberschreitung",
     "SERVER_NOT_RESPONDING": "Server antwortet nicht",
-    "KICKED_OUT": "Du wurdest vom Server gekickt"
+    "KICKED_OUT": "Du wurdest vom Server gekickt",
+    "OTHER_SERVERS": "Andere Server",
   }
 }
