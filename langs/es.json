@@ -72,5 +72,10 @@
     "Loading...": "Cargando...",
     "Failed to load servers": "Fallo al cargar servidores.",
     "It's empty here. Yet.": "Nada por aquí. Aún."
+    "Disconnected": "Deconectado",
+    "Timed out": "El tiempo de espera ha caducado",
+    "Server not responding": "El servidor no responde",
+    "You've been kicked from the server": "Has sido expulsado del servidor",
+    "Other servers": "Otros servidores"
   }
 }
