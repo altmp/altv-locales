@@ -76,6 +76,7 @@
     "TIMED_OUT": "Timed out",
     "SERVER_NOT_RESPONDING": "Server not responding",
     "KICKED_OUT": "You've been kicked from the server",
-    "OTHER_SERVERS": "Other servers"
+    "OTHER_SERVERS": "Other servers",
+    "AUTO_INPUT_VOLUME": "Automatically determine input volume"
   }
 }
