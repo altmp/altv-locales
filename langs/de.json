@@ -76,6 +76,7 @@
     "TIMED_OUT": "Zeitüberschreitung",
     "SERVER_NOT_RESPONDING": "Server antwortet nicht",
     "KICKED_OUT": "Du wurdest vom Server gekickt",
-    "OTHER_SERVERS": "Weitere Server"
+    "OTHER_SERVERS": "Weitere Server",
+    "AUTO_INPUT_VOLUME": "Sprachlautstärke automatisch anpassen"
   }
 }
