@@ -40,7 +40,7 @@
     "DEFAULT": "Numatytasis",
     "VOICE_ACTIVATION": "Balso aktyvavimo įvestis",
     "INPUT_VOLUME": "Įvesties garso stiprumas",
-    "INPUT_SENSITIVITY": "Mikrafono jautrumas",
+    "INPUT_SENSITIVITY": "Įvesties jautrumas",
     "PUSH_TO_TALK_KEY": "Spausti-kad-kablėti klavišas",
     "OUTPUT_VOLUME": "Išvesties garso stiprumas",
     "CONNECTION_FAILED": "Nepavyko prisijungti",
@@ -76,6 +76,7 @@
     "TIMED_OUT": "Laikas baigėsi",
     "SERVER_NOT_RESPONDING": "Serveris neatsako",
     "KICKED_OUT": "Jus išmetė iš serverio",
-    "OTHER_SERVERS": "Kiti serveriai"
+    "OTHER_SERVERS": "Kiti serveriai",
+    "AUTO_INPUT_VOLUME": "Automatiškai nustatyti įvesties stiprumą"
   }
 }
