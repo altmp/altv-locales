@@ -19,7 +19,7 @@
     "HIDE": "Cacher",
     "FULL": "Complet",
     "EMPTY": "Vide",
-    "LOCKED": "Verouillé",
+    "LOCKED": "Verrouillé",
     "SERVER_NAME": "Nom du serveur",
     "PLAYERS": "Joueurs",
     "GAMEMODE": "Mode de jeu",
@@ -65,15 +65,18 @@
     "PASSWORD": "Mot de passe",
     "PASSWORD_IF_NEEDED": "Mot de passe (si nécessaire)",
     "OPENSOURCE_LIBS": "Librairies que nous utilisons",
-    "OPENSOURCE_LIBS_FULL": "Ce qui suit présente les avis de attribution pour les logiciels tiers qui peuvent partiellement contenu dans de alt:V Multiplayer. Nous remercions la communauté open source pour toutes ses contributions.",
+    "OPENSOURCE_LIBS_FULL": "Ce qui suit présente les mentions d'attribution pour les logiciels tiers qui peuvent être contenus en partie dans alt:V Multiplayer. Nous remercions la communauté open source pour toutes ses contributions.",
     "DEVELOPERS_AND_CONTRIBUTORS": "Développeurs et contributeurs",
     "SERVER_OFFLINE": "Serveur hors ligne",
     "NOTHING_HERE": "Rien par ici",
     "LOADING": "Chargement...",
-    "FAILED_TO_LOAD_SERVERS": "Le chargement des serveurs a échoué",
+    "FAILED_TO_LOAD_SERVERS": "Echec du chargement des serveurs",
     "EMPTY_HERE": "Rien par ici. Pourtant.",
     "DISCONNECTED": "Déconnecté",
     "TIMED_OUT": "Connexion interrompue après le délai",
-    "SERVER_NOT_RESPONDING": "Serveur ne répond pas"
+    "SERVER_NOT_RESPONDING": "Le serveur ne répond pas",
+    "KICKED_OUT": "Vous avez été exclu du serveur.",
+    "OTHER_SERVERS": "Autres serveurs",
+    "AUTO_INPUT_VOLUME": "Déterminer automatiquement le volume d'entrée"
   }
 }
