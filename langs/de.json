@@ -78,6 +78,6 @@
     "KICKED_OUT": "Du wurdest vom Server gekickt",
     "OTHER_SERVERS": "Weitere Server",
     "AUTO_INPUT_VOLUME": "Sprachlautstärke automatisch anpassen",
-    "INVALID_CDN_URL": "Der CDN stimmt nicht mit dem vom Server überein"
+    "INVALID_CDN_URL": "Der CDN stimmt nicht mit dem CDN des Servers überein"
   }
 }
