@@ -76,6 +76,7 @@
     "TIMED_OUT": "El tiempo de espera ha caducado",
     "SERVER_NOT_RESPONDING": "El servidor no responde",
     "KICKED_OUT": "Has sido expulsado del servidor",
-    "OTHER_SERVERS": "Otros servidores"
+    "OTHER_SERVERS": "Otros servidores",
+    "AUTO_INPUT_VOLUME": "Ajustar el volumen de voz automáticamente"
   }
 }
