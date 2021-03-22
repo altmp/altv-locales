@@ -78,6 +78,6 @@
     "KICKED_OUT": "Byl jste vyhozen ze serveru",
     "OTHER_SERVERS": "Ostatní servery",
     "AUTO_INPUT_VOLUME": "Automaticky stanovit hlasitost vstupu",
-    "INVALID_CDN_URL": "Cdn se neschoduje se serverovým cdn"
+    "INVALID_CDN_URL": "cdn se neshoduje se serverovým cdn"
   }
 }
