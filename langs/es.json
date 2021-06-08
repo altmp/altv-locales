@@ -71,7 +71,7 @@
     "NOTHING_HERE": "Nada por aquí",
     "LOADING": "Cargando...",
     "FAILED_TO_LOAD_SERVERS": "Fallo al cargar servidores",
-    "EMPTY_HERE": "Nada por aquí. Aún.",
+    "EMPTY_HERE": "Nada por aquí, aún.",
     "DISCONNECTED": "Desconectado",
     "TIMED_OUT": "El tiempo de espera ha caducado",
     "SERVER_NOT_RESPONDING": "El servidor no responde",
