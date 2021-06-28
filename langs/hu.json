@@ -3,13 +3,13 @@
   "strings": {
     "HOME": "Főoldal",
     "WELCOME_TO": "Üdvözlünk a",
-    "RECENT_SERVERS": "Korábbi csatlakozások",
+    "RECENT_SERVERS": "Legutóbbi szerverek",
     "PLAYERS_ONLINE": "Elérhető játékosok",
     "SERVERS_ONLINE": "Elérhető szerverek",
     "SERVERS": "Szerverek",
     "FAVORITES": "Kedvencek",
-    "HISTORY": "Eddigi szerverek",
-    "PROMOTED": "Promotált",
+    "HISTORY": "Legutóbbi szerverek",
+    "PROMOTED": "Támogatott",
     "DIRECT_CONNECT": "Közvetlen csatlakozás",
     "ABOUT": "Rólunk",
     "DISCONNECT": "Lecsatlakozás",
@@ -19,7 +19,7 @@
     "HIDE": "Szűrés",
     "FULL": "Tele",
     "EMPTY": "Üres",
-    "LOCKED": "Lezárt",
+    "LOCKED": "Zárolt",
     "SERVER_NAME": "Szerver név",
     "PLAYERS": "Játékosok",
     "GAMEMODE": "Játékmód",
@@ -31,7 +31,7 @@
     "CONNECT": "Csatlakozás",
     "NICKNAME": "Játékbeli név",
     "SERVERLIST": "Szerver lista",
-    "PROMOTED_ON_TOP": "Promotált szerverek a lista legtetején",
+    "PROMOTED_ON_TOP": "Támogatott szerverek a lista legtetején",
     "VOICE_CHAT": "Hang alapú kommunikáció",
     "INPUT_DEVICE": "Bemeneti eszköz",
     "OUTPUT_DEVICE": "Kimeneti eszköz",
@@ -41,7 +41,7 @@
     "VOICE_ACTIVATION": "Hang aktiválás",
     "INPUT_VOLUME": "Bemeneti hangerő",
     "INPUT_SENSITIVITY": "Bemeneti eszköz érzékenység",
-    "PUSH_TO_TALK_KEY": "Push-to-talk billentyű",
+    "PUSH_TO_TALK_KEY": "Push-to-talk gomb",
     "OUTPUT_VOLUME": "Kimeneti hangerő",
     "CONNECTION_FAILED": "Sikertelen csatlakozás",
     "LOST_CONNECTION": "A kapcsolat megszakadt",
@@ -78,6 +78,6 @@
     "KICKED_OUT": "Ki lettél rúgva a szerverről",
     "OTHER_SERVERS": "Egyéb szerverek",
     "AUTO_INPUT_VOLUME": "Bemeneti érzékenység automatikus megállapítása",
-    "INVALID_CDN_URL": "A cdn nem egyezik a szerver cdn-jével"
+    "INVALID_CDN_URL": "A megadott cdn nem egyezik a szerver cdn-jével"
   }
 }
