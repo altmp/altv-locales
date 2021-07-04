@@ -77,6 +77,7 @@
     "SERVER_NOT_RESPONDING": "Sunucu yanıt vermiyor",
     "KICKED_OUT": "Sunucu tarafından atıldın",
     "OTHER_SERVERS": "Diğer sunucular",
-    "AUTO_INPUT_VOLUME": "Giriş değerini belirle"
+    "AUTO_INPUT_VOLUME": "Giriş değerini belirle",
+    "INVALID_CDN_URL": "CDN, sunucu CDN adresiyle uyuşmuyor"
   }
 }
