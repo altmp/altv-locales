@@ -63,7 +63,7 @@
     "ABORT": "İptal",
     "CLOSE": "Kapat",
     "PASSWORD": "Şifre",
-    "PASSWORD_IF_NEEDED": "Şifre (gerekiyorsa)",
+    "PASSWORD_IF_NEEDED": "Şifre (varsa)",
     "OPENSOURCE_LIBS": "Kullandığımız kütüphaneler",
     "OPENSOURCE_LIBS_FULL": "Aşağıda gördüğünüz kaynaklar alt:V'nin kullandığı açık kaynak kodlu üçüncü taraf yazılımlardır. Tüm katkılarından dolayı açık kaynak topluluğuna teşekkür ediyoruz.",
     "DEVELOPERS_AND_CONTRIBUTORS": "Geliştiriciler ve Katkı Sağlayanlar",
@@ -71,6 +71,12 @@
     "NOTHING_HERE": "Buralarda hiçbir şey yok",
     "LOADING": "Yükleniyor...",
     "FAILED_TO_LOAD_SERVERS": "Sunucuları yükleme başarısız",
-    "EMPTY_HERE": "Buralar boş, tıpkı kalbim gibi."
+    "EMPTY_HERE": "Buralar boş.",
+    "DISCONNECTED": "Bağlantı koptu",
+    "TIMED_OUT": "Oyundan düştün",
+    "SERVER_NOT_RESPONDING": "Sunucu yanıt vermiyor",
+    "KICKED_OUT": "Sunucu tarafından atıldın",
+    "OTHER_SERVERS": "Diğer sunucular",
+    "AUTO_INPUT_VOLUME": "Giriş değerini belirle"
   }
 }

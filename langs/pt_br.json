@@ -74,6 +74,10 @@
       "EMPTY_HERE": "Está vazio aqui. Por enquanto.",
       "DISCONNECTED": "Desconectado",
       "TIMED_OUT": "Falha na conexão",
-      "SERVER_NOT_RESPONDING": "Servidor não está respondendo"
+      "SERVER_NOT_RESPONDING": "Servidor não está respondendo",
+      "KICKED_OUT": "Você foi expulso do servidor",
+      "OTHER_SERVERS": "Outros servidores",
+      "AUTO_INPUT_VOLUME": "Determinar o volume do microfone automaticamente",
+      "INVALID_CDN_URL": "O cdn não equivale ao cdn do servidor"
     }
   }

@@ -41,6 +41,7 @@
     "VOICE_ACTIVATION": "Hang aktiválás",
     "INPUT_VOLUME": "Bemeneti hangerő",
     "INPUT_SENSITIVITY": "Bemeneti eszköz érzékenység",
+    "PUSH_TO_TALK_KEY": "Push-to-talk billentyű",
     "OUTPUT_VOLUME": "Kimeneti hangerő",
     "CONNECTION_FAILED": "Sikertelen csatlakozás",
     "LOST_CONNECTION": "A kapcsolat megszakadt",
@@ -49,7 +50,7 @@
     "DEBUG_NOT_ALLOWED": "Hibakeresési mód nem engedélyezett a szerveren",
     "WRONG_BRANCH": "A szerver egy másik fejlesztési verziót használ",
     "WRONG_STABLE_BUILD": "A szerver egy másik alt:V verziót használ",
-    "WRONG_BETA_BUILD": "A szerver egy másik alt:V verziót használ. A frissítéshez indísd újra a játékot",
+    "WRONG_BETA_BUILD": "A szerver egy másik alt:V verziót használ. A frissítéshez indítsd újra a játékot",
     "CLIENT_OUTDATED": "A szerver egy újabb alt:V verziót használ",
     "SERVER_OUTDATED": "A szerver egy régebbi alt:V verziót használ",
     "REFUSED_BY_SERVER": "A szerver megtagadta a kapcsolatot",
@@ -62,7 +63,7 @@
     "ABORT": "Mégse",
     "CLOSE": "Bezárás",
     "PASSWORD": "Jelszó",
-    "PASSWORD_IF_NEEDED": "Jelszó (ha van)",
+    "PASSWORD_IF_NEEDED": "Jelszó (ha szükséges)",
     "OPENSOURCE_LIBS": "Szoftverek amiket használunk",
     "OPENSOURCE_LIBS_FULL": "Az alábbi harmadik féltől származó szoftverek az alt:V fejlesztését segítik. Köszönjük a közösség minden közreműködőjének.",
     "DEVELOPERS_AND_CONTRIBUTORS": "Fejlesztők és közreműködők",
@@ -70,6 +71,13 @@
     "NOTHING_HERE": "Nincs itt semmi",
     "LOADING": "Betöltés...",
     "FAILED_TO_LOAD_SERVERS": "A szerverek betöltése nem sikerült",
-    "EMPTY_HERE": "Még nem csatlakoztál szerverre."
+    "EMPTY_HERE": "Még nem csatlakoztál szerverre.",
+    "DISCONNECTED": "Lecsatlakoztatva",
+    "TIMED_OUT": "Időtúllépés",
+    "SERVER_NOT_RESPONDING": "A szerver nem válaszol",
+    "KICKED_OUT": "Ki lettél rúgva a szerverről",
+    "OTHER_SERVERS": "Egyéb szerverek",
+    "AUTO_INPUT_VOLUME": "Bemeneti érzékenység automatikus megállapítása",
+    "INVALID_CDN_URL": "A cdn nem egyezik a szerver cdn-jével"
   }
 }

@@ -71,6 +71,13 @@
     "NOTHING_HERE": "هیچی اینجا نیست",
     "LOADING": "در حال بارگذاری...",
     "FAILED_TO_LOAD_SERVERS": "بارگذاری سرور ها ناموفق بود",
-    "EMPTY_HERE": "اینجا خالی است. فعلا."
+    "EMPTY_HERE": "اینجا خالی است. فعلا.",
+    "DISCONNECTED": "قطع شد.",
+    "TIMED_OUT": "تایم اوت",
+    "SERVER_NOT_RESPONDING": "سرور پاسخگو نیست",
+    "KICKED_OUT": "شما از سرور کیک شدید",
+    "OTHER_SERVERS": "دیگر سرور ها",
+    "AUTO_INPUT_VOLUME": "تنظیم خودکار ولوم ورودی",
+    "INVALID_CDN_URL": "سی دی ان با سی دی ان سرور یکی نیست"
   }
 }
