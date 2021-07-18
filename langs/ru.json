@@ -77,6 +77,8 @@
     "SERVER_NOT_RESPONDING": "Сервер не отвечает",
     "KICKED_OUT": "Вы были кикнуты",
     "OTHER_SERVERS": "Другие сервера",
-    "AUTO_INPUT_VOLUME": "Автоматическая громкость микрофона"
+    "AUTO_INPUT_VOLUME": "Автоматическая громкость микрофона",
+    "DEBUG": "Отладка",
+    "USE_EXTERNAL_CONSOLE": "Открывать коносоль в отдельном окне"
   }
 }

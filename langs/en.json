@@ -78,6 +78,8 @@
     "KICKED_OUT": "You've been kicked from the server",
     "OTHER_SERVERS": "Other servers",
     "AUTO_INPUT_VOLUME": "Automatically determine input volume",
-    "INVALID_CDN_URL": "The cdn doesn't match the server cdn"
+    "INVALID_CDN_URL": "The cdn doesn't match the server cdn",
+    "DEBUG": "Debug",
+    "USE_EXTERNAL_CONSOLE": "Open console in a separate window"
   }
 }
