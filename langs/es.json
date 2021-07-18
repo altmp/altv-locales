@@ -77,6 +77,7 @@
     "SERVER_NOT_RESPONDING": "El servidor no responde",
     "KICKED_OUT": "Has sido expulsado del servidor",
     "OTHER_SERVERS": "Otros servidores",
-    "AUTO_INPUT_VOLUME": "Ajustar el volumen de voz automáticamente"
+    "AUTO_INPUT_VOLUME": "Ajustar el volumen de voz automáticamente",
+    "USE_EXTERNAL_CONSOLE": "Abrir la consola en una ventana separada"
   }
 }

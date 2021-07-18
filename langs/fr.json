@@ -78,6 +78,7 @@
     "KICKED_OUT": "Vous avez été exclu du serveur.",
     "OTHER_SERVERS": "Autres serveurs",
     "AUTO_INPUT_VOLUME": "Déterminer automatiquement le volume d'entrée",
-    "INVALID_CDN_URL": "Le cdn ne correspond pas au cdn du serveur"
+    "INVALID_CDN_URL": "Le cdn ne correspond pas au cdn du serveur",
+    "USE_EXTERNAL_CONSOLE": "Ouvrir la console dans une fenêtre séparée"
   }
 }
