@@ -79,6 +79,9 @@
     "OTHER_SERVERS": "Другие сервера",
     "AUTO_INPUT_VOLUME": "Автоматическая громкость микрофона",
     "DEBUG": "Отладка",
-    "USE_EXTERNAL_CONSOLE": "Открывать коносоль в отдельном окне"
+    "USE_EXTERNAL_CONSOLE": "Открывать консоль в отдельном окне",
+    "SERVER_CACHE_SETTINGS": "Управление файлами серверов",
+    "DELETE_RESOURCES": "Удалить ресурсы",
+    "DELETE_DATA": "Удалить данные"
   }
 }
