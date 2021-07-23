@@ -80,7 +80,7 @@
     "AUTO_INPUT_VOLUME": "Автоматическая громкость микрофона",
     "DEBUG": "Отладка",
     "USE_EXTERNAL_CONSOLE": "Открывать консоль в отдельном окне",
-    "SERVER_CACHE_SETTINGS": "Управление файлами серверов",
+    "SERVER_DATA_SETTINGS": "Управление файлами серверов",
     "DELETE_RESOURCES": "Удалить ресурсы",
     "DELETE_DATA": "Удалить данные"
   }
