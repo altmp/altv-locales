@@ -10,7 +10,7 @@
     "FAVORITES": "收藏",
     "HISTORY": "历史",
     "PROMOTED": "推广",
-    "DIRECT_CONNECT": "直连",
+    "DIRECT_CONNECT": "自定义连接",
     "ABOUT": "关于",
     "DISCONNECT": "连接断开",
     "SETTINGS": "设置",
@@ -31,7 +31,7 @@
     "CONNECT": "连接",
     "NICKNAME": "昵称",
     "SERVERLIST": "服务器列表",
-    "PROMOTED_ON_TOP": "固定服务器在顶部",
+    "PROMOTED_ON_TOP": "显示推荐服务器",
     "VOICE_CHAT": "语音聊天",
     "INPUT_DEVICE": "输入设备",
     "OUTPUT_DEVICE": "输出设备",
@@ -63,7 +63,7 @@
     "ABORT": "中止",
     "CLOSE": "关闭",
     "PASSWORD": "密码",
-    "PASSWORD_IF_NEEDED": "密码 (选填)",
+    "PASSWORD_IF_NEEDED": "(选填) 密码",
     "OPENSOURCE_LIBS": "我们使用的第三方库",
     "OPENSOURCE_LIBS_FULL": "以下列出了第三方软件的归属通知，这些软件可能包含在alt:V多人游戏；我们感谢开源社区的所有贡献。",
     "DEVELOPERS_AND_CONTRIBUTORS": "开发者和贡献者",
@@ -76,6 +76,10 @@
     "TIMED_OUT": "超时",
     "SERVER_NOT_RESPONDING": "服务器无响应",
     "KICKED_OUT": "你被请离了服务器",
-    "OTHER_SERVERS": "其他服务器"
+    "OTHER_SERVERS": "其他服务器",
+    "AUTO_INPUT_VOLUME": "自动控制语音音量",
+    "INVALID_CDN_URL": "CDN链接与服务器CDN链接不匹配",
+    "DEBUG": "调试(Debug)",
+    "USE_EXTERNAL_CONSOLE": "在单独窗口打开控制台"
   }
 }
