@@ -72,11 +72,12 @@
     "LOADING": "Kraunama...",
     "FAILED_TO_LOAD_SERVERS": "Nepavyo įkelti serverių",
     "EMPTY_HERE": "Čia tuščia. Vis dėlto.",
-    "DISCONNECTED": "Atjungtas",
+    "DISCONNECTED": "Atsijungta",
     "TIMED_OUT": "Laikas baigėsi",
     "SERVER_NOT_RESPONDING": "Serveris neatsako",
     "KICKED_OUT": "Jus išmetė iš serverio",
     "OTHER_SERVERS": "Kiti serveriai",
-    "AUTO_INPUT_VOLUME": "Automatiškai nustatyti įvesties stiprumą"
+    "AUTO_INPUT_VOLUME": "Automatiškai nustatyti įvesties stiprumą",
+    "INVALID_CDN_URL": "CDN (liet. Turinio transliavimo tinlas) nesutampa su serverio CDN"
   }
 }
