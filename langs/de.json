@@ -79,6 +79,10 @@
     "OTHER_SERVERS": "Weitere Server",
     "AUTO_INPUT_VOLUME": "Sprachlautstärke automatisch anpassen",
     "INVALID_CDN_URL": "Das CDN stimmt nicht mit dem CDN des Servers überein",
-    "USE_EXTERNAL_CONSOLE": "Konsole in einem separaten Fenster öffnen"
+    "DEBUG": "Debug",
+    "USE_EXTERNAL_CONSOLE": "Konsole in einem separaten Fenster öffnen",
+    "SERVER_DATA_SETTINGS": "Serverdaten verwalten",
+    "DELETE_RESOURCES": "Ressourcen löschen",
+    "DELETE_DATA": "Daten löschen"
   }
 }
