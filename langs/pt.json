@@ -39,6 +39,7 @@
     "WRONG_STABLE_BUILD": "O servidor está a executar uma versão diferente do alt:V",
     "WRONG_BETA_BUILD": "O servidor está a utilizar uma versão mais recente do alt:V. Reinicie o seu jogo para atualizar",
     "CLIENT_OUTDATED": "O servidor está a utilizar uma versão mais recente do alt:V",
-    "SERVER_OUTDATED": "O servidor está a utilizar uma versão mais antiga do alt:V"
+    "SERVER_OUTDATED": "O servidor está a utilizar uma versão mais antiga do alt:V",
+    "USE_EXTERNAL_CONSOLE": "Abrir a consola numa janela separada"
   }
 }
