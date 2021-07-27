@@ -8,12 +8,7 @@
     "DISCONNECT": "Адключыцца",
     "SETTINGS": "Налады",
     "EXIT": "Выхад",
-    "SERVER_BROWSER": "Браўзэр сервераў",
     "SEARCH": "Пошук",
-    "HIDE_FULL": "Схаваць поўныя",
-    "HIDE_EMPTY": "Схаваць пустыя",
-    "HIDE_LOCKED": "Схаваць заблакаваныя",
-    "UPDATE": "Абнаўленне",
     "SERVER_NAME": "Імя сервера",
     "PLAYERS": "Гульцы",
     "GAMEMODE": "Гульнявы рэжым",
@@ -49,7 +44,6 @@
     "CONNECTING": "Падлучэнне",
     "ABORT": "Перапыніць",
     "CLOSE": "Зачыниць",
-    "PASSWORD": "Пароль",
-    "LEAVE_EMPTY_IF_NONE": "Пакіньце пустым, калі няма"
+    "PASSWORD": "Пароль"
   }
 }
