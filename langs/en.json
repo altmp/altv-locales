@@ -83,6 +83,9 @@
     "USE_EXTERNAL_CONSOLE": "Open console in a separate window",
     "SERVER_DATA_SETTINGS": "Server data settings",
     "DELETE_RESOURCES": "Delete resources",
-    "DELETE_DATA": "Delete data"
+    "DELETE_DATA": "Delete data",
+    "CONFIRM_RESOURCE_DELETE": "Are you sure you want to remove {0} of resources?\nYou will have to download it again on next connect",
+    "CONFIRM_DATA_DELETE": "Are you sure you want to remove {0} of server data?\nThis might include saved login/password, settings, etc",
+    "CONFIRM": "Confirm"
   }
 }
