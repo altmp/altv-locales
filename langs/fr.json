@@ -79,6 +79,7 @@
     "OTHER_SERVERS": "Autres serveurs",
     "AUTO_INPUT_VOLUME": "Déterminer automatiquement le volume d'entrée",
     "INVALID_CDN_URL": "Le cdn ne correspond pas au cdn du serveur",
+    "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Ouvrir la console dans une fenêtre séparée",
     "SERVER_DATA_SETTINGS": "Paramètres des informations serveur",
     "DELETE_RESOURCES": "Supprimer les ressources",
