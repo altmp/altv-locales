@@ -62,7 +62,6 @@
     "CONNECTING": "ബന്ധിപ്പിക്കുന്നു",
     "ABORT": "ഉപേക്ഷിക്കുക",
     "CLOSE": "അടയ്‌ക്കുക",
-    "PASSWORD": "Password",
     "PASSWORD_IF_NEEDED": "പാസ്‌വേഡ് (ആവശ്യമെങ്കിൽ)",
     "OPENSOURCE_LIBS": "ഞങ്ങൾ ഉപയോഗിക്കുന്ന ലൈബ്രറികൾ",
     "OPENSOURCE_LIBS_FULL": "rce കമ്മ്യൂണിറ്റി അവരുടെ എല്ലാ സംഭാവനകൾക്കും.",

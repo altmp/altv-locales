@@ -8,12 +8,7 @@
     "DISCONNECT": "ตัดการเชื่อมต่อ",
     "SETTINGS": "ตั้งค่า",
     "EXIT": "ออก",
-    "SERVER_BROWSER": "รายการเซิร์ฟเวอร์",
     "SEARCH": "ค้นหา",
-    "HIDE_FULL": "ซ่อนเต็ม",
-    "HIDE_EMPTY": "ซ่อนว่าง",
-    "HIDE_LOCKED": "ซ่อนล็อค",
-    "UPDATE": "อัปเดต",
     "SERVER_NAME": "ชื่อเซิร์ฟเวอร์",
     "PLAYERS": "ผู้เล่น",
     "GAMEMODE": "เกมโหมด",
@@ -49,7 +44,6 @@
     "CONNECTING": "กำลังเชื่อมต่อ",
     "ABORT": "ยกเลิก",
     "CLOSE": "ปิด",
-    "PASSWORD": "รหัสผ่าน",
-    "LEAVE_EMPTY_IF_NONE": "ปล่อยว่างถ้าไม่มี"
+    "PASSWORD": "รหัสผ่าน"
   }
 }
