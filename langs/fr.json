@@ -79,6 +79,12 @@
     "OTHER_SERVERS": "Autres serveurs",
     "AUTO_INPUT_VOLUME": "Déterminer automatiquement le volume d'entrée",
     "INVALID_CDN_URL": "Le cdn ne correspond pas au cdn du serveur",
-    "USE_EXTERNAL_CONSOLE": "Ouvrir la console dans une fenêtre séparée"
+    "USE_EXTERNAL_CONSOLE": "Ouvrir la console dans une fenêtre séparée",
+    "SERVER_DATA_SETTINGS": "Paramètres des informations serveur",
+    "DELETE_RESOURCES": "Supprimer les ressources",
+    "DELETE_DATA": "Supprimer les informations serveur",
+    "CONFIRM_RESOURCE_DELETE": "Êtes-vous sûr de vouloir supprimer {0} de ressources?\nVous devrez les télécharger à nouveau lors de votre prochaine connexion",
+    "CONFIRM_DATA_DELETE": "Êtes-vous sûr de vouloir supprimer {0} d'informations serveur?\nCela peut inclure les nom d'utilisateur, mot de passe, paramètres, etc",
+    "CONFIRM": "Confirmer"
   }
 }
