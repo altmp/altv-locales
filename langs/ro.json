@@ -42,7 +42,7 @@
     "INPUT_VOLUME": "Volumul de înregistrare",
     "INPUT_SENSITIVITY": "Sensitivitatea microfonului",
     "PUSH_TO_TALK_KEY": "Tasta de pe care vorbești (Push-to-talk)",
-    "OUTPUT_VOLUME": "Volum microfon",
+    "OUTPUT_VOLUME": "Volum de ieșiren",
     "CONNECTION_FAILED": "Conexiune Eșuată",
     "LOST_CONNECTION": "Conexiunea la server a fost pierdută",
     "UNKNOWN_ERROR": "Eroare necunoscută",
