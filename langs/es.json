@@ -78,6 +78,14 @@
     "KICKED_OUT": "Has sido expulsado del servidor",
     "OTHER_SERVERS": "Otros servidores",
     "AUTO_INPUT_VOLUME": "Ajustar el volumen de voz automáticamente",
-    "USE_EXTERNAL_CONSOLE": "Abrir la consola en una ventana separada"
+    "INVALID_CDN_URL": "El cdn no coincide con el cdn del servidor",
+    "DEBUG": "Debug",
+    "USE_EXTERNAL_CONSOLE": "Abrir la consola en una ventana separada",
+    "SERVER_DATA_SETTINGS": "Opciones de datos del servidor",
+    "DELETE_RESOURCES": "Eliminar recursos",
+    "DELETE_DATA": "Eliminar datos",
+    "CONFIRM_RESOURCE_DELETE": "¿Estás seguro de que quieres eliminar {0} de recursos?\nTendrás que descargarlos de nuevo la próxima vez que te conectes",
+    "CONFIRM_DATA_DELETE": "¿Estás seguro de que quieres eliminar {0} de datos de servidores?\nEsto podría incluir el usuario/clave guardados, opciones, etc",
+    "CONFIRM": "Confirmar"
   }
 }
