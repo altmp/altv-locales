@@ -78,6 +78,14 @@
     "KICKED_OUT": "Você foi expulso do servidor",
     "OTHER_SERVERS": "Outros servidores",
     "AUTO_INPUT_VOLUME": "Determinar o volume do microfone automaticamente",
-    "INVALID_CDN_URL": "O cdn não equivale ao cdn do servidor"
+    "INVALID_CDN_URL": "O cdn não equivale ao cdn do servidor",
+    "DEBUG": "Depuração",
+    "USE_EXTERNAL_CONSOLE": "Abrir o console em uma janela separada",
+    "SERVER_DATA_SETTINGS": "Configurações dos dados do server",
+    "DELETE_RESOURCES": "Excluir conteúdo",
+    "DELETE_DATA": "Excluir dados",
+    "CONFIRM_RESOURCE_DELETE": "Você tem certeza que deseja excluir {0} do conteúdo?\nVocê irá ter de baixá-lo novamente na próxima conexão",
+    "CONFIRM_DATA_DELETE": "Você tem certeza que deseja excluir {0} dos dados do server?\nIsso pode incluir login/senha, configurações, etc salvas",
+    "CONFIRM": "Confirmar"
   }
 }
