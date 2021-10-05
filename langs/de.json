@@ -86,6 +86,7 @@
     "DELETE_DATA": "Daten löschen",
     "CONFIRM_RESOURCE_DELETE": "Bist du dir sicher, dass du {0} an Ressourcen löschen möchtest?\nDu musst sie anschließend neu herunterladen.",
     "CONFIRM_DATA_DELETE": "Bist du dir sicher, dass du {0} an Serverdaten löschen möchtest?\nDas könnte auch gespeicherte Anmeldedaten/Passwörter, Einstellungen, usw. betreffen.",
-    "CONFIRM": "Bestätigen"
+    "CONFIRM": "Bestätigen",
+    "HELP": "Hilfe"
   }
 }
