@@ -79,6 +79,7 @@
     "OTHER_SERVERS": "Diğer sunucular",
     "AUTO_INPUT_VOLUME": "Giriş değerini belirle",
     "INVALID_CDN_URL": "CDN, sunucu CDN adresiyle uyuşmuyor",
+    "DEBUG": "Hata Ayıklama",
     "USE_EXTERNAL_CONSOLE": "Konsolu ayrı bir pencerede aç",
     "SERVER_DATA_SETTINGS": "Sunucu veri ayarları",
     "DELETE_RESOURCES": "Kaynakları sil",
