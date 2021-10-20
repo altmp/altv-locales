@@ -78,6 +78,15 @@
     "KICKED_OUT": "Sunucu tarafından atıldın",
     "OTHER_SERVERS": "Diğer sunucular",
     "AUTO_INPUT_VOLUME": "Giriş değerini belirle",
-    "INVALID_CDN_URL": "CDN, sunucu CDN adresiyle uyuşmuyor"
+    "INVALID_CDN_URL": "CDN, sunucu CDN adresiyle uyuşmuyor",
+    "DEBUG": "Hata Ayıklama",
+    "USE_EXTERNAL_CONSOLE": "Konsolu ayrı bir pencerede aç",
+    "SERVER_DATA_SETTINGS": "Sunucu veri ayarları",
+    "DELETE_RESOURCES": "Kaynakları sil",
+    "DELETE_DATA": "Verileri sil",
+    "CONFIRM_RESOURCE_DELETE": "{0} adet kaynağı kaldırmak istediğinize emin misiniz?\nSonraki sunucuya girişinizde tekrar indirmeniz gerekecek",
+    "CONFIRM_DATA_DELETE": "{0} adet sunucu verisini silmek istediğinize emin misiniz?\nBu oturum açma, şifre veya oyun içi ayarlarınızı içerebilir",
+    "CONFIRM": "Onayla",
+    "HELP": "Yardım"
   }
 }
