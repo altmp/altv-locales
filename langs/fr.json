@@ -86,6 +86,8 @@
     "DELETE_DATA": "Supprimer les informations locales du serveur",
     "CONFIRM_RESOURCE_DELETE": "Êtes-vous sûr de vouloir supprimer {0} de ressources du serveur?\nVous devrez les télécharger à nouveau lors de votre prochaine connexion",
     "CONFIRM_DATA_DELETE": "Êtes-vous sûr de vouloir supprimer {0} d'informations locales du serveur?\nCela peut inclure les nom d'utilisateur, mot de passe, paramètres, etc",
-    "CONFIRM": "Confirmer"
+    "CONFIRM": "Confirmer",
+    "HELP": "Aide",
+    "RECONNECT": "Reconnexion"
   }
 }
