@@ -87,6 +87,7 @@
     "CONFIRM_RESOURCE_DELETE": "Are you sure you want to remove {0} of resources?\nYou will have to download it again on next connect",
     "CONFIRM_DATA_DELETE": "Are you sure you want to remove {0} of server data?\nThis might include saved login/password, settings, etc",
     "CONFIRM": "Confirm",
-    "HELP": "Help"
+    "HELP": "Help",
+    "RECONNECT": "Reconnect"
   }
 }
