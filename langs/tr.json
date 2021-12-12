@@ -87,6 +87,7 @@
     "CONFIRM_RESOURCE_DELETE": "{0} adet kaynağı kaldırmak istediğinize emin misiniz?\nSonraki sunucuya girişinizde tekrar indirmeniz gerekecek",
     "CONFIRM_DATA_DELETE": "{0} adet sunucu verisini silmek istediğinize emin misiniz?\nBu oturum açma, şifre veya oyun içi ayarlarınızı içerebilir",
     "CONFIRM": "Onayla",
-    "HELP": "Yardım"
+    "HELP": "Yardım",
+    "RECONNECT": "Yeniden Bağlan"
   }
 }
