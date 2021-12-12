@@ -78,6 +78,7 @@
     "KICKED_OUT": "Вы были кикнуты",
     "OTHER_SERVERS": "Другие сервера",
     "AUTO_INPUT_VOLUME": "Автоматическая громкость микрофона",
+    "INVALID_CDN_URL": "CDN не совпадает с CDN сервера",
     "DEBUG": "Отладка",
     "USE_EXTERNAL_CONSOLE": "Открывать консоль в отдельном окне",
     "SERVER_DATA_SETTINGS": "Управление файлами серверов",
