@@ -83,6 +83,11 @@
     "USE_EXTERNAL_CONSOLE": "کنسول را در یک پنجره جداگانه باز کن",
     "SERVER_DATA_SETTINGS": "تنظیمات اطلاعات سرور",
     "DELETE_RESOURCES": "حذف مخازن",
-    "DELETE_DATA": "حذف اطلاعات"
+    "DELETE_DATA": "حذف اطلاعات",
+    "RECONNECT":"اتصال مجدد",
+    "HELP":"راهنمایی",
+    "CONFIRM":"تایید",
+    "CONFIRM_DATA_DELETE":"تایید حذف داده ها",
+    "CONFIRM_RESOURCE_DELETE":"تایید حذف منبع"
   }
 }
