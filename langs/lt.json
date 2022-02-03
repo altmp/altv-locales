@@ -78,6 +78,16 @@
     "KICKED_OUT": "Jus išmetė iš serverio",
     "OTHER_SERVERS": "Kiti serveriai",
     "AUTO_INPUT_VOLUME": "Automatiškai nustatyti įvesties stiprumą",
-    "INVALID_CDN_URL": "CDN (liet. Turinio transliavimo tinlas) nesutampa su serverio CDN"
+    "INVALID_CDN_URL": "Turinio transliavimo tinklas (CDN) nesutampa su serverio turinio transliavimo tinklu",
+    "DEBUG": "Derinimas",
+    "USE_EXTERNAL_CONSOLE": "Atidaryti konsolę atskirame lange",
+    "SERVER_DATA_SETTINGS": "Serverio duomenų nustatymai",
+    "DELETE_RESOURCES": "Ištrinti resursus",
+    "DELETE_DATA": "Ištrinti duomenis",
+    "CONFIRM_RESOURCE_DELETE": "Ar tikrai norite pašalinti {0} serverio resursus?\nKito prisijungimo metu tūrėsite atsiųsti iš naujo.",
+    "CONFIRM_DATA_DELETE": "Ar tikrai norite pašalinti {0} serverio duomenis?\nTai gali apimti išsaugotus prisijungimo duomenis, nustatymus ir kita.",
+    "CONFIRM": "Patvirtinti",
+    "HELP": "Pagalba",
+    "RECONNECT": "Prisijungti iš naujo"
   }
 }
