@@ -41,15 +41,7 @@
     "VOICE_ACTIVATION": "Hang aktiválás",
     "INPUT_VOLUME": "Bemeneti hangerő",
     "INPUT_SENSITIVITY": "Bemeneti eszköz érzékenység",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "PUSH_TO_TALK_KEY": "Push-to-talk gomb",
-=======
-    "PUSH_TO_TALK_KEY": "Push-to-talk billentyű",
->>>>>>> c0b341a (Update hu.json)
-=======
-    "PUSH_TO_TALK_KEY": "Push-to-talk gomb",
->>>>>>> 814e70a (Update hu.json)
     "OUTPUT_VOLUME": "Kimeneti hangerő",
     "CONNECTION_FAILED": "Sikertelen csatlakozás",
     "LOST_CONNECTION": "A kapcsolat megszakadt",
@@ -86,14 +78,6 @@
     "KICKED_OUT": "Ki lettél rúgva a szerverről",
     "OTHER_SERVERS": "Egyéb szerverek",
     "AUTO_INPUT_VOLUME": "Bemeneti érzékenység automatikus megállapítása",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "INVALID_CDN_URL": "A megadott cdn nem egyezik a szerver cdn-jével"
-=======
-    "INVALID_CDN_URL": "A cdn nem egyezik a szerver cdn-jével"
->>>>>>> c0b341a (Update hu.json)
-=======
-    "INVALID_CDN_URL": "A megadott cdn nem egyezik a szerver cdn-jével"
->>>>>>> 814e70a (Update hu.json)
   }
 }
