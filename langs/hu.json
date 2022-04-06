@@ -78,6 +78,16 @@
     "KICKED_OUT": "Ki lettél rúgva a szerverről",
     "OTHER_SERVERS": "Egyéb szerverek",
     "AUTO_INPUT_VOLUME": "Bemeneti érzékenység automatikus megállapítása",
-    "INVALID_CDN_URL": "A megadott cdn nem egyezik a szerver cdn-jével"
+    "INVALID_CDN_URL": "A megadott cdn nem egyezik a szerver cdn-jével",
+    "DEBUG": "Debug",
+    "USE_EXTERNAL_CONSOLE": "Konzol megnyitása külön ablakban",
+    "SERVER_DATA_SETTINGS": "Szerveradatok beállításai",
+    "DELETE_RESOURCES": "Resource-ök törlése",
+    "DELETE_DATA": "Adatok törlése",
+    "CONFIRM_RESOURCE_DELETE": "Biztos, hogy el akarsz távolítani {0} resource-t?\nA következő csatlakozáskor újra le kell majd töltened őket",
+    "CONFIRM_DATA_DELETE": "Biztos, hogy el akarsz távolítani {0} szerveradatot?\nEz tartalmazhat elmentett bejelentkezési adatokat/jelszót, beállításokat stb",
+    "CONFIRM": "Megerősít",
+    "HELP": "Segítség",
+    "RECONNECT": "Újracsatlakozás"
   }
 }
