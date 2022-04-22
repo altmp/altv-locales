@@ -88,6 +88,7 @@
     "CONFIRM_DATA_DELETE": "Bist du dir sicher, dass du {0} an Serverdaten löschen möchtest?\nDas könnte auch gespeicherte Anmeldedaten/Passwörter, Einstellungen, usw. betreffen.",
     "CONFIRM": "Bestätigen",
     "HELP": "Hilfe",
-    "RECONNECT": "Erneut verbinden"
+    "RECONNECT": "Erneut verbinden",
+    "CRASH_REPORTER_ENABLED": "Crash Reporter Service aktivieren"
   }
 }

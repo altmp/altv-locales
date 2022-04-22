@@ -88,6 +88,7 @@
     "CONFIRM_DATA_DELETE": "Are you sure you want to remove {0} of server data?\nThis might include saved login/password, settings, etc",
     "CONFIRM": "Confirm",
     "HELP": "Help",
-    "RECONNECT": "Reconnect"
+    "RECONNECT": "Reconnect",
+    "CRASH_REPORTER_ENABLED": "Enable crash reporter service"
   }
 }
