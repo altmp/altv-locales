@@ -74,6 +74,21 @@
     "EMPTY_HERE": "Tutaj jest pusto. Jeszcze.",
     "DISCONNECTED": "Rozłączono",
     "TIMED_OUT": "Przekroczono limit czasu",
-    "SERVER_NOT_RESPONDING": "Serwer nie odpowiada"
+    "SERVER_NOT_RESPONDING": "Serwer nie odpowiada",
+    "KICKED_OUT": "Zostałeś odłączony od serwera",
+    "OTHER_SERVERS": "Inne serwery",
+    "AUTO_INPUT_VOLUME": "Automatyczna głośność mikrofonu",
+    "INVALID_CDN_URL": "CDN nie jest zgodny z CDN serwera",
+    "DEBUG": "Debug",
+    "USE_EXTERNAL_CONSOLE": "Otwórz konsole w osobnym oknie",
+    "SERVER_DATA_SETTINGS": "Zarządzanie plikami serwerów",
+    "DELETE_RESOURCES": "Usuń zasoby",
+    "DELETE_DATA": "Usuń dane",
+    "CONFIRM_RESOURCE_DELETE": "Czy na pewno chcesz usunąć {0} zasobów?\nZostaną one pobrane ponownie przy następnym połączeniu",
+    "CONFIRM_DATA_DELETE": "Czy na pewno chcesz usunąć {0} danych serwera?\nMogą one zawierać zapisane ustawienia, dane logowania itp.",
+    "CONFIRM": "Podtwierdź",
+    "HELP": "Pomoc",
+    "RECONNECT": "Połącz ponownie",
+    "CRASH_REPORTER_ENABLED": "Włącz usługę zgłaszania awarii"
   }
 }
