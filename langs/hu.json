@@ -88,6 +88,7 @@
     "CONFIRM_DATA_DELETE": "Biztos, hogy el akarsz távolítani {0} szerveradatot?\nEz tartalmazhat elmentett bejelentkezési adatokat/jelszót, beállításokat stb",
     "CONFIRM": "Megerősít",
     "HELP": "Segítség",
-    "RECONNECT": "Újracsatlakozás"
+    "RECONNECT": "Újracsatlakozás",
+    "CRASH_REPORTER_ENABLED": "Összeomlás jelentések megosztásának engedélyezése"
   }
 }
