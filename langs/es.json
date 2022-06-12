@@ -88,6 +88,7 @@
     "CONFIRM_DATA_DELETE": "¿Estás seguro de que quieres eliminar {0} de datos de servidores?\nEsto podría incluir el usuario/clave guardados, opciones, etc",
     "CONFIRM": "Confirmar",
     "HELP": "Ayuda",
-    "RECONNECT": "Reconectar"
+    "RECONNECT": "Reconectar",
+    "CRASH_REPORTER_ENABLED": "Habilitar el servicio de informes de fallas"
   }
 }
