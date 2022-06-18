@@ -90,12 +90,23 @@
     "HELP": "Help",
     "RECONNECT": "Reconnect",
     "CRASH_REPORTER_ENABLED": "Enable crash reporter service",
-    "SELECT_DIRECTORY": "Do you want to select directory?\nPress no to install alt:V here",
-    "SELECT_GTAV_INSTALL": "Select your installation of Grand Theft Auto V",
-    "CREATE_SHORTCUT": "Do you want to create desktop shortcut?",
-    "CREATE_START_MENU_SHORTCUT": "Do you want to create a start menu shortcut?",
-    "INSTALL_ALTV_IN": "Install alt:V into '",
-    "GTAVLAUNCHER_NOT_FOUND": "File GTAVLauncher.exe not found in target directory",
-    "SELECT_ALTV_DIR": "Select where to install alt:V"
+
+    "LAUNCHER_SELECT_DIRECTORY": "Do you want to select directory?\nPress no to install alt:V here",
+    "LAUNCHER_SELECT_GTAV_INSTALL": "Select your installation of Grand Theft Auto V",
+    "LAUNCHER_CREATE_SHORTCUT": "Do you want to create desktop shortcut?",
+    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Do you want to create a start menu shortcut?",
+    "LAUNCHER_INSTALL_ALTV_IN": "Install alt:V into '",
+    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "File GTAVLauncher.exe not found in target directory",
+    "LAUNCHER_SELECT_ALTV_DIR": "Select where to install alt:V",
+    "LAUNCHER_PHASE_LOADING_CLIENT": "LOADING alt:V CLIENT",
+    "LAUNCHER_PHASE_STARTING": "STARTING",
+    "LAUNCHER_PHASE_SETTING_UP": "SETTING UP",
+    "LAUNCHER_PHASE_UPDATES": "CHECKING FOR UPDATES",
+    "LAUNCHER_PHASE_NEW_LAUNCHER": "New launcher",
+    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Starting new launcher",
+    "LAUNCHER_PHASE_DOWNLOADING": "Downloading - {0}",
+    "LAUNCHER_PHASE_LAUNCH_GTA": "LAUNCHING\nGRAND THEFT AUTO V",
+    "LAUNCHER_PHASE_FINISHED": "FINISHED"
+
   }
 }
