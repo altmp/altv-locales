@@ -89,6 +89,13 @@
     "CONFIRM": "Confirm",
     "HELP": "Help",
     "RECONNECT": "Reconnect",
-    "CRASH_REPORTER_ENABLED": "Enable crash reporter service"
+    "CRASH_REPORTER_ENABLED": "Enable crash reporter service",
+    "SELECT_DIRECTORY": "Do you want to select directory?\nPress no to install alt:V here",
+    "SELECT_GTAV_INSTALL": "Select your installation of Grand Theft Auto V",
+    "CREATE_SHORTCUT": "Do you want to create desktop shortcut?",
+    "CREATE_START_MENU_SHORTCUT": "Do you want to create a start menu shortcut?",
+    "INSTALL_ALTV_IN": "Install alt:V into '",
+    "GTAVLAUNCHER_NOT_FOUND": "File GTAVLauncher.exe not found in target directory",
+    "SELECT_ALTV_DIR": "Select where to install alt:V"
   }
 }
