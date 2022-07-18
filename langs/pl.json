@@ -89,6 +89,23 @@
     "CONFIRM": "Potwierdź",
     "HELP": "Pomoc",
     "RECONNECT": "Połącz ponownie",
-    "CRASH_REPORTER_ENABLED": "Włącz usługę zgłaszania awarii"
+    "CRASH_REPORTER_ENABLED": "Włącz usługę zgłaszania awarii",
+    
+    "LAUNCHER_SELECT_DIRECTORY": "Czy chcesz wybrać katalog do instalacji alt:V?\nNaciśnij 'Nie' aby zainstalować alt:V tutaj",
+    "LAUNCHER_SELECT_GTAV_INSTALL": "Wybierz folder z zainstalowanym Grand Theft Auto V",
+    "LAUNCHER_CREATE_SHORTCUT": "Czy chcesz utworzyć skrót na pulpicie?",
+    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Czy chcesz utworzyć skrót w menu startowym?",
+    "LAUNCHER_INSTALL_ALTV_IN": "Zainstaluj alt:V na '",
+    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Nie znaleziono pliku GTAVLauncher.exe w katalogu docelowym",
+    "LAUNCHER_SELECT_ALTV_DIR": "Wybierz folder w którym ma zostać zainstalowany alt:V",
+    "LAUNCHER_PHASE_LOADING_CLIENT": "WCZYTYWANIE KLIENTA alt:V",
+    "LAUNCHER_PHASE_STARTING": "STARTOWANIE",
+    "LAUNCHER_PHASE_SETTING_UP": "WCZYTYWANIE KONFIGURACJI",
+    "LAUNCHER_PHASE_UPDATES": "SPRAWDZANIE AKTUALIZACJI",
+    "LAUNCHER_PHASE_NEW_LAUNCHER": "Nowy launcher",
+    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Startowanie nowego launchera",
+    "LAUNCHER_PHASE_DOWNLOADING": "Pobieranie - {0}",
+    "LAUNCHER_PHASE_LAUNCH_GTA": "URUCHAMIANIE\nGRAND THEFT AUTO V",
+    "LAUNCHER_PHASE_FINISHED": "ZAKOŃCZONO"
   }
 }
