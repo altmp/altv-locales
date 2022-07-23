@@ -78,6 +78,35 @@
     "KICKED_OUT": "Byl jste vyhozen ze serveru",
     "OTHER_SERVERS": "Ostatní servery",
     "AUTO_INPUT_VOLUME": "Automaticky stanovit hlasitost vstupu",
-    "INVALID_CDN_URL": "cdn se neshoduje se serverovým cdn"
+    "INVALID_CDN_URL": "cdn se neshoduje se serverovým cdn",
+    
+    "DEBUG": "Ladění",
+    "USE_EXTERNAL_CONSOLE": "Otevřít konzoli v samostatném okně",
+    "SERVER_DATA_SETTINGS": "Nastavení dat serveru",
+    "DELETE_RESOURCES": "Smazat zdroje",
+    "DELETE_DATA": "Smazat data",
+    "CONFIRM_RESOURCE_DELETE": "Jste si jisti, že chcete smazat {0} zdrojů?\nBudete je muset stáhnout znovu při příštím připojení",
+    "CONFIRM_DATA_DELETE": "Jste si jisti, že chcete smazat {0} ze serverových dat?\nToto může obsahovat uložené přihlašovací jména/hesla, nastavení apod.",
+    "CONFIRM": "Potvrdit",
+    "HELP": "Pomoc",
+    "RECONNECT": "Znovu připojit",
+    "CRASH_REPORTER_ENABLED": "Povolení služby hlášení pádů",
+  
+    "LAUNCHER_SELECT_DIRECTORY": "Chcete zvolit složku kam nainstalovat alt:V?\nZmáčkněte ne pro instalaci alt:V zde",
+    "LAUNCHER_SELECT_GTAV_INSTALL": "Vyberte složku, kde máte nainstalováno Grand Theft Auto V",
+    "LAUNCHER_CREATE_SHORTCUT": "Chcete vytvořit zástupce na ploše?",
+    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Chcete vytvořit zástupce v nabídce start?",
+    "LAUNCHER_INSTALL_ALTV_IN": "Nainstalovat alt:V do '",
+    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Soubor GTAVLauncher.exe nebyl v cílové složce nalezen",
+    "LAUNCHER_SELECT_ALTV_DIR": "Vybrat složku kam nainstalovat alt:V",
+    "LAUNCHER_PHASE_LOADING_CLIENT": "NAČÍTÁNÍ alt:V KLIENTA",
+    "LAUNCHER_PHASE_STARTING": "STARTOVANÍ",
+    "LAUNCHER_PHASE_SETTING_UP": "NAČÍTÁNÍ KONFIGURACE",
+    "LAUNCHER_PHASE_UPDATES": "KONTROLA AKTUALIZACÍ",
+    "LAUNCHER_PHASE_NEW_LAUNCHER": "Nový launcher",
+    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Startování nového launcheru",
+    "LAUNCHER_PHASE_DOWNLOADING": "Stahování - {0}",
+    "LAUNCHER_PHASE_LAUNCH_GTA": "SPOUŠTĚNÍ\nGRAND THEFT AUTO V",
+    "LAUNCHER_PHASE_FINISHED": "DOKONČENO"
   }
 }
