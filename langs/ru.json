@@ -89,6 +89,23 @@
     "CONFIRM": "Подтвердить",
     "HELP": "Помощь",
     "RECONNECT": "Переподключиться",
-    "CRASH_REPORTER_ENABLED": "Включить службу отправки отчетов о сбоях"
+    "CRASH_REPORTER_ENABLED": "Включить службу отправки отчетов о сбоях",
+
+    "LAUNCHER_SELECT_DIRECTORY": "Вы хотите выбрать папку для установки?\nНажмите нет, чтобы установить alt:V в текущей папке",
+    "LAUNCHER_SELECT_GTAV_INSTALL": "Выберите вашу версию Grand Theft Auto V",
+    "LAUNCHER_CREATE_SHORTCUT": "Вы хотите создать ярлык на рабочем столе?",
+    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Вы хотите создать ярлык в меню пуск?",
+    "LAUNCHER_INSTALL_ALTV_IN": "Установить alt:V в '",
+    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Не удалось найти файл GTAVLauncher.exe в выбранной папке",
+    "LAUNCHER_SELECT_ALTV_DIR": "Выберите, куда установить alt:V",
+    "LAUNCHER_PHASE_LOADING_CLIENT": "ЗАГРУЗКА КЛИЕНТА alt:V",
+    "LAUNCHER_PHASE_STARTING": "ЗАПУСК",
+    "LAUNCHER_PHASE_SETTING_UP": "ПОДГОТОВКА",
+    "LAUNCHER_PHASE_UPDATES": "ПРОВЕРКА ОБНОВЛЕНИЙ",
+    "LAUNCHER_PHASE_NEW_LAUNCHER": "Новый лаунчер",
+    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Запуск нового лаунчера",
+    "LAUNCHER_PHASE_DOWNLOADING": "Загрузка - {0}",
+    "LAUNCHER_PHASE_LAUNCH_GTA": "ЗАПУСК\nGRAND THEFT AUTO V",
+    "LAUNCHER_PHASE_FINISHED": "ЗАВЕРШЕНО"
   }
 }
