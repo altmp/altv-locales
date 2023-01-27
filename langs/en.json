@@ -145,6 +145,10 @@
     "CONSIDER_SUPPORTING_LINK": "supporting it on Patreon",
     "ALLOWED_REQUIRED_ONLY": "Allow required only",
 
+    "PERMISSION_1": "Record your game's window",
+    "PERMISSION_2": "Microphone and webcam access",
+    "PERMISSION_3": "Copy text into clipboard",
+
     "LAUNCHER_SELECT_DIRECTORY": "Do you want to select directory?\nPress no to install alt:V here",
     "LAUNCHER_SELECT_GTAV_INSTALL": "Select your installation of Grand Theft Auto V",
     "LAUNCHER_CREATE_SHORTCUT": "Do you want to create desktop shortcut?",

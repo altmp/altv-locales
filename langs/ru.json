@@ -145,6 +145,10 @@
     "CONSIDER_SUPPORTING_LINK": "подпиской на Patreon",
     "ALLOWED_REQUIRED_ONLY": "Разрешить только необходимые",
 
+    "PERMISSION_1": "Записывать окно вашей игры",
+    "PERMISSION_2": "Доступ к микрофону и камере",
+    "PERMISSION_3": "Копировать текст в буфер обмена",
+
     "LAUNCHER_SELECT_DIRECTORY": "Вы хотите выбрать папку для установки?\nНажмите нет, чтобы установить alt:V в текущей папке",
     "LAUNCHER_SELECT_GTAV_INSTALL": "Выберите вашу версию Grand Theft Auto V",
     "LAUNCHER_CREATE_SHORTCUT": "Вы хотите создать ярлык на рабочем столе?",
