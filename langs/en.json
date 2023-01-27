@@ -141,6 +141,8 @@
     "BYTES": "Bytes",
     "BYTE": "Byte",
     "FILTERS": "Filters",
+    "CONSIDER_SUPPORTING": "This project is developed for free and wouldn't be possible without these people. Consider {0} to keep the lights on.",
+    "CONSIDER_SUPPORTING_LINK": "supporting it on Patreon",
 
     "LAUNCHER_SELECT_DIRECTORY": "Do you want to select directory?\nPress no to install alt:V here",
     "LAUNCHER_SELECT_GTAV_INSTALL": "Select your installation of Grand Theft Auto V",
