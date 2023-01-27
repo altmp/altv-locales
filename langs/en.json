@@ -140,6 +140,7 @@
     "SOME_TIME_AGO": "Some time ago",
     "BYTES": "Bytes",
     "BYTE": "Byte",
+    "FILTERS": "Filters",
 
     "LAUNCHER_SELECT_DIRECTORY": "Do you want to select directory?\nPress no to install alt:V here",
     "LAUNCHER_SELECT_GTAV_INSTALL": "Select your installation of Grand Theft Auto V",
