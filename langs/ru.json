@@ -124,7 +124,7 @@
     "SERVER_ADDRESS": "Адрес сервера",
     "PERMISSION_REQUEST": "Запрос разрешений",
     "PERMISSION_REQUEST_IF_DENY": "Если вы откажетесь, подключение к серверу будет отменено",
-    "REQUIRED_PERMISSIONS": "Требуемые разрешения",
+    "REQUIRED_PERMISSIONS": "Необходимые разрешения",
     "OPTIONAL_PERMISSIONS": "Опциональные разрешения",
     "ACCEPT": "Разрешить",
     "DENY": "Отказаться",
@@ -141,6 +141,7 @@
     "BYTES": "Байт",
     "BYTE": "Байт",
     "FILTERS": "Фильтры",
+    "ALLOWED_REQUIRED_ONLY": "Разрешить только необходимые",
 
     "LAUNCHER_SELECT_DIRECTORY": "Вы хотите выбрать папку для установки?\nНажмите нет, чтобы установить alt:V в текущей папке",
     "LAUNCHER_SELECT_GTAV_INSTALL": "Выберите вашу версию Grand Theft Auto V",
