@@ -89,7 +89,7 @@
     "CONFIRM": "Bestätigen",
     "HELP": "Hilfe",
     "RECONNECT": "Erneut verbinden",
-    "CRASH_REPORTER_ENABLED": "Crash Reporter Service aktivieren",
+    "CRASH_REPORTER_ENABLED": "Crash Reporter Dienst aktivieren",
     "SERVER_DATA": "Serverdaten",
     "RESOURCES_SIZE": "Ressourcen: {0}",
     "DATA_SIZE": "Daten: {0}",
