@@ -94,7 +94,7 @@
     "RESOURCES_SIZE": "Ressourcen: {0}",
     "DATA_SIZE": "Daten: {0}",
     "DELETE_DATA_HEADER": "Serverdaten löschen",
-    "CANNOT_DELETE_CURRENT_SERVER_DATA": "Du kannst die Daten des Servers auf welchem du dich derzeit befindest nicht löschen",
+    "CANNOT_DELETE_CURRENT_SERVER_DATA": "Du kannst die Daten des Servers, auf welchem du dich derzeit befindest, nicht löschen",
     "DELETE_RESOURCES_HEADER": "Serverressourcen löschen",
     "LAST_VISIT": "Zuletzt besucht: {0}",
     "CURRENT_PLAYERS": "Derzeitige Spieler",
@@ -156,7 +156,7 @@
     "LAUNCHER_CREATE_SHORTCUT": "Möchtest du eine Desktop-Verknüpfung erstellen?",
     "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Möchtest du eine Startmenü-Verknüpfung erstellen?",
     "LAUNCHER_INSTALL_ALTV_IN": "Installiere alt:V in '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Datei GTAVLauncher.exe nicht im Zielverzeichnis gefunden",
+    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "GTAVLauncher.exe nicht im Zielverzeichnis gefunden",
     "LAUNCHER_SELECT_ALTV_DIR": "Wähle aus, wo alt:V installiert werden soll",
     "LAUNCHER_PHASE_LOADING_CLIENT": "LADE alt:V CLIENT",
     "LAUNCHER_PHASE_STARTING": "STARTE",
@@ -164,7 +164,7 @@
     "LAUNCHER_PHASE_UPDATES": "SUCHE NACH AKTUALISIERUNGEN",
     "LAUNCHER_PHASE_NEW_LAUNCHER": "Neuer Launcher",
     "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Starte neuen Launcher",
-    "LAUNCHER_PHASE_DOWNLOADING": "Runterladen - {0}",
+    "LAUNCHER_PHASE_DOWNLOADING": "Herunterladen - {0}",
     "LAUNCHER_PHASE_LAUNCH_GTA": "STARTE\nGRAND THEFT AUTO V",
     "LAUNCHER_PHASE_FINISHED": "BEENDET"
   }
