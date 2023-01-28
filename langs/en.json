@@ -144,6 +144,8 @@
     "CONSIDER_SUPPORTING": "This project is developed for free and wouldn't be possible without these people. Consider {0} to keep the lights on.",
     "CONSIDER_SUPPORTING_LINK": "supporting it on Patreon",
     "ALLOWED_REQUIRED_ONLY": "Allow required only",
+    "ENTER_YOUR_NICKNAME": "Enter your nickname",
+    "SAVE": "Save",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
