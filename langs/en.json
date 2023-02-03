@@ -146,6 +146,8 @@
     "ALLOWED_REQUIRED_ONLY": "Allow required only",
     "ENTER_YOUR_NICKNAME": "Enter your nickname",
     "SAVE": "Save",
+    "IN_CHANNEL": "in {0}",
+    "EDITED": "edited",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
