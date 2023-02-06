@@ -1,11 +1,12 @@
 {
   "name": "Polski",
+  "rtl": false,
   "strings": {
     "HOME": "Strona głowna",
-    "WELCOME_TO": "Witamy w",
+    "WELCOME_TO": "Witamy w\n{0}",
     "RECENT_SERVERS": "Ostatnie serwery",
-    "PLAYERS_ONLINE": "Gracze online",
-    "SERVERS_ONLINE": "Serwery online",
+    "PLAYERS_ONLINE": "Gracze online: {0}",
+    "SERVERS_ONLINE": "Serwery online: {0}",
     "SERVERS": "Serwery",
     "FAVORITES": "Ulubione",
     "HISTORY": "Historia",

@@ -1,11 +1,12 @@
 {
   "name": "Українська",
+  "rtl": false,
   "strings": {
     "HOME": "Головна",
-    "WELCOME_TO": "Вітаємо в",
+    "WELCOME_TO": "Вітаємо в\n{0}",
     "RECENT_SERVERS": "Недавні сервери",
-    "PLAYERS_ONLINE": "Гравців онлайн",
-    "SERVERS_ONLINE": "Серверів онлайн",
+    "PLAYERS_ONLINE": "Гравців онлайн: {0}",
+    "SERVERS_ONLINE": "Серверів онлайн: {0}",
     "SERVERS": "Сервери",
     "FAVORITES": "Обране",
     "HISTORY": "Історія",

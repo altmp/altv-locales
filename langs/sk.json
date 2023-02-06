@@ -1,11 +1,12 @@
 {
   "name": "Slovenský",
+  "rtl": false,
   "strings": {
     "HOME": "Domov",
-    "WELCOME_TO": "Vitajte v",
+    "WELCOME_TO": "Vitajte v\n{0}",
     "RECENT_SERVERS": "Posledné servery",
-    "PLAYERS_ONLINE": "Hráči online",
-    "SERVERS_ONLINE": "Servery online",
+    "PLAYERS_ONLINE": "Hráči online: {0}",
+    "SERVERS_ONLINE": "Servery online: {0}",
     "SERVERS": "Servery",
     "FAVORITES": "Obľúbené",
     "HISTORY": "História",

@@ -1,11 +1,12 @@
 {
   "name": "India Malayalam",
+  "rtl": false,
   "strings": {
     "HOME": "വീട്",
-    "WELCOME_TO": "സ്വാഗതം",
+    "WELCOME_TO": "സ്വാഗതം\n{0}",
     "RECENT_SERVERS": "സമീപകാല സെർവറുകൾ",
-    "PLAYERS_ONLINE": "കളിക്കാർ ഓൺലൈനിൽ",
-    "SERVERS_ONLINE": "സെർവറുകൾ ഓൺലൈനിൽ",
+    "PLAYERS_ONLINE": "കളിക്കാർ ഓൺലൈനിൽ: {0}",
+    "SERVERS_ONLINE": "സെർവറുകൾ ഓൺലൈനിൽ: {0}",
     "SERVERS": "സെർവറുകൾ",
     "FAVORITES": "പ്രിയങ്കരങ്ങൾ",
     "HISTORY": "ചരിത്രം",

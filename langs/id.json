@@ -1,11 +1,12 @@
 {
   "name": "Indonesian",
+  "rtl": false,
   "strings": {
     "HOME": "Home",
-    "WELCOME_TO": "Selamat Datang di",
+    "WELCOME_TO": "Selamat Datang di\n{0}",
     "RECENT_SERVERS": "Server terbaru",
-    "PLAYERS_ONLINE": "Pemain online",
-    "SERVERS_ONLINE": "Server online",
+    "PLAYERS_ONLINE": "Pemain online: {0}",
+    "SERVERS_ONLINE": "Server online: {0}",
     "SERVERS": "Server",
     "FAVORITES": "Favorit",
     "HISTORY": "Riwayat",

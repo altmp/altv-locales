@@ -1,11 +1,12 @@
 {
   "name": "India Telugu",
+  "rtl": false,
   "strings": {
     "HOME": "హోమ్",
-    "WELCOME_TO": "స్వాగతం",
+    "WELCOME_TO": "స్వాగతం\n{0}",
     "RECENT_SERVERS": "ఇటీవలి సర్వర్లు",
-    "PLAYERS_ONLINE": "ప్లేయర్స్ ఆన్‌లైన్",
-    "SERVERS_ONLINE": "ఆన్‌లైన్‌లో సర్వర్‌లు",
+    "PLAYERS_ONLINE": "ప్లేయర్స్ ఆన్‌లైన్: {0}",
+    "SERVERS_ONLINE": "ఆన్‌లైన్‌లో సర్వర్‌లు: {0}",
     "SERVERS": "సర్వర్లు",
     "FAVORITES": "ఇష్టమైన",
     "HISTORY": "చరిత్ర",

@@ -1,11 +1,12 @@
 {
   "name": "Latviešu",
+  "rtl": false,
   "strings": {
     "HOME": "Sākums",
-    "WELCOME_TO": "Laipni lūdzam",
+    "WELCOME_TO": "Laipni lūdzam\n{0}",
     "RECENT_SERVERS": "Pēdējie apmeklētie serveri",
-    "PLAYERS_ONLINE": "Spēlētāji tiešsaistē",
-    "SERVERS_ONLINE": "Serveri tiešsaistē",
+    "PLAYERS_ONLINE": "Spēlētāji tiešsaistē: {0}",
+    "SERVERS_ONLINE": "Serveri tiešsaistē: {0}",
     "SERVERS": "Serveri",
     "FAVORITES": "Favorīti",
     "HISTORY": "Vēsture",

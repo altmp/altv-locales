@@ -1,5 +1,6 @@
 {
   "name": "ไทย",
+  "rtl": false,
   "strings": {
     "SERVERS": "เซิร์ฟเวอร์",
     "FAVORITES": "รายการโปรด",

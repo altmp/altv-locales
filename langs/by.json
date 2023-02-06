@@ -1,11 +1,12 @@
 {
   "name": "Беларуская",
+  "rtl": false,
   "strings": {
     "HOME": "Галоўная",
-    "WELCOME_TO": "Сардэчна запрашаем у",
+    "WELCOME_TO": "Сардэчна запрашаем у\n{0}",
     "RECENT_SERVERS": "Апошнія серверы",
-    "PLAYERS_ONLINE": "Гульцы анлайн",
-    "SERVERS_ONLINE": "Серверы анлайн",
+    "PLAYERS_ONLINE": "Гульцы анлайн: {0}",
+    "SERVERS_ONLINE": "Серверы анлайн: {0}",
     "SERVERS": "Серверы",
     "FAVORITES": "Любімыя",
     "HISTORY": "Гісторыя",

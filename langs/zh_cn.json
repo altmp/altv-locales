@@ -1,11 +1,12 @@
 {
   "name": "简体中文",
+  "rtl": false,
   "strings": {
     "HOME": "首页",
-    "WELCOME_TO": "欢迎来到",
+    "WELCOME_TO": "欢迎来到\n{0}",
     "RECENT_SERVERS": "最近连接",
-    "PLAYERS_ONLINE": "总共在线玩家",
-    "SERVERS_ONLINE": "总共在线服务器",
+    "PLAYERS_ONLINE": "总共在线玩家: {0}",
+    "SERVERS_ONLINE": "总共在线服务器: {0}",
     "SERVERS": "服务器",
     "FAVORITES": "收藏",
     "HISTORY": "历史",
