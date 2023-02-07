@@ -158,6 +158,7 @@
     "IN_CHANNEL": "в {0}",
     "EDITED": "изменено",
     "DISABLE_RTL": "Отключить RTL",
+    "YOU_DIDNT_JOIN_ANY_SERVER_YET": "Вы ещё не заходили ни на один сервер",
 
     "PERMISSION_1": "Записывать окно вашей игры",
     "PERMISSION_2": "Доступ к микрофону и камере",

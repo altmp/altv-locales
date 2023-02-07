@@ -152,6 +152,7 @@
     "IN_CHANNEL": "in {0}",
     "EDITED": "edited",
     "DISABLE_RTL": "Disable RTL",
+    "YOU_DIDNT_JOIN_ANY_SERVER_YET": "You didn't join any server yet",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
