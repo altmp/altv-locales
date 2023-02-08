@@ -154,7 +154,7 @@
     "DISABLE_RTL": "Disable RTL",
     "YOU_DIDNT_JOIN_ANY_SERVER_YET": "You didn't join any server yet",
     "SERVER_SHUTDOWN": "Server shutdown",
-    "DOWNLOAD_SPEED_LIMIT": "Download speed limit (MB/s)",
+    "DOWNLOAD_SPEED_LIMIT": "Download speed limit (KB/s)",
     "UNLIMITED": "Unlimited",
     "MULTILINGUAL": "Multilingual",
     "SEMI_TRANSPARENT_MODE": "Semi-transparent mode",
