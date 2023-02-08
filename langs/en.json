@@ -154,6 +154,8 @@
     "DISABLE_RTL": "Disable RTL",
     "YOU_DIDNT_JOIN_ANY_SERVER_YET": "You didn't join any server yet",
     "SERVER_SHUTDOWN": "Server shutdown",
+    "DOWNLOAD_SPEED_LIMIT": "Download speed limit (MB/s)",
+    "UNLIMITED": "Unlimited",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
