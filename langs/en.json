@@ -156,6 +156,7 @@
     "SERVER_SHUTDOWN": "Server shutdown",
     "DOWNLOAD_SPEED_LIMIT": "Download speed limit (MB/s)",
     "UNLIMITED": "Unlimited",
+    "MULTILINGUAL": "Multilingual",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",

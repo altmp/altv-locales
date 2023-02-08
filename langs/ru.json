@@ -162,6 +162,7 @@
     "SERVER_SHUTDOWN": "Сервер был выключен",
     "DOWNLOAD_SPEED_LIMIT": "Лимит скорости загрузки (MB/s)",
     "UNLIMITED": "Без ограничений",
+    "MULTILINGUAL": "Многоязычный",
 
     "PERMISSION_1": "Записывать окно вашей игры",
     "PERMISSION_2": "Доступ к микрофону и камере",
