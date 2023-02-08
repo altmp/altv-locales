@@ -157,6 +157,7 @@
     "DOWNLOAD_SPEED_LIMIT": "Download speed limit (MB/s)",
     "UNLIMITED": "Unlimited",
     "MULTILINGUAL": "Multilingual",
+    "SEMI_TRANSPARENT_MODE": "Semi-transparent mode",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
