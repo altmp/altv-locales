@@ -164,6 +164,10 @@
     "UNLIMITED": "Без ограничений",
     "MULTILINGUAL": "Многоязычный",
     "SEMI_TRANSPARENT_MODE": "Полупрозрачный режим",
+    "PERMISSIONS_LOAD_FAILED": "Не удалось загрузить разрешения",
+    "DENIED_SERVER_PERMISSIONS_REQUEST": "Запрос разрешений был отклонён",
+    "FAILED_TO_PARSE_CONNECT_JSON": "Не удалось прочитать connect.json",
+    "CONNECTION_CANCELLED": "Подключение отменено",
 
     "PERMISSION_1": "Записывать окно вашей игры",
     "PERMISSION_2": "Доступ к микрофону и камере",

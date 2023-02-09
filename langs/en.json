@@ -158,6 +158,10 @@
     "UNLIMITED": "Unlimited",
     "MULTILINGUAL": "Multilingual",
     "SEMI_TRANSPARENT_MODE": "Semi-transparent mode",
+    "PERMISSIONS_LOAD_FAILED": "Failed to load permissions",
+    "DENIED_SERVER_PERMISSIONS_REQUEST": "Denied server permissions request",
+    "FAILED_TO_PARSE_CONNECT_JSON": "Failed to parse connect.json",
+    "CONNECTION_CANCELLED": "Connection cancelled",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
