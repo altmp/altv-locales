@@ -1,11 +1,12 @@
 {
   "name": "فارسی",
+  "rtl": true,
   "strings": {
     "HOME": "خانه",
-    "WELCOME_TO": "خوش آمدید به",
+    "WELCOME_TO": "{0}\nخوش آمدید به",
     "RECENT_SERVERS": "سرور های اخیر",
-    "PLAYERS_ONLINE": "بازیکنان آنلاین",
-    "SERVERS_ONLINE": "سرور های آنلاین",
+    "PLAYERS_ONLINE": "{0} :بازیکنان آنلاین",
+    "SERVERS_ONLINE": "{0} :سرور های آنلاین",
     "SERVERS": "سرور ها",
     "FAVORITES": "علاقه مندی ها",
     "HISTORY": "تاریخچه",

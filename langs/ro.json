@@ -1,11 +1,12 @@
 {
   "name": "Română",
+  "rtl": false,
   "strings": {
     "HOME": "Acasă",
-    "WELCOME_TO": "Bine ai venit pe",
+    "WELCOME_TO": "Bine ai venit pe\n{0}",
     "RECENT_SERVERS": "Servere recente",
-    "PLAYERS_ONLINE": "Jucători online",
-    "SERVERS_ONLINE": "Servere online",
+    "PLAYERS_ONLINE": "Jucători online: {0}",
+    "SERVERS_ONLINE": "Servere online: {0}",
     "SERVERS": "Servere",
     "FAVORITES": "Favorite",
     "HISTORY": "Istoric",

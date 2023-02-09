@@ -1,5 +1,6 @@
 {
   "name": "Norsk Bokmål",
+  "rtl": false,
   "strings": {
     "SERVERS": "Servere",
     "FAVORITES": "Favoritter",

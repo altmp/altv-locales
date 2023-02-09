@@ -1,11 +1,12 @@
 {
   "name": "Lietuvių",
+  "rtl": false,
   "strings": {
     "HOME": "Pagrindinis",
-    "WELCOME_TO": "Sveiki atvykę į",
+    "WELCOME_TO": "Sveiki atvykę į\n{0}",
     "RECENT_SERVERS": "Paskutinį kartą aplankyti serveriai",
-    "PLAYERS_ONLINE": "Prisijungę žaidėjai",
-    "SERVERS_ONLINE": "Veikiantys serveriai",
+    "PLAYERS_ONLINE": "Prisijungę žaidėjai: {0}",
+    "SERVERS_ONLINE": "Veikiantys serveriai: {0}",
     "SERVERS": "Serveriai",
     "FAVORITES": "Mėgstamiausi",
     "HISTORY": "Istorija",

@@ -1,11 +1,12 @@
 {
   "name": "עברית",
+  "rtl": true,
   "strings": {
     "HOME": "בית",
-    "WELCOME_TO": "ברוך הבא ל- ",
+    "WELCOME_TO": "{0}\nברוך הבא ל- ",
     "RECENT_SERVERS": "שרתים אחרונים",
-    "PLAYERS_ONLINE": "שחקנים מחוברים",
-    "SERVERS_ONLINE": "שרתים מקוונים",
+    "PLAYERS_ONLINE": "{0} :שחקנים מחוברים",
+    "SERVERS_ONLINE": "{0} :שרתים מקוונים",
     "SERVERS": "שרתים",
     "FAVORITES": "מועדפים",
     "HISTORY": "היסטוריה",

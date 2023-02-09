@@ -1,11 +1,12 @@
 {
   "name": "India Tamil",
+  "rtl": false,
   "strings": {
     "HOME": "வீடு",
-    "WELCOME_TO": "வரவேற்கிறோம்",
+    "WELCOME_TO": "வரவேற்கிறோம்\n{0}",
     "RECENT_SERVERS": "சமீபத்திய சேவையகங்கள்",
-    "PLAYERS_ONLINE": "வீரர்கள் ஆன்லைனில்",
-    "SERVERS_ONLINE": "சேவையகங்கள் ஆன்லைனில்",
+    "PLAYERS_ONLINE": "வீரர்கள் ஆன்லைனில்: {0}",
+    "SERVERS_ONLINE": "சேவையகங்கள் ஆன்லைனில்: {0}",
     "SERVERS": "சேவையகங்கள்",
     "FAVORITES": "பிடித்தவை",
     "HISTORY": "வரலாறு",

@@ -1,5 +1,6 @@
 {
   "name": "العربية",
+  "rtl": true,
   "strings": {
     "SERVERS": "الخوادم",
     "FAVORITES": "المفضلة",

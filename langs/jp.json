@@ -1,11 +1,12 @@
 {
   "name": "日本語",
+  "rtl": false,
   "strings": {
     "HOME": "自宅",
-    "WELCOME_TO": "ようこそ",
+    "WELCOME_TO": "ようこそ\n{0}",
     "RECENT_SERVERS": "最近のサーバー",
-    "PLAYERS_ONLINE": "オンラインプレイヤー",
-    "SERVERS_ONLINE": "オンラインサーバー",
+    "PLAYERS_ONLINE": "オンラインプレイヤー: {0}",
+    "SERVERS_ONLINE": "オンラインサーバー: {0}",
     "SERVERS": "サーバー",
     "FAVORITES": "お気に入り",
     "HISTORY": "歴史",

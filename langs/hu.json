@@ -1,11 +1,12 @@
 {
   "name": "Magyar",
+  "rtl": false,
   "strings": {
     "HOME": "Főoldal",
-    "WELCOME_TO": "Üdvözlünk a",
+    "WELCOME_TO": "Üdvözlünk a\n{0}",
     "RECENT_SERVERS": "Legutóbbi szerverek",
-    "PLAYERS_ONLINE": "Elérhető játékosok",
-    "SERVERS_ONLINE": "Elérhető szerverek",
+    "PLAYERS_ONLINE": "Elérhető játékosok: {0}",
+    "SERVERS_ONLINE": "Elérhető szerverek: {0}",
     "SERVERS": "Szerverek",
     "FAVORITES": "Kedvencek",
     "HISTORY": "Legutóbbi szerverek",

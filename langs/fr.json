@@ -1,11 +1,12 @@
 {
   "name": "Français",
+  "rtl": false,
   "strings": {
     "HOME": "Accueil",
-    "WELCOME_TO": "Bienvenue",
+    "WELCOME_TO": "Bienvenue\n{0}",
     "RECENT_SERVERS": "Serveurs récents",
-    "PLAYERS_ONLINE": "Joueurs connectés",
-    "SERVERS_ONLINE": "Serveurs en ligne",
+    "PLAYERS_ONLINE": "Joueurs connectés: {0}",
+    "SERVERS_ONLINE": "Serveurs en ligne: {0}",
     "SERVERS": "Serveurs",
     "FAVORITES": "Favoris",
     "HISTORY": "Historique",

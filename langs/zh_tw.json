@@ -1,11 +1,12 @@
 {
   "name": "正體中文",
+  "rtl": false,
   "strings": {
     "HOME": "首頁",
-    "WELCOME_TO": "歡迎來到",
+    "WELCOME_TO": "歡迎來到\n{0}",
     "RECENT_SERVERS": "最近鏈接",
-    "PLAYERS_ONLINE": "縂在綫玩家",
-    "SERVERS_ONLINE": "縂在綫伺服器",
+    "PLAYERS_ONLINE": "縂在綫玩家: {0}",
+    "SERVERS_ONLINE": "縂在綫伺服器: {0}",
     "SERVERS": "伺服器",
     "FAVORITES": "收藏",
     "HISTORY": "歷史",

@@ -1,11 +1,12 @@
 {
   "name": "Português Brasileiro",
+  "rtl": false,
   "strings": {
     "HOME": "Inicio",
-    "WELCOME_TO": "Bem vindo ao",
+    "WELCOME_TO": "Bem vindo ao\n{0}",
     "RECENT_SERVERS": "Servidores recentes",
-    "PLAYERS_ONLINE": "Jogadores online",
-    "SERVERS_ONLINE": "Servidores online",
+    "PLAYERS_ONLINE": "Jogadores online: {0}",
+    "SERVERS_ONLINE": "Servidores online: {0}",
     "SERVERS": "Servidores",
     "FAVORITES": "Favoritos",
     "HISTORY": "Histórico",

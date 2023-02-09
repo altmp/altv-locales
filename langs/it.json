@@ -1,11 +1,12 @@
 {
   "name": "Italiano",
+  "rtl": false,
   "strings": {
     "HOME": "Home",
-    "WELCOME_TO": "Benvenuto su",
+    "WELCOME_TO": "Benvenuto su\n{0}",
     "RECENT_SERVERS": "Server recenti",
-    "PLAYERS_ONLINE": "Giocatori online",
-    "SERVERS_ONLINE": "Server online",
+    "PLAYERS_ONLINE": "Giocatori online: {0}",
+    "SERVERS_ONLINE": "Server online: {0}",
     "SERVERS": "Servers",
     "FAVORITES": "Preferiti",
     "HISTORY": "Cronologia",

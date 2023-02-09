@@ -1,5 +1,6 @@
 {
   "name": "Português",
+  "rtl": false,
   "strings": {
     "SERVERS": "Servidores",
     "FAVORITES": "Favoritos",

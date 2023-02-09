@@ -1,11 +1,12 @@
 {
   "name": "Српски",
+  "rtl": false,
   "strings": {
     "HOME": "Почетна",
-    "WELCOME_TO": "Добро дошли у",
+    "WELCOME_TO": "Добро дошли у\n{0}",
     "RECENT_SERVERS": "Скорашњи сервери",
-    "PLAYERS_ONLINE": "Играча на мрежи",
-    "SERVERS_ONLINE": "Сервера на мрежи",
+    "PLAYERS_ONLINE": "Играча на мрежи: {0}",
+    "SERVERS_ONLINE": "Сервера на мрежи: {0}",
     "SERVERS": "Сервери",
     "FAVORITES": "Омиљени",
     "HISTORY": "Историја",

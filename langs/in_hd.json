@@ -1,11 +1,12 @@
 {
   "name": "India Hindi",
+  "rtl": false,
   "strings": {
     "HOME": "घर",
-    "WELCOME_TO": "आपका स्वागत है",
+    "WELCOME_TO": "आपका स्वागत है\n{0}",
     "RECENT_SERVERS": "हाल ही में सर्वर",
-    "PLAYERS_ONLINE": "खिलाड़ियों को ऑनलाइन",
-    "SERVERS_ONLINE": "ऑनलाइन सर्वर",
+    "PLAYERS_ONLINE": "खिलाड़ियों को ऑनलाइन: {0}",
+    "SERVERS_ONLINE": "ऑनलाइन सर्वर: {0}",
     "SERVERS": "सर्वर",
     "FAVORITES": "पसंदीदा",
     "HISTORY": "इतिहास",

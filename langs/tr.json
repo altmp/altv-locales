@@ -1,11 +1,12 @@
 {
   "name": "Türkçe",
+  "rtl": false,
   "strings": {
     "HOME": "Ana sayfa",
-    "WELCOME_TO": "İşte karşınızda",
+    "WELCOME_TO": "İşte karşınızda\n{0}",
     "RECENT_SERVERS": "Geçmiş sunucular",
-    "PLAYERS_ONLINE": "Toplam oyuncu",
-    "SERVERS_ONLINE": "Toplam sunucu",
+    "PLAYERS_ONLINE": "Toplam oyuncu: {0}",
+    "SERVERS_ONLINE": "Toplam sunucu: {0}",
     "SERVERS": "Sunucular",
     "FAVORITES": "Favoriler",
     "HISTORY": "Geçmiş",
