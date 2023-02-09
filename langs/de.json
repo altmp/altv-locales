@@ -5,8 +5,10 @@
     "HOME": "Startseite",
     "WELCOME_TO": "Willkommen bei\n{0}",
     "RECENT_SERVERS": "Letzte Server",
-    "PLAYERS_ONLINE": "Spieler online: {0}",
-    "SERVERS_ONLINE": "Server online: {0}",
+    "PLAYERS_ONLINE:ONE": "{0} Spieler online",
+    "PLAYERS_ONLINE:OTHER": "{0} Spieler online",
+    "SERVERS_ONLINE:ONE": "{0} Server online",
+    "SERVERS_ONLINE:OTHER": "{0} Server online",
     "SERVERS": "Server",
     "FAVORITES": "Favoriten",
     "HISTORY": "Verlauf",
@@ -147,6 +149,15 @@
     "ALLOWED_REQUIRED_ONLY": "Nur Erforderliche zulassen",
     "ENTER_YOUR_NICKNAME": "Gebe deinen Namen an",
     "SAVE": "Speichern",
+    "IN_CHANNEL": "in {0}",
+    "EDITED": "bearbeitet",
+    "DISABLE_RTL": "Deaktivere RTL",
+    "YOU_DIDNT_JOIN_ANY_SERVER_YET": "Du bist noch keinem Server beigetreten",
+    "SERVER_SHUTDOWN": "Server heruntergefahren",
+    "DOWNLOAD_SPEED_LIMIT": "Geschwindigkeitsbegrenzung (KB/s)",
+    "UNLIMITED": "Unbegrenzt",
+    "MULTILINGUAL": "Mehrsprachig",
+    "SEMI_TRANSPARENT_MODE": "Semi-transparenter Modus",
     
     "PERMISSION_1": "Das Spielfenster aufzeichnen",
     "PERMISSION_2": "Zugriff auf Mikrofon und Webcam",
@@ -168,5 +179,6 @@
     "LAUNCHER_PHASE_DOWNLOADING": "Herunterladen - {0}",
     "LAUNCHER_PHASE_LAUNCH_GTA": "STARTE\nGRAND THEFT AUTO V",
     "LAUNCHER_PHASE_FINISHED": "BEENDET"
+    
   }
 }
