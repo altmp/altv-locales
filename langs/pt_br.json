@@ -152,6 +152,7 @@
     "IN_CHANNEL": "em {0}",
     "EDITED": "editado",
     "DISABLE_RTL": "Desabilitar RTL",
+    "YOU_DIDNT_JOIN_ANY_SERVER_YET": "Você não entrou em nenhum servidor ainda.",
     "SERVER_SHUTDOWN": "O servidor foi desligado",
     "DOWNLOAD_SPEED_LIMIT": "Limite de download (KB/s)",
     "UNLIMITED": "Ilimitado",
