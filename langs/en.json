@@ -260,7 +260,7 @@
     "RECOMMENDED_LOCATION": "Recommended location",
     "CHOOSE_LOCATION_MYSELF": "I want to choose it myself",
     "SELECT_ALTV_FOLDER": "Select alt:V folder",
-    "SELECT_ALTV_FOLDER_NOTICE": "Do not select a folder with restricted permissions (like Program Files) or a folder with non-latin symbols",
+    "SELECT_ALTV_FOLDER_NOTICE": "Do not select a folder with restricted permissions (like Program Files) or a folder with non-latin symbols. Usage of those folders may lead to unexpected side effects",
     "INSTALLER_PRERELEASE": "You are installing a pre-release version of alt:V ({0} branch). If you want to install the release version, please download the installer from {1}",
     "DO_YOU_NEED_SHORTCUTS": "Do you need shortcuts?",
     "ADD_SHORTCUT_TO_START_MENU": "Add shortcut to Start menu",

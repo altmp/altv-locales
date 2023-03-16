@@ -260,7 +260,7 @@
     "RECOMMENDED_LOCATION": "Empfohlener Pfad",
     "CHOOSE_LOCATION_MYSELF": "Ich möchte es selbst wählen",
     "SELECT_ALTV_FOLDER": "alt:V Ordner wählen",
-    "SELECT_ALTV_FOLDER_NOTICE": "Wähle keinen Ordner mit eingeschränkten Berechtigungen (bspw. Programme oder deinen Desktop) oder nicht-lateinischen Zeichen",
+    "SELECT_ALTV_FOLDER_NOTICE": "Wähle keinen Ordner mit eingeschränkten Berechtigungen (bspw. Programme oder deinen Desktop) oder nicht-lateinischen Zeichen. Die Verwendung dieser Ordner kann zu unerwarteten Fehlern führen",
     "INSTALLER_PRERELEASE": "Du installierst eine Vorabversion von alt:V ({0} branch). Wenn du die Release-Version installieren möchtest, lade das Installationsprogramm von {1} herunter",
     "DO_YOU_NEED_SHORTCUTS": "Sollen Verknüpfungen erstellt werden?",
     "ADD_SHORTCUT_TO_START_MENU": "Startmenü-Verknüpfung erstellen",
