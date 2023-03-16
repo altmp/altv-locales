@@ -168,6 +168,7 @@
     "DENIED_SERVER_PERMISSIONS_REQUEST": "Запрос разрешений был отклонён",
     "FAILED_TO_PARSE_CONNECT_JSON": "Не удалось прочитать connect.json",
     "CONNECTION_CANCELLED": "Подключение отменено",
+    "NETGRAPH": "Отображать FPS и сетевую статистику (netgraph)",
 
     "PERMISSION_1": "Записывать окно вашей игры",
     "PERMISSION_2": "Доступ к микрофону и камере",
