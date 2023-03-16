@@ -91,23 +91,6 @@
     "CONFIRM": "Potvrdit",
     "HELP": "Pomoc",
     "RECONNECT": "Znovu připojit",
-    "CRASH_REPORTER_ENABLED": "Povolení služby hlášení pádů",
-  
-    "LAUNCHER_SELECT_DIRECTORY": "Chcete zvolit složku kam nainstalovat alt:V?\nZmáčkněte ne pro instalaci alt:V zde",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "Vyberte složku, kde máte nainstalováno Grand Theft Auto V",
-    "LAUNCHER_CREATE_SHORTCUT": "Chcete vytvořit zástupce na ploše?",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Chcete vytvořit zástupce v nabídce start?",
-    "LAUNCHER_INSTALL_ALTV_IN": "Nainstalovat alt:V do '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Soubor GTAVLauncher.exe nebyl v cílové složce nalezen",
-    "LAUNCHER_SELECT_ALTV_DIR": "Vybrat složku kam nainstalovat alt:V",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "NAČÍTÁNÍ alt:V KLIENTA",
-    "LAUNCHER_PHASE_STARTING": "STARTOVANÍ",
-    "LAUNCHER_PHASE_SETTING_UP": "NAČÍTÁNÍ KONFIGURACE",
-    "LAUNCHER_PHASE_UPDATES": "KONTROLA AKTUALIZACÍ",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "Nový launcher",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Startování nového launcheru",
-    "LAUNCHER_PHASE_DOWNLOADING": "Stahování - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "SPOUŠTĚNÍ\nGRAND THEFT AUTO V",
-    "LAUNCHER_PHASE_FINISHED": "DOKONČENO"
+    "CRASH_REPORTER_ENABLED": "Povolení služby hlášení pádů"
   }
 }

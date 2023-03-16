@@ -90,24 +90,6 @@
     "CONFIRM": "Apstiprināt",
     "HELP": "Palīdzība",
     "RECONNECT": "Atkārtoti savienot",
-    "CRASH_REPORTER_ENABLED": "Aktivizēt avārijas paziņojumu pakalpojumu",
-
-    "LAUNCHER_SELECT_DIRECTORY": "Vai vēlaties izvēlēties direktoriju?\nNospiediet nē, lai šeit instalētu alt:V",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "Izvēlieties Grand Theft Auto V instalāciju",
-    "LAUNCHER_CREATE_SHORTCUT": "Vai vēlaties izveidot darbvirsmas saīsni?",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Vai vēlaties izveidot sākuma izvēlnes saīsni?",
-    "LAUNCHER_INSTALL_ALTV_IN": "Instalējiet alt:V iekš '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Fails GTAVLauncher.exe mērķa direktorijā netika atrasts",
-    "LAUNCHER_SELECT_ALTV_DIR": "Izvēlieties vietu, kur instalēt alt:V",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "NOTIEK alt:V KLIENTA IELĀDE",
-    "LAUNCHER_PHASE_STARTING": "SĀKAS",
-    "LAUNCHER_PHASE_SETTING_UP": "NOTIEK UZSTĀDĪŠANA",
-    "LAUNCHER_PHASE_UPDATES": "NOTIEK ATJAUNINĀJUMU PĀRBAUDE",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "Jauna palaišanas programma",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Notiek jaunas palaišanas programmas palaišana",
-    "LAUNCHER_PHASE_DOWNLOADING": "Lejupielādē - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "PALAIŽ\nGRAND THEFT AUTO V",
-    "LAUNCHER_PHASE_FINISHED": "PABEIGTS"
-
+    "CRASH_REPORTER_ENABLED": "Aktivizēt avārijas paziņojumu pakalpojumu"
   }
 }
