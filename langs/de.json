@@ -162,6 +162,7 @@
     "DENIED_SERVER_PERMISSIONS_REQUEST": "Abgelehnte Serverberechtigungsanfragen",
     "FAILED_TO_PARSE_CONNECT_JSON": "Die connect.json Datei konnte nicht korrekt ausgelesen werden",
     "CONNECTION_CANCELLED": "Verbindung abgebrochen",
+    "NETGRAPH": "Zeige FPS und Netzwerkstatistiken an (netgraph)",
     
     "PERMISSION_1": "Das Spielfenster aufzeichnen",
     "PERMISSION_2": "Zugriff auf Mikrofon und Webcam",
