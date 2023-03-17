@@ -163,6 +163,10 @@
     "FAILED_TO_PARSE_CONNECT_JSON": "Die connect.json Datei konnte nicht korrekt ausgelesen werden",
     "CONNECTION_CANCELLED": "Verbindung abgebrochen",
     "NETGRAPH": "FPS und Netzwerkstatistiken anzeigen (netgraph)",
+    "EXIT_TO_DESKTOP": "Zum Desktop zurückkehren",
+    "ARE_YOU_SURE_EXIT": "Bist du dir sicher, dass du das Programm beenden wollen?",
+    "APPLY_SERVER_SKIN": "Server-Design anwenden",
+    "RESTORE_DEFAULT_SKIN": "Standard-Design wiederherstellen",
 
     "PERMISSION_1": "Das Spielfenster aufzeichnen",
     "PERMISSION_2": "Zugriff auf Mikrofon und Webcam",
