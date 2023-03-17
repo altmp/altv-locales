@@ -167,23 +167,6 @@
 
     "PERMISSION_1": "Képernyőkép készítése",
     "PERMISSION_2": "Mikrofon és webkamera hozzáférés",
-    "PERMISSION_3": "Szöveg másolása vágólapra",
-
-    "LAUNCHER_SELECT_DIRECTORY": "Ki akarod választani a könyvtárat?\nNyomj nemet az alt:V itteni telepítéséhez",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "Válaszd ki a Grand Theft Auto V telepítési helyét",
-    "LAUNCHER_CREATE_SHORTCUT": "Szeretnél asztali parancsikont létrehozni?",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Szeretnél start menü parancsikont?",
-    "LAUNCHER_INSTALL_ALTV_IN": "alt:V telepítése ide '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "GTAVLauncher.exe fájl nem található a célkönyvtárban",
-    "LAUNCHER_SELECT_ALTV_DIR": "Válaszd ki az alt:V telepítési helyét",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "alt:V KLIENS BELTÖLTÉSE",
-    "LAUNCHER_PHASE_STARTING": "INDÍTÁS",
-    "LAUNCHER_PHASE_SETTING_UP": "BEÁLLÍTÁS",
-    "LAUNCHER_PHASE_UPDATES": "FRISSÍTÉSEK KERESÉSE",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "Új alkalmazásindító",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Új alkalmazásindító indítása",
-    "LAUNCHER_PHASE_DOWNLOADING": "Letöltés - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "INDÍTÁS\nGRAND THEFT AUTO V",
-    "LAUNCHER_PHASE_FINISHED": "KÉSZ"
+    "PERMISSION_3": "Szöveg másolása vágólapra"
   }
 }

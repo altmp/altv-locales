@@ -166,23 +166,6 @@
     
     "PERMISSION_1": "پنجره بازی خود را ضبط کنید",
     "PERMISSION_2": "دسترسی به میکروفون و وب کم",
-    "PERMISSION_3": "متن را در کلیپ بورد کپی کنید",
-    
-    "LAUNCHER_SELECT_DIRECTORY": "آیا می خواهید دایرکتوری را انتخاب کنید؟\nبرای نصب alt:V اینجا را فشار دهید",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "نصب Grand Theft Auto V را انتخاب کنید",
-    "LAUNCHER_CREATE_SHORTCUT": "آیا می خواهید میانبر دسکتاپ ایجاد کنید؟",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "آیا می خواهید میانبر منوی استارت ایجاد کنید؟",
-    "LAUNCHER_INSTALL_ALTV_IN": "نصب alt:V در '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "فایل GTAVLauncher.exe در پوشه مورد نظر یافت نشد",
-    "LAUNCHER_SELECT_ALTV_DIR": "محل نصب alt:V را انتخاب کنید",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "در حال بارگیری alt:V CLIENT",
-    "LAUNCHER_PHASE_STARTING": "در حال اجرا",
-    "LAUNCHER_PHASE_SETTING_UP": "راه اندازی",
-    "LAUNCHER_PHASE_UPDATES": "بررسی برای به روز رسانی",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "لانچر جدید",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "راه اندازی لانچر جدید",
-    "LAUNCHER_PHASE_DOWNLOADING": "در حال دانلود - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "راه اندازی \n GRAND THEFT AUTO V",
-    "LAUNCHER_PHASE_FINISHED": "تمام شده"
+    "PERMISSION_3": "متن را در کلیپ بورد کپی کنید"
   }
 }
