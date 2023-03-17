@@ -166,23 +166,6 @@
     
     "PERMISSION_1": "Gravar sua tela dentro do jogo",
     "PERMISSION_2": "Acesso ao microfone e à webcam",
-    "PERMISSION_3": "Copiar texto para a área de transferência",
-    
-    "LAUNCHER_SELECT_DIRECTORY": "Você deseja selecionar uma pasta?\nPressione não para instalar alt:V aqui",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "Selecione o seu local de instalação do Grand Theft Auto V",
-    "LAUNCHER_CREATE_SHORTCUT": "Você deseja criar um atalho na área de trabalho?",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Você deseja criar um atalho no menu de início?",
-    "LAUNCHER_INSTALL_ALTV_IN": "Intalar alt:V em '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "O arquivo GTVLauncher.exe não foi encontrado na pasta selecionada",
-    "LAUNCHER_SELECT_ALTV_DIR": "Selecione onde deseja instalar o alt:V",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "CARREGANDO O CLIENTE alt:V",
-    "LAUNCHER_PHASE_STARTING": "INICIANDO",
-    "LAUNCHER_PHASE_SETTING_UP": "CONFIGURANDO",
-    "LAUNCHER_PHASE_UPDATES": "VERIFICANDO ATUALIZAÇÕES",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "Novo launcher",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Iniciando novo launcher",
-    "LAUNCHER_PHASE_DOWNLOADING": "Baixando - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "INICIANDO\nGRAND THEFT AUTO V",
-    "LAUNCHER_PHASE_FINISHED": "FINALIZADO"
+    "PERMISSION_3": "Copiar texto para a área de transferência"
   }
 }

@@ -90,22 +90,6 @@
     "CONFIRM": "Patvirtinti",
     "HELP": "Pagalba",
     "RECONNECT": "Prisijungti iš naujo",
-    "CRASH_REPORTER_ENABLED": "Įjungti avarijos pranešėjo paslaugą",
-    "LAUNCHER_SELECT_DIRECTORY": "Ar norite pasirinkti katalogą?\nSpauskite ne, kad įdiegtumėte „alt:V“ čia",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "Pasirinkite įdiegto „Grand Theft Auto V“ žaidimo vietą",
-    "LAUNCHER_CREATE_SHORTCUT": "Ar norite sukurti darbalaukio nuorodą?",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Ar norite sukurti pradžios meniu nuorodą?",
-    "LAUNCHER_INSTALL_ALTV_IN": "Įdiegti „alt:V“ į '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Failas GTAVLauncher.exe nerastas nurodytame kataloge",
-    "LAUNCHER_SELECT_ALTV_DIR": "Pasirinkite, kur norite įdiegti „alt:V“",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "KRAUNAMAS alt:V KLIENTAS",
-    "LAUNCHER_PHASE_STARTING": "PRADEDAMA",
-    "LAUNCHER_PHASE_SETTING_UP": "NUSTATOMA",
-    "LAUNCHER_PHASE_UPDATES": "TIKRINAMA, AR YRA ATNAUJINIMŲ",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "Nauja paleidimo programa",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Paleidžiama nauja paleidimo programa",
-    "LAUNCHER_PHASE_DOWNLOADING": "Vykdomas atsisiuntimas - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "PALEIDŽIAMAS\nGRAND THEFT AUTO V",
-    "LAUNCHER_PHASE_FINISHED": "BAIGTA"
+    "CRASH_REPORTER_ENABLED": "Įjungti avarijos pranešėjo paslaugą"
   }
 }

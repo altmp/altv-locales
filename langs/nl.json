@@ -166,24 +166,7 @@
   
       "PERMISSION_1": "Het afspeelvenster opnemen",
       "PERMISSION_2": "Toegang tot microfoon en webcam",
-      "PERMISSION_3": "Tekst kopiëren naar het klembord",
-  
-      "LAUNCHER_SELECT_DIRECTORY": "Wilt u een map selecteren?\nDruk op nee om alt:V hier te installeren",
-      "LAUNCHER_SELECT_GTAV_INSTALL": "Kies uw installatie van Grand Theft Auto V",
-      "LAUNCHER_CREATE_SHORTCUT": "Wilt u een snelkoppeling op het bureaublad maken?",
-      "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Wilt u een snelkoppeling in het menu Start maken?",
-      "LAUNCHER_INSTALL_ALTV_IN": "Installeer alt:V in '",
-      "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "GTAVLauncher.exe niet gevonden in de doelmap",
-      "LAUNCHER_SELECT_ALTV_DIR": "Selecteer waar alt:V moet worden geïnstalleerd",
-      "LAUNCHER_PHASE_LOADING_CLIENT": "LADE alt:V CLIENT",
-      "LAUNCHER_PHASE_STARTING": "START",
-      "LAUNCHER_PHASE_SETTING_UP": "INSTELLING",
-      "LAUNCHER_PHASE_UPDATES": "ZOEKEN NAAR UPDATES",
-      "LAUNCHER_PHASE_NEW_LAUNCHER": "Nieuwe Launcher",
-      "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Nieuwe draagraket starten",
-      "LAUNCHER_PHASE_DOWNLOADING": "Download - {0}",
-      "LAUNCHER_PHASE_LAUNCH_GTA": "START\nGRAND THEFT AUTO V",
-      "LAUNCHER_PHASE_FINISHED": "GESLOTEN"
+      "PERMISSION_3": "Tekst kopiëren naar het klembord"
   
     }
   }

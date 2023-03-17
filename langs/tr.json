@@ -166,24 +166,7 @@
 
     "PERMISSION_1": "Oyun ekranını kaydetme",
     "PERMISSION_2": "Mikrofon ve kamera",
-    "PERMISSION_3": "Panoya metin kopyalama",
-
-    "LAUNCHER_SELECT_DIRECTORY": "Klasör seçmek ister misin?\nalt:V'yi burada kurmak için hayıra bas",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "Grand Theft Auto V kurulumunu seç",
-    "LAUNCHER_CREATE_SHORTCUT": "Masaüstü kısayolu oluşturmak ister misin?",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Başlat menüsü kısayolu oluşturmak ister misin?",
-    "LAUNCHER_INSTALL_ALTV_IN": "alt:V'yi buraya kur '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "GTAVLauncher.exe dosyası hedef klasörde bulunamadı",
-    "LAUNCHER_SELECT_ALTV_DIR": "alt:V'nin nereye kurulacağını seçin",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "alt:V İSTEMCİSİ BAŞLATILIYOR",
-    "LAUNCHER_PHASE_STARTING": "BAŞLATILIYOR",
-    "LAUNCHER_PHASE_SETTING_UP": "AYARLAR YAPILIYOR",
-    "LAUNCHER_PHASE_UPDATES": "GÜNCELLEMELER KONTROL EDİLİYOR",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "Yeni başlatıcı",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Yeni başlatıcı çalıştırılıyor",
-    "LAUNCHER_PHASE_DOWNLOADING": "İndiriliyor - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "GRAND THEFT AUTO V\nBAŞLATILIYOR",
-    "LAUNCHER_PHASE_FINISHED": "Tamamlandı"
+    "PERMISSION_3": "Panoya metin kopyalama"
 
   }
 }

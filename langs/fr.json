@@ -166,23 +166,6 @@
 
     "PERMISSION_1": "Enregistrer la fenêtre de votre jeu",
     "PERMISSION_2": "Accès au microphone et à la webcam",
-    "PERMISSION_3": "Copier du texte dans le presse-papiers",
-
-    "LAUNCHER_SELECT_DIRECTORY": "Voulez-vous sélectionner un répertoire?\nAppuyez sur non pour installer alt:V ici",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "Sélectionnez votre installation de Grand Theft Auto V",
-    "LAUNCHER_CREATE_SHORTCUT": "Voulez-vous créer un raccourci sur le bureau?",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Voulez-vous créer un raccourci dans le menu Démarrer?",
-    "LAUNCHER_INSTALL_ALTV_IN": "Installer alt:V dans '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Fichier GTAVLauncher.exe introuvable dans le répertoire cible",
-    "LAUNCHER_SELECT_ALTV_DIR": "Sélectionnez où installer alt:V",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "CHARGEMENT DU CLIENT alt:V",
-    "LAUNCHER_PHASE_STARTING": "DÉMARRAGE",
-    "LAUNCHER_PHASE_SETTING_UP": "CONFIGURATION",
-    "LAUNCHER_PHASE_UPDATES": "VÉRIFICATION DES MISES À JOUR",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "Nouveau lanceur",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Démarrage d'un nouveau lanceur",
-    "LAUNCHER_PHASE_DOWNLOADING": "Téléchargement - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "LANCEMENT\nGRAND THEFT AUTO V",
-    "LAUNCHER_PHASE_FINISHED": "TERMINÉ"
+    "PERMISSION_3": "Copier du texte dans le presse-papiers"
   }
 }

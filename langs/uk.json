@@ -172,23 +172,6 @@
 
     "PERMISSION_1": "Записувати вікно вашої гри",
     "PERMISSION_2": "Доступ до мікрофону та камери",
-    "PERMISSION_3": "Копіювати текст у буфер обміну",
-
-    "LAUNCHER_SELECT_DIRECTORY": "Ви хочете вибрати папку для встановлення?\nНатисніть ні, щоб встановити alt:V в цій папці",
-    "LAUNCHER_SELECT_GTAV_INSTALL": "Виберіть вашу версію Grand Theft Auto V",
-    "LAUNCHER_CREATE_SHORTCUT": "Ви хочете створити ярлик на рабочому столі?",
-    "LAUNCHER_CREATE_START_MENU_SHORTCUT": "Ви хочете створити ярлик у меню пуск?",
-    "LAUNCHER_INSTALL_ALTV_IN": "Встановити alt:V в '",
-    "LAUNCHER_GTAVLAUNCHER_NOT_FOUND": "Не вдалося знайти файл GTAVLauncher.exe у вибраній папці",
-    "LAUNCHER_SELECT_ALTV_DIR": "Виберіть куди встановити alt:V",
-    "LAUNCHER_PHASE_LOADING_CLIENT": "ЗАВАНТАЖЕННЯ КЛІЄНТА alt:V",
-    "LAUNCHER_PHASE_STARTING": "ЗАПУСК",
-    "LAUNCHER_PHASE_SETTING_UP": "ПІДГОТОВКА",
-    "LAUNCHER_PHASE_UPDATES": "ПЕРЕВІРКА ОНОВЛЕНЬ",
-    "LAUNCHER_PHASE_NEW_LAUNCHER": "Новий лаунчер",
-    "LAUNCHER_PHASE_STARTING_NEW_LAUNCHER": "Запуск нового лаунчера",
-    "LAUNCHER_PHASE_DOWNLOADING": "Загрузка - {0}",
-    "LAUNCHER_PHASE_LAUNCH_GTA": "ЗАПУСК\nGRAND THEFT AUTO V",
-    "LAUNCHER_PHASE_FINISHED": "ЗАВЕРШЕНО"
+    "PERMISSION_3": "Копіювати текст у буфер обміну"
   }
 }
