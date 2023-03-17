@@ -163,6 +163,10 @@
     "FAILED_TO_PARSE_CONNECT_JSON": "Failed to parse connect.json",
     "CONNECTION_CANCELLED": "Connection cancelled",
     "NETGRAPH": "Display FPS and network stats (netgraph)",
+    "EXIT_TO_DESKTOP": "Exit to desktop",
+    "ARE_YOU_SURE_EXIT": "Are you sure you want to exit?",
+    "APPLY_SERVER_SKIN": "Apply server skin",
+    "DISABLE_CUSTOM_SKIN": "Disable custom skin",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",

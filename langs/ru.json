@@ -169,6 +169,10 @@
     "FAILED_TO_PARSE_CONNECT_JSON": "Не удалось прочитать connect.json",
     "CONNECTION_CANCELLED": "Подключение отменено",
     "NETGRAPH": "Отображать FPS и сетевую статистику (netgraph)",
+    "EXIT_TO_DESKTOP": "Выйти на рабочий стол",
+    "ARE_YOU_SURE_EXIT": "Вы уверены, что хотите выйти из игры?",
+    "APPLY_SERVER_SKIN": "Применить тему сервера",
+    "DISABLE_CUSTOM_SKIN": "Выключить тему интерфейса",
 
     "PERMISSION_1": "Записывать окно вашей игры",
     "PERMISSION_2": "Доступ к микрофону и камере",
