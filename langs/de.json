@@ -136,6 +136,7 @@
     "DOWNLOADING_RESOURCES": "Ressourcen herunterladen",
     "VALIDATING_RESOURCES": "Ressourcen prüfen",
     "DOWNLOADING_RUNTIMES": "Runtimes herunterladen",
+    "VALIDATING_RUNTIMES": "Validiere Runtimes",
     "IN_QUEUE": "In Warteschlange",
     "LEAVE_QUEUE": "Warteschlange verlassen",
     "SERVER_UPDATE": "Server aktualisieren",
