@@ -93,7 +93,6 @@
     "HELP": "Segítség",
     "RECONNECT": "Újracsatlakozás",
     "CRASH_REPORTER_ENABLED": "Összeomlás jelentő engedélyezése",
-
     "SERVER_DATA": "Szerver adatok",
     "RESOURCES_SIZE": "Fájlok: {0}",
     "DATA_SIZE": "Data: {0}",
@@ -137,6 +136,7 @@
     "DOWNLOADING_RESOURCES": "Fájlok letöltése",
     "VALIDATING_RESOURCES": "Fájlok hitelesítése",
     "DOWNLOADING_RUNTIMES": "Keretrendszer letöltése",
+    "VALIDATING_RUNTIMES": "Keretrendszer hitelesítése",
     "IN_QUEUE": "Várólistában",
     "LEAVE_QUEUE": "Várólista elhagyása",
     "SERVER_UPDATE": "Szerver frissítés",
@@ -164,6 +164,10 @@
     "FAILED_TO_PARSE_CONNECT_JSON": "connect.json fájl nem értelmezhető",
     "CONNECTION_CANCELLED": "A kapcsolat megszakadt",
     "NETGRAPH": "FPS és hálózati statisztikák megjelenítése (netgraph)",
+    "EXIT_TO_DESKTOP": "Kilépés az asztalra",
+    "ARE_YOU_SURE_EXIT": "Biztos, hogy ki akarsz lépni?",
+    "APPLY_SERVER_SKIN": "Szerver kinézetének alkalmazása",
+    "RESTORE_DEFAULT_SKIN": "Alapértelmezett kinézet visszaállítása",
 
     "PERMISSION_1": "Képernyőkép készítése",
     "PERMISSION_2": "Mikrofon és webkamera hozzáférés",
