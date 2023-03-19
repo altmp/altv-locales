@@ -164,7 +164,7 @@
     "FAILED_TO_PARSE_CONNECT_JSON": "connect.json ayrıştırılırken hata oluştu",
     "CONNECTION_CANCELLED": "Bağlantı iptal edildi",
     "NETGRAPH": "FPS ve ağ istatistiklerini göster (netgraph)",
-    "EXIT_TO_DESKTOP": "Exit to desktop",
+    "EXIT_TO_DESKTOP": "Masaüstüne çık",
     "ARE_YOU_SURE_EXIT": "Çıkmak istediğine emin misin?",
     "APPLY_SERVER_SKIN": "Sunucu cildini uygula.",
     "RESTORE_DEFAULT_SKIN": "Varsayılan cildi geri yükle",
