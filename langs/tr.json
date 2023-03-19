@@ -190,7 +190,7 @@
     "ERR_NOT_GTAV_PATH": "Bu geçerli bir GTA V kurulumu gibi görünmüyor, doğru klasörü seçtiğinizden emin olun",
     "ERR_NOT_PLATFORM_PATH": "Bu {0} geçerli bir GTA V kurulumu gibi görünmüyor. Doğru klasörü seçtiğinizden ve en az bir kez tek oyunculu başlattığınızdan emin olun",
     "ERR_INVALID_SELECTED_GAME_PATH": "Seçili oyun klasörü {0} geçerli bir GTA V kurulumu değil",
-    "ERR_INSTALL_PATH_DOES_NOT_EXIST": "Selected install path does not exist",
+    "ERR_INSTALL_PATH_DOES_NOT_EXIST": "Seçili kurulum yolu geçerli değil",
     "ERR_INVALID_INSTALL_PATH": "Seçilen kurulum yolu mevcut değil",
     "ERR_INSTALL_FOLDER_SHOULD_BE_EMPTY": "Seçilen kurulum klasörü boş olmalı",
     "ERR_FAILED_TO_PREPARE_INSTALL_FOLDER": "Kurulum klasörü hazırlanamadı",
