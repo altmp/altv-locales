@@ -137,6 +137,7 @@
     "DOWNLOADING_RESOURCES": "Pobieranie zasobów",
     "VALIDATING_RESOURCES": "Walidacja zasobów",
     "DOWNLOADING_RUNTIMES": "Pobieranie bibliotek",
+    "VALIDATING_RUNTIMES": "Walidacja bibliotek",
     "IN_QUEUE": "W kolejce",
     "LEAVE_QUEUE": "Opuść kolejkę",
     "SERVER_UPDATE": "Aktualizacja serwera",
