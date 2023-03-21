@@ -205,7 +205,7 @@
     "ERR_FAILED_TO_READ_CONFIG": "Не вдалося прочитати файл конфігурації",
     "ERR_FAILED_TO_CREATE_REG_ENTRY": "Не вдалося створити запис в реєстрі",
     "ERR_FAILED_TO_DELETE_REG_ENTRY": "Не вдалося видалити запис в реєстрі",
-    "ERR_FAILED_TO_WRITE_REG_ENTRY": "Не вдалося записати в реєстр.",
+    "ERR_FAILED_TO_WRITE_REG_ENTRY": "Не вдалося записати в реєстр",
     "ERR_FAILED_TO_DELETE_FILE": "Не вдалося вилучити файл",
     "ERR_FAILED_TO_DELETE_OLD_LAUNCHER_FILES": "Не вдалося вилучити старі файли запуску",
     "ERR_FAILED_TO_COPY_NEW_LAUNCHER_FILES": "Не вдалося скопіювати нові файли запуску",
