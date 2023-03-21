@@ -264,7 +264,7 @@
     "SELECT_ALTV_FOLDER": "Wybierz folder alt:V",
     "SELECT_ALTV_FOLDER_NOTICE": "Nie wybieraj folderu z ograniczonymi uprawnieniami (np. Program Files) lub folderu z niestandardowymi znakami w nazwie. Używanie tych folderów może prowadzić do nieoczekiwanych efektów ubocznych",
     "INSTALLER_PRERELEASE": "Instalujesz wersję pre-release klienta alt:V Multiplayer (kanał {0}). Jeżeli chcesz zainstalować wersję z kanału stabilnego, pobierz instalator ponownie ze strony {1}",
-    "DO_YOU_NEED_SHORTCUTS": "Czy potrzebujesz skrótu?",
+    "DO_YOU_NEED_SHORTCUTS": "Dodawanie skrótów",
     "ADD_SHORTCUT_TO_START_MENU": "Dodaj skrót do menu start",
     "ADD_SHORTCUT_TO_DESKTOP": "Dodaj skrót na pulpicie",
     "SELECT_GTAV_LOCATION": "Wybierz lokalizację GTA V",
