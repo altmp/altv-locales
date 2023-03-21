@@ -165,6 +165,10 @@
     "FAILED_TO_PARSE_CONNECT_JSON": "Nie udało się odczytać pliku connect.json",
     "CONNECTION_CANCELLED": "Połączenie przerwane",
     "NETGRAPH": "Wyświetla FPS i statystyki sieci (netgraph)",
+    "EXIT_TO_DESKTOP": "Wyjście do pulpitu",
+    "ARE_YOU_SURE_EXIT": "Czy na pewno chcesz wyjść?",
+    "APPLY_SERVER_SKIN": "Ustaw wygląd serwera",
+    "RESTORE_DEFAULT_SKIN": "Zresetuj wygląd do domyślnego",
 
     "PERMISSION_1": "Nagrywanie okna gry",
     "PERMISSION_2": "Dostęp do mikrofonu i kamery",
