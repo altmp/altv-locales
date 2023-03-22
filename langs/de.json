@@ -182,8 +182,8 @@
     "ERR_FAILED_TO_INIT_LOG_FILE": "Die Log-Datei konnte nicht initialisiert werden",
     "ERR_FAILED_TO_CREATE_WINDOW": "Das Fenster konnte nicht erstellt werden",
     "ERR_FAILED_TO_FETCH_FILE": "Die Datei konnte nicht abgerufen werden",
-    "ERR_FAILED_TO_FETCH_UPDATE_INFO": "Die Update-Informationen konnte nicht abgerufen werden",
-    "ERR_FAILED_TO_PARSE_UPDATE_INFO": "Die Update-Informationen konnte nicht verarbeitet werden",
+    "ERR_FAILED_TO_FETCH_UPDATE_INFO": "Fehler beim Abrufen der Update-Informationen",
+    "ERR_FAILED_TO_PARSE_UPDATE_INFO": "Fehler beim Verarbeiten der Update-Informationen",
     "ERR_FAILED_TO_DOWNLOAD_FILE": "Die Datei konnte nicht heruntergeladen werden",
     "ERR_FAILED_TO_VALIDATE_FILE": "Die Datei konnte nicht geprüft werden",
     "ERR_PATH_DOES_NOT_EXIST": "Der ausgewählte Pfad existiert nicht",
@@ -231,6 +231,7 @@
     "SOL_VERIFY_GAME_FILES": "Prüfe die Integrität der Spieldateien",
     "SOL_DELETE_FILE_FROM_GAME": "Lösche {0} aus deinem GTA V Ordner",
     "SOL_USE_OFFLINE_MODE": "Verwende den Offline-Modus",
+    "SOL_INCREASE_GAME_TIMEOUT": "Erhöhe den Wert der Zeitüberschreitung. Weitere Informationen findest du auf unserer Fehlerbehebungsseite",
 
     "SHOW_ADDITIONAL_INFO": "Mehr Informationen anzeigen",
     "HIDE_ADDITIONAL_INFO": "Weniger Informationen anzeigen",
