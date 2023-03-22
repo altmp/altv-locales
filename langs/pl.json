@@ -305,6 +305,7 @@
     "DELETING_FILE": "Usuwanie pliku {0} z {1}",
     "UPDATING_SKIN": "Aktualizacja wyglądu launchera",
     "STARTING_GTAV": "Uruchamianie Grand Theft Auto V",
-    "LOADING_CLIENT": "Ładowanie klienta alt:V Multiplayer"
+    "LOADING_CLIENT": "Ładowanie klienta alt:V Multiplayer",
+    "STARTING_THE_GAME": "Uruchamianie Grand Theft Auto V"
   }
 }
