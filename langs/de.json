@@ -231,6 +231,7 @@
     "SOL_VERIFY_GAME_FILES": "Prüfe die Integrität der Spieldateien",
     "SOL_DELETE_FILE_FROM_GAME": "Lösche {0} aus deinem GTA V Ordner",
     "SOL_USE_OFFLINE_MODE": "Verwende den Offline-Modus",
+    "SOL_INCREASE_GAME_TIMEOUT": "Erhöhe den Wert der Zeitüberschreitung. Weitere Informationen findest du auf unserer Fehlerbehebungsseite",
 
     "SHOW_ADDITIONAL_INFO": "Mehr Informationen anzeigen",
     "HIDE_ADDITIONAL_INFO": "Weniger Informationen anzeigen",

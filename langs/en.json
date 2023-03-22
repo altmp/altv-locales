@@ -229,6 +229,7 @@
     "SOL_VERIFY_GAME_FILES": "Verify integrity of your game files",
     "SOL_DELETE_FILE_FROM_GAME": "Delete {0} from game folder",
     "SOL_USE_OFFLINE_MODE": "Use offline mode",
+    "SOL_INCREASE_GAME_TIMEOUT": "Increase the timeout value. More information can be found on our troubleshooting page",
     
     "SHOW_ADDITIONAL_INFO": "Show more info",
     "HIDE_ADDITIONAL_INFO": "Hide more info",
