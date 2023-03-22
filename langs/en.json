@@ -210,7 +210,7 @@
     "ERR_FAILED_TO_ACCESS_GTAV_PROCESS": "Failed to access GTA V process",
     "ERR_GAME_CRASHED": "GTA V crashed on startup",
     "ERR_CONNECT_URL_TOO_LONG": "Connect URL is too long",
-    "ERR_EXTERNAL_MODS_FOUND": "Unsupported external mods found ({0})",
+    "ERR_EXTERNAL_MODS_FOUND": "Unsupported external mods found",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Failed to update client",
     "SOL_RUN_AS_ADMIN": "Try running alt:V as administrator",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Try installing alt:V into a different folder (preferably automatic location)",
