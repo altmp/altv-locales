@@ -214,7 +214,7 @@
     "ERR_FAILED_TO_ACCESS_GTAV_PROCESS": "Nepavyko pasiekti GTA V proceso",
     "ERR_GAME_CRASHED": "GTA V avarija (angl. „Crash“) paleidimo metu",
     "ERR_CONNECT_URL_TOO_LONG": "Prisijungimo nuoroda yra per ilga",
-    "ERR_EXTERNAL_MODS_FOUND": "Rasta nepalaikomų išorinių modifikacijų ({0})",
+    "ERR_EXTERNAL_MODS_FOUND": "Rasta nepalaikomų išorinių modifikacijų",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Nepavyko atnaujinti kliento",
     "SOL_RUN_AS_ADMIN": "Pabandykite paleisti alt:V su administratoriaus teisėmis (angl. „Run as administrator“)",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Pabandykite įdiegti alt:V į kitą aplanką (pageidautina automatinė vieta)",

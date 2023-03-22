@@ -212,7 +212,7 @@
     "ERR_FAILED_TO_ACCESS_GTAV_PROCESS": "Nie udało się uzyskać dostępu do procesu GTA V",
     "ERR_GAME_CRASHED": "GTA V zawiesiło się podczas uruchamiania",
     "ERR_CONNECT_URL_TOO_LONG": "URL połączenia jest zbyt długi",
-    "ERR_EXTERNAL_MODS_FOUND": "Znaleziono niewspierane zewnętrzne modyfikacje ({0})",
+    "ERR_EXTERNAL_MODS_FOUND": "Znaleziono niewspierane zewnętrzne modyfikacje",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Wystąpił błąd podczas aktualizacji klienta",
     "SOL_RUN_AS_ADMIN": "Spróbuj uruchomić klienta alt:V jako administrator",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Spróbuj zainstalować klienta alt:V Multiplayer w innym folderze (preferowana jest domyślna ścieżka)",
