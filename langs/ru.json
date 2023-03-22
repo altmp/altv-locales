@@ -216,7 +216,7 @@
     "ERR_FAILED_TO_ACCESS_GTAV_PROCESS": "Не удалось получить доступ к процессу GTA V",
     "ERR_GAME_CRASHED": "GTA V крашнулась при запуске",
     "ERR_CONNECT_URL_TOO_LONG": "Слишком длинный URL для подключения",
-    "ERR_EXTERNAL_MODS_FOUND": "Найдены неподдерживаемые сторонние моды ({0})",
+    "ERR_EXTERNAL_MODS_FOUND": "Найдены неподдерживаемые сторонние моды",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Не удалось обновить клиент",
     "SOL_RUN_AS_ADMIN": "Попробуйте запустить alt:V от имени администратора",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Попробуйте установить alt:V в другую папку (предпочтительно, в рекомендуемое место)",

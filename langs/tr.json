@@ -210,7 +210,7 @@
     "ERR_FAILED_TO_ACCESS_GTAV_PROCESS": "GTA V işlemine erişilemedi",
     "ERR_GAME_CRASHED": "GTA V başlangıçta çöktü",
     "ERR_CONNECT_URL_TOO_LONG": "Bağlantı URL'si çok uzun",
-    "ERR_EXTERNAL_MODS_FOUND": "Desteklenmeyen dış modlar bulundu ({0})",
+    "ERR_EXTERNAL_MODS_FOUND": "Desteklenmeyen dış modlar bulundu",
     "ERR_FAILED_TO_UPDATE_CLIENT": "İstemci güncellenemedi",
     "SOL_RUN_AS_ADMIN": "alt:V'yi yönetici olarak çalıştırmayı deneyin",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "alt:V'yi başka bir klasöre kurmayı deneyin (tercihen otomatik)",

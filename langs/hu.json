@@ -210,7 +210,7 @@
     "ERR_FAILED_TO_ACCESS_GTAV_PROCESS": "Nem sikerült elérni a GTA V folyamatot",
     "ERR_GAME_CRASHED": "GTA V összeomlott indításkor",
     "ERR_CONNECT_URL_TOO_LONG": "A csatlakozási URL túl hosszú",
-    "ERR_EXTERNAL_MODS_FOUND": "Nem támogatott külső modok észlelve ({0})",
+    "ERR_EXTERNAL_MODS_FOUND": "Nem támogatott külső modok észlelve",
     "ERR_FAILED_TO_UPDATE_CLIENT": "A kliens frissítése sikertelen volt",
     "SOL_RUN_AS_ADMIN": "Próbáld meg az alt:V-t rendszergazdaként futtatni",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Próbáld meg az alt:V-t egy másik mappába telepíteni (lehetőleg automatikus helyre).",

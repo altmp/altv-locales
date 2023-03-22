@@ -210,7 +210,7 @@
     "ERR_FAILED_TO_ACCESS_GTAV_PROCESS": "Neizdevās piekļūt GTA V procesam",
     "ERR_GAME_CRASHED": "GTA V avarēja startēšanas laikā",
     "ERR_CONNECT_URL_TOO_LONG": "Savienojuma URL ir pārāk garš",
-    "ERR_EXTERNAL_MODS_FOUND": "Atrasti neatbalstīti ārējie modi ({0})",
+    "ERR_EXTERNAL_MODS_FOUND": "Atrasti neatbalstīti ārējie modi",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Neizdevās atjaunināt klientu",
     "SOL_RUN_AS_ADMIN": "Pamēģiniet palaist alt:V ar administratora tiesībām",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Mēģiniet instalēt alt:V citā mapē (vēlams noklusējuma atrašanās vieta)",
