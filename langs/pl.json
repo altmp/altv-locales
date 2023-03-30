@@ -306,6 +306,7 @@
     "UPDATING_SKIN": "Aktualizacja wyglądu launchera",
     "STARTING_GTAV": "Uruchamianie Grand Theft Auto V",
     "LOADING_CLIENT": "Ładowanie klienta alt:V Multiplayer",
-    "STARTING_THE_GAME": "Uruchamianie gry"
+    "STARTING_THE_GAME": "Uruchamianie gry",
+    "SOL_INCREASE_GAME_TIMEOUT": "Zwiększ wartość limitu czasu. Więcej informacji można znaleźć na naszej stronie poświęconej rozwiązywaniu problemów"
   }
 }
