@@ -143,6 +143,7 @@
     "VALIDATING_RESOURCES": "Праверка рэсурсаў",
     "DOWNLOADING_RUNTIMES": "Загрузка асяроддзя выканання",
     "VALIDATING_RUNTIMES": "Праверка сродкаў выканання",
+    "STARTING_THE_GAME": "Запуск гульні",
     "IN_QUEUE": "У чарзе",
     "LEAVE_QUEUE": "Пакінуць чаргу",
     "SERVER_UPDATE": "Абнаўленне сервера",
@@ -235,6 +236,7 @@
     "SOL_VERIFY_GAME_FILES": "Праверце цэласнасць файлаў вашай гульні",
     "SOL_DELETE_FILE_FROM_GAME": "Выдаліце {0} з папкі гульні",
     "SOL_USE_OFFLINE_MODE": "Выкарыстоўвайце афлайн-рэжым",
+    "SOL_INCREASE_GAME_TIMEOUT": "Павялічце значэнне тайм-аўту. Дадатковую інфармацыю можна знайсці на нашай старонцы распаўсюджаных праблем",
 
     "SHOW_ADDITIONAL_INFO": "Паказаць больш інфармацыі",
     "HIDE_ADDITIONAL_INFO": "Схаваць больш інфармацыі",
