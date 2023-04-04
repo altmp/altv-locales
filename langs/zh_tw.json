@@ -1,5 +1,6 @@
 {
   "name": "正體中文",
+  "region": "asia",
   "rtl": false,
   "strings": {
     "HOME": "首頁",
