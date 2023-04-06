@@ -302,9 +302,9 @@
     "UPDATING_CLIENT": "正在更新客户端",
     "VALIDATING_CLIENT": "正在验证客户端",
     "DOWNLOADING_CLIENT": "正在下载客户端",
-    "VALIDATING_FILE": "正在验证 {0} 从 {1}",
-    "DOWNLOADING_FILE": "正在下载 {0} 从 {1}",
-    "DELETING_FILE": "正在删除 {0} 从 {1}",
+    "VALIDATING_FILE": "正在验证 {0} / {1}",
+    "DOWNLOADING_FILE": "正在下载 {0} / {1}",
+    "DELETING_FILE": "正在删除 {0} / {1}",
     "UPDATING_SKIN": "正在更新皮肤",
     "STARTING_GTAV": "正在启动游戏",
     "LOADING_CLIENT": "正在加载 alt:V 客户端"
