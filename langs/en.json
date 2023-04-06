@@ -169,6 +169,7 @@
     "ARE_YOU_SURE_EXIT": "Are you sure you want to exit?",
     "APPLY_SERVER_SKIN": "Apply server skin",
     "RESTORE_DEFAULT_SKIN": "Restore default skin",
+    "REGION": "Region",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
