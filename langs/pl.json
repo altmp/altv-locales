@@ -138,6 +138,7 @@
     "VALIDATING_RESOURCES": "Walidacja zasobów",
     "DOWNLOADING_RUNTIMES": "Pobieranie bibliotek",
     "VALIDATING_RUNTIMES": "Walidacja bibliotek",
+    "STARTING_THE_GAME": "Uruchamianie gry",
     "IN_QUEUE": "W kolejce",
     "LEAVE_QUEUE": "Opuść kolejkę",
     "SERVER_UPDATE": "Aktualizacja serwera",
@@ -231,6 +232,7 @@
     "SOL_VERIFY_GAME_FILES": "Zweryfikuj integralność plików gry",
     "SOL_DELETE_FILE_FROM_GAME": "Usuń plik {0} z folderu z grą",
     "SOL_USE_OFFLINE_MODE": "Użyj trybu offline",
+    "SOL_INCREASE_GAME_TIMEOUT": "Zwiększ wartość limitu czasu. Więcej informacji można znaleźć na naszej stronie poświęconej rozwiązywaniu problemów",
 
     "SHOW_ADDITIONAL_INFO": "Pokaż więcej informacji",
     "HIDE_ADDITIONAL_INFO": "Ukryj więcej informacji",
