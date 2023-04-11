@@ -170,6 +170,7 @@
     "APPLY_SERVER_SKIN": "Szerver kinézetének alkalmazása",
     "RESTORE_DEFAULT_SKIN": "Alapértelmezett kinézet visszaállítása",
     "REGION": "Régió",
+    "UI_VOLUME": "UI hangerő",
 
     "PERMISSION_1": "Képernyőkép készítése",
     "PERMISSION_2": "Mikrofon és webkamera hozzáférés",
