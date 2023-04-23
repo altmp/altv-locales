@@ -241,6 +241,7 @@
     "RESTART_IN_OFFLINE_MODE": "Redémarrer en mode hors ligne",
     "CHANGE_GAME_PATH": "Changer le chemin du jeu",
     "TRY_AGAIN": "Essayer à nouveau",
+    "OPEN_LOGS": "Ouvrir le dossier log",
     "ERROR_FOOTER": "Visitez notre {0} pour voir si vous avez une erreur courante ou posez une question sur {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "page de dépannage",
     "ERROR_FOOTER_DISCORD_SERVER": "notre serveur Discord",
