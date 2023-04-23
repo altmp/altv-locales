@@ -244,6 +244,7 @@
     "RESTART_IN_OFFLINE_MODE": "Im Offline-Modus neustarten",
     "CHANGE_GAME_PATH": "Spiele-Ordner ändern",
     "TRY_AGAIN": "Erneut versuchen",
+    "OPEN_LOGS": "Protokollordner öffnen",
     "ERROR_FOOTER": "Besuche unsere {0} um zu sehen ob es sich um einen häufigen Fehler handelt oder stelle eine Frage auf {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "Fehlerbehebungsseite",
     "ERROR_FOOTER_DISCORD_SERVER": "unserem Discord Server",
