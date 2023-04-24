@@ -248,6 +248,7 @@
     "RESTART_IN_OFFLINE_MODE": "Перазапусціць у афлайн-рэжыме",
     "CHANGE_GAME_PATH": "Змяніць шлях да гульні",
     "TRY_AGAIN": "Паспрабуй яшчэ раз",
+    "OPEN_LOGS": "Адкрыць тэчку з логамі",
     "ERROR_FOOTER": "Наведайце нашу {0}, каб пабачыць, ці ў вас няма агульных памылак або задайце пытанне на {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "старонка вырашэння праблем",
     "ERROR_FOOTER_DISCORD_SERVER": "наш сервер Discord",
