@@ -243,6 +243,7 @@
     "CHANGE_GAME_PATH": "Change game path",
     "TRY_AGAIN": "Try again",
     "OPEN_LOGS": "Open log directory",
+    "OPEN_GTA": "Open game directory",
     "ERROR_FOOTER": "Visit our {0} to see if you've got a common error or ask a question on {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "troubleshooting page",
     "ERROR_FOOTER_DISCORD_SERVER": "our Discord server",
