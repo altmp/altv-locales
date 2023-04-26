@@ -249,6 +249,7 @@
     "CHANGE_GAME_PATH": "Выбрать другую папку игры",
     "TRY_AGAIN": "Попробовать ещё раз",
     "OPEN_LOGS": "Открыть папку с логами",
+    "OPEN_GTA": "Открыть папку GTA V",
     "ERROR_FOOTER": "Проверьте нашу {0} или задайте вопрос на нашем {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "страницу распространенных проблем",
     "ERROR_FOOTER_DISCORD_SERVER": "сервере Discord",
