@@ -12,7 +12,7 @@ When you wanna any language to appear in alt:V Multiplayer copy en.json to [loca
 
 # Plural keys
 
-For plural keys use keys in `KEY_NAME:PLURAL_TYPE` format. List of plural types and rules can be found [here](https://unicode-org.github.io/cldr-staging/charts/37/supplemental/language_plural_rules.html) (beware that plural type should be specified in the uppercase).
+For plural keys use keys in `KEY_NAME:PLURAL_TYPE` format. List of plural types and rules can be found [here](https://www.unicode.org/cldr/charts/42/supplemental/language_plural_rules.html) (beware that plural type should be specified in the uppercase).
 Lookup order for plural keys is:
 - `KEY_NAME:EXPECTED_PLURAL_TYPE`
 - `KEY_NAME`
