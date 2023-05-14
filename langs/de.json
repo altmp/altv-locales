@@ -144,6 +144,7 @@
     "LEAVE_QUEUE": "Warteschlange verlassen",
     "SERVER_UPDATE": "Server aktualisieren",
     "DOWNLOADING_ADDITIONAL_RESOURCES": "Zusätzliche Ressourcen herunterladen",
+    "VALIDATING_ADDITIONAL_RESOURCES": "Ressourcen werden verifiziert",
     "SOME_TIME_AGO": "Vor einiger Zeit",
     "BYTES": "Bytes",
     "BYTE": "Byte",
