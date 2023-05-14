@@ -148,6 +148,7 @@
     "LEAVE_QUEUE": "Покинуть очередь",
     "SERVER_UPDATE": "Обновление сервера",
     "DOWNLOADING_ADDITIONAL_RESOURCES": "Загрузка дополнительных ресурсов",
+    "VALIDATING_ADDITIONAL_RESOURCES": "Проверка дополнительных ресурсов",
     "SOME_TIME_AGO": "Некоторое время назад",
     "BYTES": "Байт",
     "BYTE": "Байт",

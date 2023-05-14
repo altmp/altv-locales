@@ -142,6 +142,7 @@
     "LEAVE_QUEUE": "Leave queue",
     "SERVER_UPDATE": "Server update",
     "DOWNLOADING_ADDITIONAL_RESOURCES": "Downloading additional resources",
+    "VALIDATING_ADDITIONAL_RESOURCES": "Validating additional resources",
     "SOME_TIME_AGO": "Some time ago",
     "BYTES": "Bytes",
     "BYTE": "Byte",
