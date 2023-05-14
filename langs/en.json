@@ -179,7 +179,8 @@
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
     "PERMISSION_3": "Copy text into clipboard",
-    
+    "PERMISSION_4": "Microphone and voice options access",
+
     "ERR_UNKNOWN": "Unknown error",
     "ERR_UNEXPECTED": "Unexpected error",
     "ERR_NETWORK": "Network error",
