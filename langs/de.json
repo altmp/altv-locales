@@ -181,6 +181,7 @@
     "PERMISSION_1": "Das Spielfenster aufzeichnen",
     "PERMISSION_2": "Zugriff auf Mikrofon und Webcam",
     "PERMISSION_3": "Kopieren von Text in die Zwischenablage",
+    "PERMISSION_4": "Zugriff auf Audiokonfiguration",
 
     "ERR_UNKNOWN": "Unbekannter Fehler",
     "ERR_UNEXPECTED": "Unerwarteter Fehler",
