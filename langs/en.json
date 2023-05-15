@@ -314,6 +314,7 @@
     "DELETING_FILE": "Deleting file {0} of {1}",
     "UPDATING_SKIN": "Updating skin",
     "STARTING_GTAV": "Starting Grand Theft Auto V",
-    "LOADING_CLIENT": "Loading alt:V client"
+    "LOADING_CLIENT": "Loading alt:V client",
+    "CHECKING_PRECONDITIONS": "Checking preconditions"
   }
 }

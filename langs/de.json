@@ -316,7 +316,7 @@
     "DELETING_FILE": "Lösche Datei {0} von {1}",
     "UPDATING_SKIN": "Design wird aktualisiert",
     "STARTING_GTAV": "Starte Grand Theft Auto V",
-    "LOADING_CLIENT": "Lade alt:V Client"
-
+    "LOADING_CLIENT": "Lade alt:V Client",
+    "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen"
   }
 }
