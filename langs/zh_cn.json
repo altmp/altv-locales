@@ -307,6 +307,11 @@
     "DELETING_FILE": "正在删除 {0} / {1}",
     "UPDATING_SKIN": "正在更新皮肤",
     "STARTING_GTAV": "正在启动游戏",
-    "LOADING_CLIENT": "正在加载 alt:V 客户端"
+    "LOADING_CLIENT": "正在加载 alt:V 客户端",
+    "CHECKING_PRECONDITIONS": "检查先决条件",
+
+    "ERR_GAME_RUNTIME_CRASH": "GTA V 崩溃了",
+    "DESC_GAME_RUNTIME_CRASH": "GTA V 游戏可能因多种因素而崩溃, 包括不可预见的情况或系统冲突. 如果您遇到反复崩溃的情况, 请在我们的 Discord 上报告它们以获得进一步的帮助.",
+    "OPEN_DUMP_DIRECTORY": "打开故障转储目录"
   }
 }
