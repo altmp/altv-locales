@@ -315,6 +315,10 @@
     "UPDATING_SKIN": "Updating skin",
     "STARTING_GTAV": "Starting Grand Theft Auto V",
     "LOADING_CLIENT": "Loading alt:V client",
-    "CHECKING_PRECONDITIONS": "Checking preconditions"
+    "CHECKING_PRECONDITIONS": "Checking preconditions",
+
+    "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
+    "DESC_GAME_RUNTIME_CRASH": "Game crashes may occur due to various factors, including unforeseen circumstances or system conflicts. If you experience repeated crashes, please report them on our Discord for further assistance.",
+    "OPEN_DUMP_DIRECTORY": "Open crashdump directory"
   }
 }

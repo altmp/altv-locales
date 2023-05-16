@@ -317,6 +317,10 @@
     "UPDATING_SKIN": "Design wird aktualisiert",
     "STARTING_GTAV": "Starte Grand Theft Auto V",
     "LOADING_CLIENT": "Lade alt:V Client",
-    "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen"
+    "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen",
+
+    "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",
+    "DESC_GAME_RUNTIME_CRASH": "Spielabstürze können aufgrund verschiedener Faktoren auftreten, einschließlich unvorhergesehener Umstände oder Systemkonflikte. Wenn wiederholt Abstürze auftreten, melde dies bitte auf unserem Discord um weitere Unterstützung zu erhalten.",
+    "OPEN_DUMP_DIRECTORY": "Crashdump Verzeichnis öffnen"
   }
 }
