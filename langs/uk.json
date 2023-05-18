@@ -321,6 +321,10 @@
     "DELETING_FILE": "Видалення файлів {0} з {1}",
     "UPDATING_SKIN": "Оновлення теми",
     "STARTING_GTAV": "Запуск Grand Theft Auto V",
-    "LOADING_CLIENT": "Завантаження клієнта alt:V"
+    "LOADING_CLIENT": "Завантаження клієнта alt:V",
+    "CHECKING_PRECONDITIONS": "Перевірка передумов",
+    "ERR_GAME_RUNTIME_CRASH": "GTA V вийшла з ладу",
+    "DESC_GAME_RUNTIME_CRASH": "Збої в грі можуть статися через різноманітні причини, включаючи непередбачені обставини або конфлікти системи. Якщо ви зазнаєте постійних збоїв, будь ласка, повідомте про це на нашому Discord-сервері для допомоги.",
+    "OPEN_DUMP_DIRECTORY": "Відкрити директорію збоїв"
   }
 }
