@@ -139,10 +139,15 @@
     "DOWNLOADING_RUNTIMES": "正在下载运行环境",
     "VALIDATING_RUNTIMES": "正在校验运行环境",
     "STARTING_THE_GAME": "正在启动游戏",
+    "JOINING_THE_GAME": "正在加入游戏",
+    "STARTING_RESOURCES": "正在启动资源",
+    "RELOADING_GAME_MAP": "正在重新加载游戏地图",
+    "PRELOADING_MODS": "正在预加载模块",
     "IN_QUEUE": "排队中",
     "LEAVE_QUEUE": "取消排队",
     "SERVER_UPDATE": "服务器更新",
-    "DOWNLOADING_ADDITIONAL_RESOURCES": "正在下载其他资源",
+    "DOWNLOADING_ADDITIONAL_RESOURCES": "正在下载附加资源",
+    "VALIDATING_ADDITIONAL_RESOURCES": "正在验证附加资源",
     "SOME_TIME_AGO": "前段时间",
     "BYTES": "字节",
     "BYTE": "字节",
@@ -171,10 +176,12 @@
     "APPLY_SERVER_SKIN": "应用服务器皮肤",
     "RESTORE_DEFAULT_SKIN": "恢复默认皮肤",
     "REGION": "地区",
+    "UI_VOLUME": "UI 音量",
 
     "PERMISSION_1": "记录您的游戏窗口",
     "PERMISSION_2": "麦克风和网络摄像头访问",
     "PERMISSION_3": "复制文字到剪贴板",
+    "PERMISSION_4": "麦克风和语音选项访问",
     
     "ERR_UNKNOWN": "未知错误",
     "ERR_UNEXPECTED": "意外错误",
@@ -242,6 +249,8 @@
     "RESTART_IN_OFFLINE_MODE": "关闭并以离线模式重新运行",
     "CHANGE_GAME_PATH": "更改游戏路径",
     "TRY_AGAIN": "请稍后再试",
+    "OPEN_LOGS": "打开日志目录",
+    "OPEN_GTA": "打开游戏目录",
     "ERROR_FOOTER": "访问我们的 {0} 查找与您类似的问题或在 {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "故障排除页面",
     "ERROR_FOOTER_DISCORD_SERVER": "我们的 Discord 服务器寻求帮助",
@@ -307,6 +316,11 @@
     "DELETING_FILE": "正在删除 {0} / {1}",
     "UPDATING_SKIN": "正在更新皮肤",
     "STARTING_GTAV": "正在启动游戏",
-    "LOADING_CLIENT": "正在加载 alt:V 客户端"
+    "LOADING_CLIENT": "正在加载 alt:V 客户端",
+    "CHECKING_PRECONDITIONS": "检查前提条件",
+
+    "ERR_GAME_RUNTIME_CRASH": "GTA V 崩溃了",
+    "DESC_GAME_RUNTIME_CRASH": "游戏崩溃可能是由于各种因素造成的,包括不可预见的情况或系统冲突。 如果您经历了多次游戏崩溃,请在我们的Discord上报告,以获得进一步的帮助。",
+    "OPEN_DUMP_DIRECTORY": "打开 crashdump 目录"
   }
 }
