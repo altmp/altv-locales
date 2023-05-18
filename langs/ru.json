@@ -147,6 +147,7 @@
     "JOINING_THE_GAME": "Вход в игру",
     "STARTING_RESOURCES": "Запуск ресурсов",
     "RELOADING_GAME_MAP": "Перезагрузка карты игры",
+    "PRELOADING_MODS": "Предзагрузка модов",
     "IN_QUEUE": "В очереди",
     "LEAVE_QUEUE": "Покинуть очередь",
     "SERVER_UPDATE": "Обновление сервера",
