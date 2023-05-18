@@ -143,6 +143,7 @@
     "JOINING_THE_GAME": "Spiel wird beigetreten",
     "STARTING_RESOURCES": "Ressourcen werden gestartet",
     "RELOADING_GAME_MAP": "Karte wird geladen",
+    "PRELOADING_MODS": "Mods werden geladen",
     "IN_QUEUE": "In Warteschlange",
     "LEAVE_QUEUE": "Warteschlange verlassen",
     "SERVER_UPDATE": "Server aktualisieren",
