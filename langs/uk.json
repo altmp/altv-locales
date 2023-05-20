@@ -144,10 +144,15 @@
     "DOWNLOADING_RUNTIMES": "Завантаження середовища виконання",
     "VALIDATING_RUNTIMES": "Перевірка середовища виконання",
     "STARTING_THE_GAME": "Запуск гри",
+    "JOINING_THE_GAME": "Вхід до гри",
+    "STARTING_RESOURCES": "Запуск ресурсів",
+    "RELOADING_GAME_MAP": "Перезавантаження мапи гри",
+    "PRELOADING_MODS": "Передзавантаження модів",
     "IN_QUEUE": "В черзі",
     "LEAVE_QUEUE": "Залишити чергу",
     "SERVER_UPDATE": "Оновлення сервера",
     "DOWNLOADING_ADDITIONAL_RESOURCES": "Завантаження додаткових ресурсів",
+    "VALIDATING_ADDITIONAL_RESOURCES": "Перевірка додаткових ресурсів",
     "SOME_TIME_AGO": "Деякий час тому",
     "BYTES": "Байт",
     "BYTE": "Байт",
@@ -176,10 +181,12 @@
     "APPLY_SERVER_SKIN": "Застосувати тему сервера",
     "RESTORE_DEFAULT_SKIN": "Відновити тему за замовчуванням",
     "REGION": "Регіон",
+    "UI_VOLUME": "Гучність інтерфейсу",
 
     "PERMISSION_1": "Записувати вікно вашої гри",
     "PERMISSION_2": "Доступ до мікрофону та камери",
     "PERMISSION_3": "Копіювати текст у буфер обміну",
+    "PERMISSION_4": "Доступ до мікрофону та параметрам голосового чату",
 
     "ERR_UNKNOWN": "Невідома помилка",
     "ERR_UNEXPECTED": "Неочікувана помилка",
@@ -247,6 +254,8 @@
     "RESTART_IN_OFFLINE_MODE": "Перезавантажте в автономному режимі",
     "CHANGE_GAME_PATH": "Змініть шлях до гри",
     "TRY_AGAIN": "Спробуй ще раз",
+    "OPEN_LOGS": "Відкрити директорію журналів",
+    "OPEN_GTA": "Відкрити директорію гри",
     "ERROR_FOOTER": "Відвідайте нашу {0}, щоб переконатись, чи є у вас загальна помилка, або задайте питання на нашому {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "сторінку усунення проблем",
     "ERROR_FOOTER_DISCORD_SERVER": "сервері Discord",
@@ -312,6 +321,10 @@
     "DELETING_FILE": "Видалення файлів {0} з {1}",
     "UPDATING_SKIN": "Оновлення теми",
     "STARTING_GTAV": "Запуск Grand Theft Auto V",
-    "LOADING_CLIENT": "Завантаження клієнта alt:V"
+    "LOADING_CLIENT": "Завантаження клієнта alt:V",
+    "CHECKING_PRECONDITIONS": "Перевірка передумов",
+    "ERR_GAME_RUNTIME_CRASH": "GTA V вийшла з ладу",
+    "DESC_GAME_RUNTIME_CRASH": "Збої в грі можуть статися через різноманітні причини, включаючи непередбачені обставини або конфлікти системи. Якщо ви зазнаєте постійних збоїв, будь ласка, повідомте про це на нашому Discord-сервері для допомоги.",
+    "OPEN_DUMP_DIRECTORY": "Відкрити директорію збоїв"
   }
 }

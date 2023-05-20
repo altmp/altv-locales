@@ -136,14 +136,19 @@
     "JOINING_SERVER": "Beitritt zum Server",
     "CONNECTING_TO_THE_SERVER": "Verbindung zum Server herstellen",
     "DOWNLOADING_RESOURCES": "Ressourcen herunterladen",
-    "VALIDATING_RESOURCES": "Ressourcen prüfen",
+    "VALIDATING_RESOURCES": "Ressourcen werden überprüft",
     "DOWNLOADING_RUNTIMES": "Runtimes herunterladen",
     "VALIDATING_RUNTIMES": "Validiere Runtimes",
     "STARTING_THE_GAME": "Spiel wird gestartet",
+    "JOINING_THE_GAME": "Spiel wird beigetreten",
+    "STARTING_RESOURCES": "Ressourcen werden gestartet",
+    "RELOADING_GAME_MAP": "Karte wird geladen",
+    "PRELOADING_MODS": "Mods werden geladen",
     "IN_QUEUE": "In Warteschlange",
     "LEAVE_QUEUE": "Warteschlange verlassen",
     "SERVER_UPDATE": "Server aktualisieren",
     "DOWNLOADING_ADDITIONAL_RESOURCES": "Zusätzliche Ressourcen herunterladen",
+    "VALIDATING_ADDITIONAL_RESOURCES": "Ressourcen werden verifiziert",
     "SOME_TIME_AGO": "Vor einiger Zeit",
     "BYTES": "Bytes",
     "BYTE": "Byte",
@@ -177,6 +182,7 @@
     "PERMISSION_1": "Das Spielfenster aufzeichnen",
     "PERMISSION_2": "Zugriff auf Mikrofon und Webcam",
     "PERMISSION_3": "Kopieren von Text in die Zwischenablage",
+    "PERMISSION_4": "Zugriff auf Audiokonfiguration",
 
     "ERR_UNKNOWN": "Unbekannter Fehler",
     "ERR_UNEXPECTED": "Unerwarteter Fehler",
@@ -244,6 +250,8 @@
     "RESTART_IN_OFFLINE_MODE": "Im Offline-Modus neustarten",
     "CHANGE_GAME_PATH": "Spiele-Ordner ändern",
     "TRY_AGAIN": "Erneut versuchen",
+    "OPEN_LOGS": "Protokollordner öffnen",
+    "OPEN_GTA": "Spielverzeichnis öffnen",
     "ERROR_FOOTER": "Besuche unsere {0} um zu sehen ob es sich um einen häufigen Fehler handelt oder stelle eine Frage auf {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "Fehlerbehebungsseite",
     "ERROR_FOOTER_DISCORD_SERVER": "unserem Discord Server",
@@ -309,7 +317,11 @@
     "DELETING_FILE": "Lösche Datei {0} von {1}",
     "UPDATING_SKIN": "Design wird aktualisiert",
     "STARTING_GTAV": "Starte Grand Theft Auto V",
-    "LOADING_CLIENT": "Lade alt:V Client"
+    "LOADING_CLIENT": "Lade alt:V Client",
+    "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen",
 
+    "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",
+    "DESC_GAME_RUNTIME_CRASH": "Spielabstürze können aufgrund verschiedener Faktoren auftreten, einschließlich unvorhergesehener Umstände oder Systemkonflikte. Wenn wiederholt Abstürze auftreten, melde dies bitte auf unserem Discord um weitere Unterstützung zu erhalten.",
+    "OPEN_DUMP_DIRECTORY": "Crashdump Verzeichnis öffnen"
   }
 }

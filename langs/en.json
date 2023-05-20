@@ -138,10 +138,15 @@
     "DOWNLOADING_RUNTIMES": "Downloading runtimes",
     "VALIDATING_RUNTIMES": "Validating runtimes",
     "STARTING_THE_GAME": "Starting the game",
+    "JOINING_THE_GAME": "Joining the game",
+    "STARTING_RESOURCES": "Starting resources",
+    "RELOADING_GAME_MAP": "Reloading game map",
+    "PRELOADING_MODS": "Preloading mods",
     "IN_QUEUE": "In queue",
     "LEAVE_QUEUE": "Leave queue",
     "SERVER_UPDATE": "Server update",
     "DOWNLOADING_ADDITIONAL_RESOURCES": "Downloading additional resources",
+    "VALIDATING_ADDITIONAL_RESOURCES": "Validating additional resources",
     "SOME_TIME_AGO": "Some time ago",
     "BYTES": "Bytes",
     "BYTE": "Byte",
@@ -175,7 +180,8 @@
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
     "PERMISSION_3": "Copy text into clipboard",
-    
+    "PERMISSION_4": "Microphone and voice options access",
+
     "ERR_UNKNOWN": "Unknown error",
     "ERR_UNEXPECTED": "Unexpected error",
     "ERR_NETWORK": "Network error",
@@ -242,6 +248,8 @@
     "RESTART_IN_OFFLINE_MODE": "Restart in offline mode",
     "CHANGE_GAME_PATH": "Change game path",
     "TRY_AGAIN": "Try again",
+    "OPEN_LOGS": "Open log directory",
+    "OPEN_GTA": "Open game directory",
     "ERROR_FOOTER": "Visit our {0} to see if you've got a common error or ask a question on {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "troubleshooting page",
     "ERROR_FOOTER_DISCORD_SERVER": "our Discord server",
@@ -307,6 +315,11 @@
     "DELETING_FILE": "Deleting file {0} of {1}",
     "UPDATING_SKIN": "Updating skin",
     "STARTING_GTAV": "Starting Grand Theft Auto V",
-    "LOADING_CLIENT": "Loading alt:V client"
+    "LOADING_CLIENT": "Loading alt:V client",
+    "CHECKING_PRECONDITIONS": "Checking preconditions",
+
+    "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
+    "DESC_GAME_RUNTIME_CRASH": "Game crashes may occur due to various factors, including unforeseen circumstances or system conflicts. If you experience repeated crashes, please report them on our Discord for further assistance.",
+    "OPEN_DUMP_DIRECTORY": "Open crashdump directory"
   }
 }
