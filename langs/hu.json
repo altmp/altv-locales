@@ -138,10 +138,15 @@
     "DOWNLOADING_RUNTIMES": "Keretrendszer letöltése",
     "VALIDATING_RUNTIMES": "Keretrendszer hitelesítése",
     "STARTING_THE_GAME": "A játék indítása",
+    "JOINING_THE_GAME": "Csatlakozás a játékhoz",
+    "STARTING_RESOURCES": "Szerverfájlok indítása",
+    "RELOADING_GAME_MAP": "Játéktér újratöltése",
+    "PRELOADING_MODS": "Modok előkészítése",
     "IN_QUEUE": "Várólistában",
     "LEAVE_QUEUE": "Várólista elhagyása",
     "SERVER_UPDATE": "Szerver frissítés",
     "DOWNLOADING_ADDITIONAL_RESOURCES": "Kiegészítő fájlok letöltése",
+    "VALIDATING_ADDITIONAL_RESOURCES": "Kiegészítő fájlok hitelesítése",
     "SOME_TIME_AGO": "Valamikor régen",
     "BYTES": "Bájtok",
     "BYTE": "Bájt",
@@ -175,6 +180,7 @@
     "PERMISSION_1": "Képernyőkép készítése",
     "PERMISSION_2": "Mikrofon és webkamera hozzáférés",
     "PERMISSION_3": "Szöveg másolása vágólapra",
+    "PERMISSION_4": "Mikrofon és hangbeállítások elérése",
     
     "ERR_UNKNOWN": "Ismeretlen hiba",
     "ERR_UNEXPECTED": "Váratlan hiba",
@@ -242,6 +248,8 @@
     "RESTART_IN_OFFLINE_MODE": "Újraindítás offline módban",
     "CHANGE_GAME_PATH": "Játék útvonal módosítása",
     "TRY_AGAIN": "Próbáld újra",
+    "OPEN_LOGS": "Naplókönyvtár megnyitása",
+    "OPEN_GTA": "Játékkönyvtár megnyitása",
     "ERROR_FOOTER": "Látogasd meg a {0}, ha gyakori hibát kaptál, vagy tegyél fel kérdést a {1}.",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "hibaelhárítási oldalunkat",
     "ERROR_FOOTER_DISCORD_SERVER": "Discord szerverünkön",
@@ -307,6 +315,11 @@
     "DELETING_FILE": "{1}/{0}. fájl törlése",
     "UPDATING_SKIN": "Kinézet frissítése",
     "STARTING_GTAV": "Grand Theft Auto V indítása",
-    "LOADING_CLIENT": "alt:V kliens betöltése"
+    "LOADING_CLIENT": "alt:V kliens betöltése",
+    "CHECKING_PRECONDITIONS": "Előfeltételek ellenőrzése",
+
+    "ERR_GAME_RUNTIME_CRASH": "GTA V összeomlott",
+    "DESC_GAME_RUNTIME_CRASH": "A játék összeomlása különböző tényezők, például előre nem látható körülmények vagy rendszerkonfliktusok miatt következhet be. Ha ismétlődő összeomlásokat tapasztalsz, kérjük, jelezd a Discordunkon, hogy további segítséget kaphass.",
+    "OPEN_DUMP_DIRECTORY": "Crashdump könyvtár megnyitása"
   }
 }
