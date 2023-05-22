@@ -321,7 +321,7 @@
     "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
     "DESC_CRASHDUMP_ZIPPED": "The crash dump has been saved at path {0}.",
     "DESC_CRASHDUMP_UPLOADED": "The crash dump has been uploaded. The assigned id is {0}.",
-    "DESC_CRASHDUMP_UPLOAD_FAILED": "Der Crashdump wurde unter folgendem Pfad gespeichert: {0}, jedoch war das Hochladen nicht möglich.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "The crash dump has been saved at the following path: {0}, but the upload of the crash dump failed.",
     "OPEN_CRASHDUMP_DIRECTORY": "Open crashdump directory",
     "COPY_CRASHDUMP_ID": "Copy crashdump id"
   }
