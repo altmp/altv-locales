@@ -320,7 +320,10 @@
     "CHECKING_PRECONDITIONS": "检查前提条件",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V 崩溃了",
-    "DESC_GAME_RUNTIME_CRASH": "游戏崩溃可能是由于各种因素造成的,包括不可预见的情况或系统冲突。 如果您经历了多次游戏崩溃,请在我们的Discord上报告,以获得进一步的帮助。",
-    "OPEN_CRASHDUMP_DIRECTORY": "打开 crashdump 目录"
+    "DESC_CRASHDUMP_ZIPPED": "crashdump 已保存在路径 {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "crashdump 上传成功. 分配的 ID 为 {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "crashdump 已经保存在以下路径: {0}, 但是上传文件失败.",
+    "OPEN_CRASHDUMP_DIRECTORY": "打开 crashdump 目录",
+    "COPY_CRASHDUMP_ID": "复制 crashdump ID"
   }
 }
