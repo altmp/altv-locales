@@ -319,7 +319,10 @@
     "CHECKING_PRECONDITIONS": "Checking preconditions",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
-    "DESC_GAME_RUNTIME_CRASH": "Game crashes may occur due to various factors, including unforeseen circumstances or system conflicts. If you experience repeated crashes, please report them on our Discord for further assistance.",
-    "OPEN_DUMP_DIRECTORY": "Open crashdump directory"
+    "DESC_CRASHDUMP_ZIPPED": "The crash dump has been saved at path {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "The crash dump has been uploaded. The assigned id is {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "The crash dump has been saved at the following path: {0}, but the upload of the crash dump failed.",
+    "OPEN_CRASHDUMP_DIRECTORY": "Open crashdump directory",
+    "COPY_CRASHDUMP_ID": "Copy crashdump id"
   }
 }

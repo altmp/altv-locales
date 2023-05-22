@@ -320,6 +320,6 @@
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V összeomlott",
     "DESC_GAME_RUNTIME_CRASH": "A játék összeomlása különböző tényezők, például előre nem látható körülmények vagy rendszerkonfliktusok miatt következhet be. Ha ismétlődő összeomlásokat tapasztalsz, kérjük, jelezd a Discordunkon, hogy további segítséget kaphass.",
-    "OPEN_DUMP_DIRECTORY": "Crashdump könyvtár megnyitása"
+    "OPEN_CRASHDUMP_DIRECTORY": "Crashdump könyvtár megnyitása"
   }
 }
