@@ -321,7 +321,10 @@
     "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",
-    "DESC_GAME_RUNTIME_CRASH": "Spielabstürze können aufgrund verschiedener Faktoren auftreten, einschließlich unvorhergesehener Umstände oder Systemkonflikte. Wenn wiederholt Abstürze auftreten, melde dies bitte auf unserem Discord um weitere Unterstützung zu erhalten.",
-    "OPEN_DUMP_DIRECTORY": "Crashdump Verzeichnis öffnen"
+    "DESC_CRASHDUMP_ZIPPED": "Der Crashdump wurde erfolgreich unter folgendem Pfad gespeichert: {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "Der Crashdump wurde erfolgreich hochgeladen. Die zugeordnete ID lautet: {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "Der Crashdump wurde unter folgendem Pfad gespeichert: {0}, jedoch war das Hochladen nicht möglich.",
+    "OPEN_CRASHDUMP_DIRECTORY": "Crashdump Verzeichnis öffnen",
+    "COPY_CRASHDUMP_ID": "Crashdump Id kopieren"
   }
 }
