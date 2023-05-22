@@ -319,7 +319,10 @@
     "CHECKING_PRECONDITIONS": "Előfeltételek ellenőrzése",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V összeomlott",
-    "DESC_GAME_RUNTIME_CRASH": "A játék összeomlása különböző tényezők, például előre nem látható körülmények vagy rendszerkonfliktusok miatt következhet be. Ha ismétlődő összeomlásokat tapasztalsz, kérjük, jelezd a Discordunkon, hogy további segítséget kaphass.",
-    "OPEN_CRASHDUMP_DIRECTORY": "Crashdump könyvtár megnyitása"
+    "DESC_CRASHDUMP_ZIPPED": "A crashdump el lett mentve az alábbi elérési útvonalra: {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "A crashdump feltöltésre került. A hozzárendelt azonosító {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "A crashdump a következő elérési útvonalra lett mentve: {0}, de a crashdump feltöltése sikertelen volt.",
+    "OPEN_CRASHDUMP_DIRECTORY": "Crashdump könyvtár megnyitása",
+    "COPY_CRASHDUMP_ID": "Crashdump azonosító másolása"
   }
 }
