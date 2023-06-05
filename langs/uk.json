@@ -227,6 +227,9 @@
     "ERR_CONNECT_URL_TOO_LONG": "URL підключення занадто довге",
     "ERR_EXTERNAL_MODS_FOUND": "Знайдено непідтримувані зовнішні моди",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Не вдалося оновити клієнт",
+    "ERR_FAILED_TO_PATCH_LAUNCHER": "Не вдалося пропатчити лаунчер",
+    "ERR_DISCORD_AUTH_FAILED": "Не вдалося аутентифікувати через Discord",
+    "ERR_NO_PERMISSIONS_TO_QA_BRANCHES": "У вас немає доступу до QA гілок оновлення",
     "SOL_RUN_AS_ADMIN": "Спробуйте запустити alt:V від імені адміністратора",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Спробуйте встановити alt:V в іншу папку (бажано, в рекомендоване розташування)",
     "SOL_CHECK_CONNECTION": "Перевірте підключення до інтернету",
@@ -322,7 +325,10 @@
     "UPDATING_SKIN": "Оновлення теми",
     "STARTING_GTAV": "Запуск Grand Theft Auto V",
     "LOADING_CLIENT": "Завантаження клієнта alt:V",
+    "INJECTING_LAUNCHER_PATCHES": "Впровадження патчів до лаунчера",
+    "AUTHENTICATING": "Аутентифікація",
     "CHECKING_PRECONDITIONS": "Перевірка передумов",
+    
     "ERR_GAME_RUNTIME_CRASH": "GTA V вийшла з ладу",
     "DESC_GAME_RUNTIME_CRASH": "Збої в грі можуть статися через різноманітні причини, включаючи непередбачені обставини або конфлікти системи. Якщо ви зазнаєте постійних збоїв, будь ласка, повідомте про це на нашому Discord-сервері для допомоги.",
     "OPEN_CRASHDUMP_DIRECTORY": "Відкрити директорію збоїв"
