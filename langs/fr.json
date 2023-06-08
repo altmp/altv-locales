@@ -321,7 +321,14 @@
     "DELETING_FILE": "Suppression de fichier {0} de {1}",
     "UPDATING_SKIN": "Mise à jour du skin",
     "STARTING_GTAV": "Démarrage Grand Theft Auto V",
-    "LOADING_CLIENT": "Chargement du client alt:V"
+    "LOADING_CLIENT": "Chargement du client alt:V",
+    
+    "ERR_GAME_RUNTIME_CRASH": "GTA V a planté",
+    "DESC_CRASHDUMP_ZIPPED": "Le fichier de vidage a été sauvegardé au chemin {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "Le vidage d'incident a été téléchargé. L'identifiant qui lui a été attribué est {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "Le vidage d'incident a été sauvegardé au chemin {0}, mais le téléchargement du vidage a échoué.",
+    "OPEN_CRASHDUMP_DIRECTORY": "Ouvrir le répertoire du vidage",
+    "COPY_CRASHDUMP_ID": "Copier l'identifiant du vidage"
  
   }
 }
