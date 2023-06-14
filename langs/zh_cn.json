@@ -1,7 +1,6 @@
 {
   "name": "简体中文",
-  "region": "asia",
-  "rtl": false,
+  "region": "asia","rtl": false,
   "strings": {
     "HOME": "首页",
     "WELCOME_TO": "欢迎来到\n{0}",
@@ -222,6 +221,9 @@
     "ERR_CONNECT_URL_TOO_LONG": "连接地址(链接)过长",
     "ERR_EXTERNAL_MODS_FOUND": "检测到不受支持的外部模组(MOD)",
     "ERR_FAILED_TO_UPDATE_CLIENT": "更新客户端失败",
+    "ERR_FAILED_TO_PATCH_LAUNCHER": "无法修补启动程序",
+    "ERR_DISCORD_AUTH_FAILED": "Discord 身份验证失败",
+    "ERR_NO_PERMISSIONS_TO_QA_BRANCHES": "您没有访问QA分支的权限",
     "SOL_RUN_AS_ADMIN": "请尝试以管理员身份运行 alt:V",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "请尝试将 alt:V 安装到不同的文件夹(最好是自动选择的路径)",
     "SOL_CHECK_CONNECTION": "请检查您的网络连接",
@@ -317,6 +319,8 @@
     "UPDATING_SKIN": "正在更新皮肤",
     "STARTING_GTAV": "正在启动游戏",
     "LOADING_CLIENT": "正在加载 alt:V 客户端",
+    "INJECTING_LAUNCHER_PATCHES": "正在注入启动器修补程序",
+    "AUTHENTICATING": "正在验证",
     "CHECKING_PRECONDITIONS": "检查前提条件",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V 崩溃了",
