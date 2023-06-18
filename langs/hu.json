@@ -221,6 +221,9 @@
     "ERR_CONNECT_URL_TOO_LONG": "A csatlakozási URL túl hosszú",
     "ERR_EXTERNAL_MODS_FOUND": "Nem támogatott külső modok észlelve",
     "ERR_FAILED_TO_UPDATE_CLIENT": "A kliens frissítése sikertelen volt",
+    "ERR_FAILED_TO_PATCH_LAUNCHER": "A launcher javítása sikertelen volt",
+    "ERR_DISCORD_AUTH_FAILED": "A Discord hitelesítés sikertelen volt",
+    "ERR_NO_PERMISSIONS_TO_QA_BRANCHES": "Nincs jogosultságod a QA ágakhoz való hozzáféréshez",
     "SOL_RUN_AS_ADMIN": "Próbáld meg az alt:V-t rendszergazdaként futtatni",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Próbáld meg az alt:V-t egy másik mappába telepíteni (lehetőleg automatikus helyre).",
     "SOL_CHECK_CONNECTION": "Ellenőrizd az internet kapcsolatod",
@@ -316,6 +319,8 @@
     "UPDATING_SKIN": "Kinézet frissítése",
     "STARTING_GTAV": "Grand Theft Auto V indítása",
     "LOADING_CLIENT": "alt:V kliens betöltése",
+    "INJECTING_LAUNCHER_PATCHES": "Launcher javítócsomagok injektálása",
+    "AUTHENTICATING": "Hitelesítés",
     "CHECKING_PRECONDITIONS": "Előfeltételek ellenőrzése",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V összeomlott",
