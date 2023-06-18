@@ -227,6 +227,9 @@
     "ERR_CONNECT_URL_TOO_LONG": "Слишком длинный URL для подключения",
     "ERR_EXTERNAL_MODS_FOUND": "Найдены неподдерживаемые сторонние моды",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Не удалось обновить клиент",
+    "ERR_FAILED_TO_PATCH_LAUNCHER": "Не удалось пропатчить лаунчер",
+    "ERR_DISCORD_AUTH_FAILED": "Не удалось аутентифицировать через Discord",
+    "ERR_NO_PERMISSIONS_TO_QA_BRANCHES": "У вас нет доступа к QA веткам обновления",
     "SOL_RUN_AS_ADMIN": "Попробуйте запустить alt:V от имени администратора",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Попробуйте установить alt:V в другую папку (предпочтительно, в рекомендуемое место)",
     "SOL_CHECK_CONNECTION": "Проверьте ваше подключение к интернету",
@@ -321,6 +324,16 @@
     "DELETING_FILE": "Удаление файла {0} из {1}",
     "UPDATING_SKIN": "Обновление темы",
     "STARTING_GTAV": "Запуск Grand Theft Auto V",
-    "LOADING_CLIENT": "Загрузка клиента alt:V"
+    "LOADING_CLIENT": "Загрузка клиента alt:V",
+    "INJECTING_LAUNCHER_PATCHES": "Внедрение патчей лаунчера",
+    "AUTHENTICATING": "Аутентификация",
+    "CHECKING_PRECONDITIONS": "Проверка предв. условий",
+    
+    "ERR_GAME_RUNTIME_CRASH": "GTA V вылетела",
+    "DESC_CRASHDUMP_ZIPPED": "Краш-репорт был сохранен по пути {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "Краш-репорт был отправлен. Присвоенный идентификатор: {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "Краш-репорт был сохранен по пути: {0}, его отправка не удалась.",
+    "OPEN_CRASHDUMP_DIRECTORY": "Открыть папку краш-репортов",
+    "COPY_CRASHDUMP_ID": "Скопировать ID краш-репорта"
   }
 }

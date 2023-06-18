@@ -223,6 +223,9 @@
     "ERR_CONNECT_URL_TOO_LONG": "Die URL ist zu lang",
     "ERR_EXTERNAL_MODS_FOUND": "Nicht unterstützte Mods wurden gefunden",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Der Client konnte nicht aktualisiert werden",
+    "ERR_FAILED_TO_PATCH_LAUNCHER": "Fehler beim patchen des Launcher",
+    "ERR_DISCORD_AUTH_FAILED": "Discord Authentifizierung fehlgeschlagen",
+    "ERR_NO_PERMISSIONS_TO_QA_BRANCHES": "Du hast keinen Zugriff auf die QA branches",
     "SOL_RUN_AS_ADMIN": "Versuche alt:V als Administrator zu starten",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Versuche alt:V in einen anderen Ordner (vorzugsweise die automatische Installation) zu installieren",
     "SOL_CHECK_CONNECTION": "Überprüfe deine Internetverbindung",
@@ -318,6 +321,8 @@
     "UPDATING_SKIN": "Design wird aktualisiert",
     "STARTING_GTAV": "Starte Grand Theft Auto V",
     "LOADING_CLIENT": "Lade alt:V Client",
+    "INJECTING_LAUNCHER_PATCHES": "Lade Launcher Patches",
+    "AUTHENTICATING": "Authentifiziere",
     "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",

@@ -138,10 +138,15 @@
     "DOWNLOADING_RUNTIMES": "Téléchargement des exécutions",
     "VALIDATING_RUNTIMES": "Validation des exécutions",
     "STARTING_THE_GAME": "Démarrage du jeu",
+    "JOINING_THE_GAME": "Entrée dans le jeu",
+    "STARTING_RESOURCES": "Démarrage des ressources",
+    "RELOADING_GAME_MAP": "Rechargement du monde",
+    "PRELOADING_MODS": "Préchargement des mods",
     "IN_QUEUE": "En file d'attente",
     "LEAVE_QUEUE": "Quitter la file d'attente",
     "SERVER_UPDATE": "Mise à jour du serveur",
     "DOWNLOADING_ADDITIONAL_RESOURCES": "Téléchargement de ressources supplémentaires",
+    "VALIDATING_ADDITIONAL_RESOURCES": "Validation de ressources supplémentaires",
     "SOME_TIME_AGO": "Il y a quelque temps",
     "BYTES": "Octets",
     "BYTE": "Octet",
@@ -170,10 +175,12 @@
     "APPLY_SERVER_SKIN": "Appliquer le thème du serveur",
     "RESTORE_DEFAULT_SKIN": "Restaurer le thème par défaut",
     "REGION": "Région",
+    "UI_VOLUME": "Volume de l'interface",
 
     "PERMISSION_1": "Enregistrer la fenêtre de votre jeu",
     "PERMISSION_2": "Accès au microphone et à la webcam",
     "PERMISSION_3": "Copier du texte dans le presse-papiers",
+    "PERMISSION_4": "Accès au microphone et aux paramètres vocaux",
 
     "ERR_UNKNOWN": "Erreur inconnue",
     "ERR_UNEXPECTED": "Erreur inattendue",
@@ -214,6 +221,9 @@
     "ERR_CONNECT_URL_TOO_LONG": "L'URL de connexion est trop longue",
     "ERR_EXTERNAL_MODS_FOUND": "Mods externes non pris en charge trouvés",
     "ERR_FAILED_TO_UPDATE_CLIENT": "Échec de la mise à jour du client",
+    "ERR_FAILED_TO_PATCH_LAUNCHER": "Échec de la mise à jour du lanceur",
+    "ERR_DISCORD_AUTH_FAILED": "Échec de l'authentification Discord",
+    "ERR_NO_PERMISSIONS_TO_QA_BRANCHES": "Vous n'avez pas les autorisations pour accéder aux versions QA",
     "SOL_RUN_AS_ADMIN": "Essayez d'exécuter alt:V en tant qu'administrateur",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Essayez d'installer alt:V dans un autre dossier (de préférence un emplacement automatique)",
     "SOL_CHECK_CONNECTION": "Vérifiez votre connection internet",
@@ -308,6 +318,17 @@
     "DELETING_FILE": "Suppression de fichier {0} de {1}",
     "UPDATING_SKIN": "Mise à jour du skin",
     "STARTING_GTAV": "Démarrage Grand Theft Auto V",
-    "LOADING_CLIENT": "Chargement du client alt:V"
+    "LOADING_CLIENT": "Chargement du client alt:V",
+    "INJECTING_LAUNCHER_PATCHES": "Injection de correctifs du lanceur",
+    "AUTHENTICATING": "Authentification",
+    "CHECKING_PRECONDITIONS": "Vérification des conditions requises",
+    
+    "ERR_GAME_RUNTIME_CRASH": "GTA V a planté",
+    "DESC_CRASHDUMP_ZIPPED": "Le fichier de vidage a été sauvegardé au chemin {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "Le vidage d'incident a été téléchargé. L'identifiant qui lui a été attribué est {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "Le vidage d'incident a été sauvegardé au chemin {0}, mais le téléchargement du vidage a échoué.",
+    "OPEN_CRASHDUMP_DIRECTORY": "Ouvrir le répertoire du vidage",
+    "COPY_CRASHDUMP_ID": "Copier l'identifiant du vidage"
+ 
   }
 }
