@@ -182,7 +182,7 @@
     "RESTORE_DEFAULT_SKIN": "Восстановить тему по-умолчанию",
     "REGION": "Регион",
     "UI_VOLUME": "Громкость интерфейса",
-    "MIC_TEST": "Проверка мирокрофона",
+    "MIC_TEST": "Проверка микрофона",
     "DEFAULT_INPUT_DEVICE": "По умолчанию",
     "DEFAULT_INPUT_DEVICE_NAMED": "По умолчанию ({0})",
     "UNKNOWN_INPUT_DEVICE": "Неизвестно",
@@ -348,7 +348,7 @@
     "INJECTING_LAUNCHER_PATCHES": "Внедрение патчей лаунчера",
     "AUTHENTICATING": "Аутентификация",
     "CHECKING_PRECONDITIONS": "Проверка предв. условий",
-    
+
     "ERR_GAME_RUNTIME_CRASH": "GTA V вылетела",
     "DESC_CRASHDUMP_ZIPPED": "Краш-репорт был сохранен по пути {0}.",
     "DESC_CRASHDUMP_UPLOADED": "Краш-репорт был отправлен. Присвоенный идентификатор: {0}.",
