@@ -182,6 +182,10 @@
     "RESTORE_DEFAULT_SKIN": "Восстановить тему по-умолчанию",
     "REGION": "Регион",
     "UI_VOLUME": "Громкость интерфейса",
+    "MIC_TEST": "Проверка мирокрофона",
+    "DEFAULT_INPUT_DEVICE": "По умолчанию",
+    "DEFAULT_INPUT_DEVICE_NAMED": "По умолчанию ({0})",
+    "UNKNOWN_INPUT_DEVICE": "Неизвестно",
 
     "PERMISSION_1": "Записывать окно вашей игры",
     "PERMISSION_2": "Доступ к микрофону и камере",

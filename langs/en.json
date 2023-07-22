@@ -176,6 +176,10 @@
     "RESTORE_DEFAULT_SKIN": "Restore default skin",
     "REGION": "Region",
     "UI_VOLUME": "UI volume",
+    "MIC_TEST": "Microphone test",
+    "DEFAULT_INPUT_DEVICE": "Default",
+    "DEFAULT_INPUT_DEVICE_NAMED": "Default ({0})",
+    "UNKNOWN_INPUT_DEVICE": "Unknown",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
