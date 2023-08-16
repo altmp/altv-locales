@@ -78,6 +78,7 @@
     "FAILED_TO_LOAD_SERVERS": "Laden der Server ist fehlgeschlagen",
     "EMPTY_HERE": "Es ist leer hier. Bis jetzt.",
     "DISCONNECTED": "Verbindung getrennt",
+    "CONNECTED": "Verbunden",
     "TIMED_OUT": "Zeitüberschreitung",
     "SERVER_NOT_RESPONDING": "Server antwortet nicht",
     "KICKED_OUT": "Du wurdest vom Server gekickt",
