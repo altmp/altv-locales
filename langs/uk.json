@@ -82,6 +82,7 @@
     "FAILED_TO_LOAD_SERVERS": "Завантаження серверів не вдалося",
     "EMPTY_HERE": "Нічого немає. Поки що.",
     "DISCONNECTED": "З'єднання розірвано",
+    "CONNECTED": "Підключено",
     "TIMED_OUT": "Таймаут",
     "SERVER_NOT_RESPONDING": "Сервер не відповідає",
     "KICKED_OUT": "Вас вигнали",
