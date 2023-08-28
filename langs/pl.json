@@ -232,6 +232,7 @@
     "SOL_DELETE_FILE_FROM_GAME": "Usuń plik {0} z folderu z grą",
     "SOL_USE_OFFLINE_MODE": "Użyj trybu offline",
     "SOL_INCREASE_GAME_TIMEOUT": "Zwiększ wartość limitu czasu. Więcej informacji można znaleźć na naszej stronie poświęconej rozwiązywaniu problemów",
+    "SOL_VERIFY_CONFIGURATION_FILE": "Sprawdź plik konfiguracyjny. Zobacz więcej szczegółów błędu pod \"Pokaż więcej informacji\"",
 
     "SHOW_ADDITIONAL_INFO": "Pokaż więcej informacji",
     "HIDE_ADDITIONAL_INFO": "Ukryj więcej informacji",
@@ -241,6 +242,7 @@
     "RESTART_IN_OFFLINE_MODE": "Uruchom ponownie w trybie offline",
     "CHANGE_GAME_PATH": "Zmień ścieżkę prowadzącą do plików GTA V",
     "TRY_AGAIN": "Spróbuj ponownie",
+    "REINSTALL_ALTV": "Zainstaluj ponownie alt:V",
     "ERROR_FOOTER": "Zajrzyj na naszą {0} aby sprawdzić czy nie istnieje już rozwiązanie na Twój problem lub zadaj pytanie na {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "stronę z rozwiązaniami znanych problemów",
     "ERROR_FOOTER_DISCORD_SERVER": "naszym serwerze Discord",

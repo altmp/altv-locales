@@ -257,6 +257,7 @@
     "SOL_WAIT_FOR_UPDATE": "Wait for alt:V update",
     "SOL_GET_BACKUP_FROM_FRIEND": "Ask a friend to share his backup folder",
     "SOL_CHECK_FREE_SPACE": "Make sure you have free space on disk with alt:V",
+    "SOL_VERIFY_CONFIGURATION_FILE": "Verify your configuration file. More details can be found in \"Show more\"",
     
     "SHOW_ADDITIONAL_INFO": "Show more info",
     "HIDE_ADDITIONAL_INFO": "Hide more info",
@@ -268,6 +269,7 @@
     "TRY_AGAIN": "Try again",
     "OPEN_LOGS": "Open log directory",
     "OPEN_GTA": "Open game directory",
+    "REINSTALL_ALTV": "Reinstall alt:V",
     "ERROR_FOOTER": "Visit our {0} to see if you've got a common error or ask a question on {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "troubleshooting page",
     "ERROR_FOOTER_DISCORD_SERVER": "our Discord server",
