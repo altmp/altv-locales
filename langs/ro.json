@@ -269,11 +269,11 @@
     "RESTART_IN_OFFLINE_MODE": "Reporniți în modul offline",
     "CHANGE_GAME_PATH": "Schimbă calea jocului",
     "TRY_AGAIN": "Încearcă din nou",
-    "OPEN_LOGS": "Deschide directorul cu jurnale",
+    "OPEN_LOGS": "Deschide directorul cu loguri",
     "OPEN_GTA": "Deschide directorul jocului",
     "REINSTALL_ALTV": "Reinstalează alt:V",
     "ERROR_FOOTER": "Vizitează {0} noastră pentru a vedea dacă ai întâmpinat o eroare comună sau pune o întrebare pe {1}",
-    "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "pagina noastră de depanare",
+    "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "pagina noastră de troubleshooting",
     "ERROR_FOOTER_DISCORD_SERVER": "serverul nostru Discord",
     "ALTV_ALREADY_RUNNING_HEADER": "Deja rulează",
     "ALTV_ALREADY_RUNNING": "alt:V rulează deja, doriți să-l închideți?",
@@ -351,10 +351,10 @@
     "AUTHENTICATING": "Se autentifică",
     "CHECKING_PRECONDITIONS": "Se verifică precondițiile",
 
-    "ERR_GAME_RUNTIME_CRASH": "GTA V a crăpat",
-    "DESC_CRASHDUMP_ZIPPED": "Fișierul de crash dump a fost salvat la calea {0}.",
-    "DESC_CRASHDUMP_UPLOADED": "Fișierul de crash dump a fost încărcat. ID-ul alocat este {0}.",
-    "DESC_CRASHDUMP_UPLOAD_FAILED": "Fișierul de crash dump a fost salvat la următoarea cale: {0}, dar încărcarea crash dump-ului a eșuat.",
+    "ERR_GAME_RUNTIME_CRASH": "GTA V a dat crash",
+    "DESC_CRASHDUMP_ZIPPED": "Fișierul de crash dump a fost salvat în urmatorul path {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "Fișierul de crash dump a fost încărcat. ID-ul atribuit este {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "Fișierul de crash dump a fost salvat în urmatorul path: {0}, dar încărcarea crash dump-ului a eșuat.",
     "OPEN_CRASHDUMP_DIRECTORY": "Deschide directorul cu fișierele de crash dump",
     "COPY_CRASHDUMP_ID": "Copiați ID-ul crash dump-ului"
   }
