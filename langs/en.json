@@ -186,6 +186,8 @@
     "DEFAULT_INPUT_DEVICE": "Default",
     "DEFAULT_INPUT_DEVICE_NAMED": "Default ({0})",
     "UNKNOWN_INPUT_DEVICE": "Unknown",
+    "DISCORD_RICH_PRESENCE": "Show Discord Activity",
+    "MISC_SETTINGS": "Misc",
 
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",

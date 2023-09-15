@@ -192,6 +192,9 @@
     "DEFAULT_INPUT_DEVICE": "По умолчанию",
     "DEFAULT_INPUT_DEVICE_NAMED": "По умолчанию ({0})",
     "UNKNOWN_INPUT_DEVICE": "Неизвестно",
+    "DISCORD_RICH_PRESENCE": "Показать активность Discord",
+    "MISC_SETTINGS": "Прочее",
+
 
     "PERMISSION_1": "Записывать окно вашей игры",
     "PERMISSION_2": "Доступ к микрофону и камере",

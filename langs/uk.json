@@ -192,6 +192,8 @@
     "DEFAULT_INPUT_DEVICE": "За замовчуванням",
     "DEFAULT_INPUT_DEVICE_NAMED": "За замовчуванням ({0})",
     "UNKNOWN_INPUT_DEVICE": "Невідомо",
+    "DISCORD_RICH_PRESENCE": "Показати активність Discord",
+    "MISC_SETTINGS": "Інші",
     
     "PERMISSION_1": "Записувати вікно вашої гри",
     "PERMISSION_2": "Доступ до мікрофону та камери",
