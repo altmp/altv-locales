@@ -253,7 +253,7 @@
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Adj meg egy másik játékkönyvtárat",
     "SOL_RESTART_COMPUTER": "Indítsd újra a számítógépet",
     "SOL_VERIFY_GAME_FILES": "Ellenőrizd a játékfájlok éppségét",
-    "SOL_DELETE_FILE_FROM_GAME": "Töröld {0} a játék mappából",
+    "SOL_DELETE_FILE_FROM_GAME": "Töröld {0} ({1}) a játék mappából",
     "SOL_USE_OFFLINE_MODE": "Offline mód használata",
     "SOL_INCREASE_GAME_TIMEOUT": "Növeld az időtúllépés időkorlátját. További információ a hibaelhárítási oldalunkon található meg.",
     "SOL_WAIT_FOR_UPDATE": "Várj az alt:V frissítésére",

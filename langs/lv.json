@@ -260,7 +260,7 @@
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Norādiet citu spēles direktoriju",
     "SOL_RESTART_COMPUTER": "Restartējiet datoru",
     "SOL_VERIFY_GAME_FILES": "Pārbaudiet spēles failu integritāti",
-    "SOL_DELETE_FILE_FROM_GAME": "Dzēst {0} no spēles mapes",
+    "SOL_DELETE_FILE_FROM_GAME": "Dzēst {0} ({1}) no spēles mapes",
     "SOL_USE_OFFLINE_MODE": "Izmantojiet bezsaistes režīmu",
     "SOL_INCREASE_GAME_TIMEOUT": "Palieliniet taimauta vērtību. Plašāku informāciju var atrast mūsu problēmu novēršanas lapā",
     "SOL_WAIT_FOR_UPDATE": "Pagaidiet alt:V atjauninājumu",

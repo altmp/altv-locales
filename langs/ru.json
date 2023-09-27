@@ -267,7 +267,7 @@
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Выберите другую папку игры",
     "SOL_RESTART_COMPUTER": "Перезапустите компьютер",
     "SOL_VERIFY_GAME_FILES": "Проверьте целостность файлов игры",
-    "SOL_DELETE_FILE_FROM_GAME": "Удалите {0} из папки игры",
+    "SOL_DELETE_FILE_FROM_GAME": "Удалите {0} ({1}) из папки игры",
     "SOL_USE_OFFLINE_MODE": "Используйте оффлайн-режим",
     "SOL_INCREASE_GAME_TIMEOUT": "Увеличьте значение тайм-аута. Дополнительную информацию можно найти на нашей странице распространенных проблем",
     "SOL_WAIT_FOR_UPDATE": "Ожидайте обновления alt:V",

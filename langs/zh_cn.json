@@ -246,7 +246,7 @@
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "指定其他游戏目录",
     "SOL_RESTART_COMPUTER": "重启您的电脑",
     "SOL_VERIFY_GAME_FILES": "请验证 GTA V 游戏的完整性",
-    "SOL_DELETE_FILE_FROM_GAME": "将 {0} 从游戏目录删除",
+    "SOL_DELETE_FILE_FROM_GAME": "将 {0} ({1}) 从游戏目录删除",
     "SOL_USE_OFFLINE_MODE": "使用离线模式",
     "SOL_INCREASE_GAME_TIMEOUT": "增加超时时间, 更多方法可以查询我们的故障排除页面",
     "SOL_WAIT_FOR_UPDATE": "等待 alt:V 更新",

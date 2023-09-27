@@ -229,7 +229,7 @@
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Wybierz inny folder z grą",
     "SOL_RESTART_COMPUTER": "Zrestartuj swój komputer",
     "SOL_VERIFY_GAME_FILES": "Zweryfikuj integralność plików gry",
-    "SOL_DELETE_FILE_FROM_GAME": "Usuń plik {0} z folderu z grą",
+    "SOL_DELETE_FILE_FROM_GAME": "Usuń plik {0} ({1}) z folderu z grą",
     "SOL_USE_OFFLINE_MODE": "Użyj trybu offline",
     "SOL_INCREASE_GAME_TIMEOUT": "Zwiększ wartość limitu czasu. Więcej informacji można znaleźć na naszej stronie poświęconej rozwiązywaniu problemów",
     "SOL_VERIFY_CONFIGURATION_FILE": "Sprawdź plik konfiguracyjny. Zobacz więcej szczegółów błędu pod \"Pokaż więcej informacji\"",
