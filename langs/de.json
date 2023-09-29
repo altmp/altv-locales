@@ -366,6 +366,12 @@
     "DESC_CRASHDUMP_UPLOADED": "Der Crashdump wurde erfolgreich hochgeladen. Die zugeordnete ID lautet: {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Der Crashdump wurde unter folgendem Pfad gespeichert: {0}, jedoch war das Hochladen nicht möglich.",
     "OPEN_CRASHDUMP_DIRECTORY": "Crashdump Verzeichnis öffnen",
-    "COPY_CRASHDUMP_ID": "Crashdump Id kopieren"
+    "COPY_CRASHDUMP_ID": "Crashdump Id kopieren",
+
+    "PIRATE_NOT_SUPPORTED": "Gecrackte GTA V Versionen werden nicht unterstützt!",
+    "PIRATE_CONSIDER_BUYING": "Kaufe das Spiel von <b>offiziellen</b> Shops:",
+    "PIRATE_BRAVE_ENOUGH": "Wenn du mutig bist:",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Weiter mit gecrackter Version",
+    "PIRATE_SERIOUSLY": "Wirklich?"
   }
 }
