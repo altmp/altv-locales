@@ -370,6 +370,12 @@
     "DESC_CRASHDUMP_UPLOADED": "Краш-рэпарт быў адпраўлены. Прыйшоўшы ідэнтыфікатар: {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Краш-рэпарт быў захаваны па шляху: {0}, яго адпраўка не ўдалася.",
     "OPEN_CRASHDUMP_DIRECTORY": "Адкрыць тэчку краш-рэпартаў",
-    "COPY_CRASHDUMP_ID": "Скапіраваць ідэнтыфікатар краш-рэпарта"
+    "COPY_CRASHDUMP_ID": "Скапіраваць ідэнтыфікатар краш-рэпарта",
+
+    "PIRATE_NOT_SUPPORTED": "Піратскія версіі GTA V не падтрымліваюцца!",
+    "PIRATE_CONSIDER_BUYING": "Задумайцеся аб куплі гульні ў <b>афіцыйных</b> крамах:",
+    "PIRATE_BRAVE_ENOUGH": "Калі вы дастаткова смелыя:",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Працягнуць з пірацкай версіяй",
+    "PIRATE_SERIOUSLY": "Сур'ёзна?"
   }
 }
