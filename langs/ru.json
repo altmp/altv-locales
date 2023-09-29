@@ -370,6 +370,12 @@
     "DESC_CRASHDUMP_UPLOADED": "Краш-репорт был отправлен. Присвоенный идентификатор: {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Краш-репорт был сохранен по пути: {0}, его отправка не удалась.",
     "OPEN_CRASHDUMP_DIRECTORY": "Открыть папку краш-репортов",
-    "COPY_CRASHDUMP_ID": "Скопировать ID краш-репорта"
+    "COPY_CRASHDUMP_ID": "Скопировать ID краш-репорта",
+
+    "PIRATE_NOT_SUPPORTED": "Пиратские версии GTA V не поддерживаются!",
+    "PIRATE_CONSIDER_BUYING": "Задумайтесь о покупке игры в <b>официальных</b> магазинах:",
+    "PIRATE_BRAVE_ENOUGH": "Если хватает смелости:",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Продолжить с пиратской версией",
+    "PIRATE_SERIOUSLY": "Серьёзно?"
   }
 }
