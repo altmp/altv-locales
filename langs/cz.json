@@ -262,7 +262,7 @@
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Změňte herní složku",
     "SOL_RESTART_COMPUTER": "Restartujte svůj počítač",
     "SOL_VERIFY_GAME_FILES": "Ověřte integritu vašich herních souborů",
-    "SOL_DELETE_FILE_FROM_GAME": "Odstraňte {0} ze svých herních souborů",
+    "SOL_DELETE_FILE_FROM_GAME": "Odstraňte {0} ({1}) ze svých herních souborů",
     "SOL_USE_OFFLINE_MODE": "Použijte režim offline",
     "SOL_INCREASE_GAME_TIMEOUT": "Zvyšte hodnotu časového limitu. Více informací naleznete na naší stránce pro odstraňování problémů",
     "SOL_WAIT_FOR_UPDATE": "Vyčkejte na aktualizaci alt:V",

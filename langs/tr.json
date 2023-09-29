@@ -226,7 +226,7 @@
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Başka bir oyun dizini belirtin",
     "SOL_RESTART_COMPUTER": "Bilgisayarınızı yeniden başlatın",
     "SOL_VERIFY_GAME_FILES": "Oyun dosyalarının bütünlüğünü doğrulayın",
-    "SOL_DELETE_FILE_FROM_GAME": "Oyun klasöründen {0} dosyalarını silin",
+    "SOL_DELETE_FILE_FROM_GAME": "Oyun klasöründen {0} ({1}) dosyalarını silin",
     "SOL_USE_OFFLINE_MODE": "Çevrimdışı modu kullanın",
     
     "SHOW_ADDITIONAL_INFO": "Daha fazla bilgi göster",

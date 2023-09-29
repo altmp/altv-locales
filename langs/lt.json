@@ -230,7 +230,7 @@
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Nurodykite kitą žaidimo aplanką",
     "SOL_RESTART_COMPUTER": "Iš naujo paleiskite kompiuterį",
     "SOL_VERIFY_GAME_FILES": "Patikrinti žaidimo failų vientisumą",
-    "SOL_DELETE_FILE_FROM_GAME": "Ištrinkite {0} iš žaidimo aplanko",
+    "SOL_DELETE_FILE_FROM_GAME": "Ištrinkite {0} ({1}) iš žaidimo aplanko",
     "SOL_USE_OFFLINE_MODE": "Naudokite neprisijungusį režimą (angl. „Offline mode“)",
     
     "SHOW_ADDITIONAL_INFO": "Rodyti papildomą informaciją",
