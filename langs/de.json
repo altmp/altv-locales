@@ -127,6 +127,7 @@
     "SERVER_PLAYERS": "{0} Spieler",
     "OFFLINE": "Offline",
     "LATEST_NEWS": "Aktuelle Neuigkeiten",
+    "NO_RECENT_SERVERS": "Drücke {0}, um die Serverliste zu öffnen, oder drücke {1}, um eine direkte Verbindung über IP herzustellen",
     "NO_FAVORITE_SERVERS": "Markiere deine bevorzugten Server mit {0}",
     "OPEN_LOG_FILE": "Protokolldatei öffnen",
     "CLEAR_LOGS": "Protokolldateien säubern",
