@@ -200,7 +200,6 @@
     "DISCORD_RICH_PRESENCE": "Показать активность Discord",
     "MISC_SETTINGS": "Прочее",
 
-
     "PERMISSION_1": "Записывать окно вашей игры",
     "PERMISSION_2": "Доступ к микрофону и камере",
     "PERMISSION_3": "Копировать текст в буфер обмена",
@@ -268,6 +267,7 @@
     "SOL_RESTART_COMPUTER": "Перезапустите компьютер",
     "SOL_VERIFY_GAME_FILES": "Проверьте целостность файлов игры",
     "SOL_DELETE_FILE_FROM_GAME": "Удалите {0} ({1}) из папки игры",
+    "SOL_UPDATE_MOD": "Обновление {0} ({1}) до версии {2} или выше",
     "SOL_USE_OFFLINE_MODE": "Используйте оффлайн-режим",
     "SOL_INCREASE_GAME_TIMEOUT": "Увеличьте значение тайм-аута. Дополнительную информацию можно найти на нашей странице распространенных проблем",
     "SOL_WAIT_FOR_UPDATE": "Ожидайте обновления alt:V",
@@ -283,9 +283,9 @@
     "RESTART_IN_OFFLINE_MODE": "Перезапустить в оффлайн-режиме",
     "CHANGE_GAME_PATH": "Выбрать другую папку игры",
     "TRY_AGAIN": "Попробовать ещё раз",
-    "REINSTALL_ALTV": "Переустановить alt:V",
     "OPEN_LOGS": "Открыть папку с логами",
     "OPEN_GTA": "Открыть папку GTA V",
+    "REINSTALL_ALTV": "Переустановить alt:V",
     "ERROR_FOOTER": "Проверьте нашу {0} или задайте вопрос на нашем {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "страницу распространенных проблем",
     "ERROR_FOOTER_DISCORD_SERVER": "сервере Discord",
@@ -370,6 +370,12 @@
     "DESC_CRASHDUMP_UPLOADED": "Краш-репорт был отправлен. Присвоенный идентификатор: {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Краш-репорт был сохранен по пути: {0}, его отправка не удалась.",
     "OPEN_CRASHDUMP_DIRECTORY": "Открыть папку краш-репортов",
-    "COPY_CRASHDUMP_ID": "Скопировать ID краш-репорта"
+    "COPY_CRASHDUMP_ID": "Скопировать ID краш-репорта",
+
+    "PIRATE_NOT_SUPPORTED": "Пиратские версии GTA V не поддерживаются!",
+    "PIRATE_CONSIDER_BUYING": "Задумайтесь о покупке игры в <b>официальных</b> магазинах:",
+    "PIRATE_BRAVE_ENOUGH": "Если хватает смелости:",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Продолжить с пиратской версией",
+    "PIRATE_SERIOUSLY": "Серьёзно?"
   }
 }

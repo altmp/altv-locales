@@ -369,6 +369,12 @@
     "DESC_CRASHDUMP_UPLOADED": "Збійовий дамп було завантажено. Надано ідентифікатор {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Збійовий дамп було збережено за наступним шляхом: {0}, але відправка збійового дампу не вдалася.",
     "OPEN_CRASHDUMP_DIRECTORY": "Відкрити директорію збоїв",
-    "COPY_CRASHDUMP_ID": "Скопіювати ідентифікатор збою"
+    "COPY_CRASHDUMP_ID": "Скопіювати ідентифікатор збою",
+
+    "PIRATE_NOT_SUPPORTED": "Піратські версії GTA V не підтримуються!",
+    "PIRATE_CONSIDER_BUYING": "Задумайтеся про покупку гри в <b>офіційних</b> магазинах:",
+    "PIRATE_BRAVE_ENOUGH": "Якщо вистачає сміливості:",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Продовжити з піратською версією",
+    "PIRATE_SERIOUSLY": "Серйозно?"
   }
 }
