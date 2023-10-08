@@ -261,6 +261,7 @@
     "SOL_RESTART_COMPUTER": "Restartējiet datoru",
     "SOL_VERIFY_GAME_FILES": "Pārbaudiet spēles failu integritāti",
     "SOL_DELETE_FILE_FROM_GAME": "Dzēst {0} ({1}) no spēles mapes",
+    "SOL_UPDATE_MOD": "Atjauniniet {0} ({1}) uz versiju {2} vai jaunāku",
     "SOL_USE_OFFLINE_MODE": "Izmantojiet bezsaistes režīmu",
     "SOL_INCREASE_GAME_TIMEOUT": "Palieliniet taimauta vērtību. Plašāku informāciju var atrast mūsu problēmu novēršanas lapā",
     "SOL_WAIT_FOR_UPDATE": "Pagaidiet alt:V atjauninājumu",
@@ -363,6 +364,12 @@
     "DESC_CRASHDUMP_UPLOADED": "Crash dump tika augšupielādēts. Piešķirtais id ir {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Crash dump tika saglabāts šādā direktorijā: {0}, jo crash dump augšupielāde neizdevās",
     "OPEN_CRASHDUMP_DIRECTORY": "Atvērt crashdump direktoriju",
-    "COPY_CRASHDUMP_ID": "Kopēt crashdump id"
+    "COPY_CRASHDUMP_ID": "Kopēt crashdump id",
+
+    "PIRATE_NOT_SUPPORTED": "Pirātiskās GTA V versijas netiek atbalstītas!",
+    "PIRATE_CONSIDER_BUYING": "Apsveriet iespēju iegādāties spēli <b>oficiālajos</b> veikalos:",
+    "PIRATE_BRAVE_ENOUGH": "Ja esat pietiekami drosmīgs:",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Turpiniet ar pirātisko versiju",
+    "PIRATE_SERIOUSLY": "Nopietni?"
   }
 }
