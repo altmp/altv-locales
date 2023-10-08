@@ -364,6 +364,12 @@
     "DESC_CRASHDUMP_UPLOADED": "The crash dump has been uploaded. The assigned id is {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "The crash dump has been saved at the following path: {0}, but the upload of the crash dump failed.",
     "OPEN_CRASHDUMP_DIRECTORY": "Open crashdump directory",
-    "COPY_CRASHDUMP_ID": "Copy crashdump id"
+    "COPY_CRASHDUMP_ID": "Copy crashdump id",
+    
+    "PIRATE_NOT_SUPPORTED": "Pirated versions of GTA V are not supported!",
+    "PIRATE_CONSIDER_BUYING": "Consider buying the game from <b>official</b> stores:",
+    "PIRATE_BRAVE_ENOUGH": "If you are brave enough:",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Continue with pirated version",
+    "PIRATE_SERIOUSLY": "Seriously?"
   }
 }
