@@ -256,12 +256,13 @@
     "SOL_REPORT_DISCORD": "Signalez le bug sur notre serveur Discord",
     "SOL_VERIFY_ALTV_NOT_RUNNING": "Vérifiez que vous n'avez pas alt:V en cours d'exécution",
     "SOL_VERIFY_GTA_NOT_RUNNING": "Vérifiez que vous n'avez pas GTA V en cours d'exécution",
-    "SOL_START_GAME_ONCE": "Démarrer le mode solo au moins une fois",
+    "SOL_START_GAME_ONCE": "Démarrez le mode solo au moins une fois",
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Spécifiez un autre répertoire de jeu",
     "SOL_RESTART_COMPUTER": "Redémarrez votre ordinateur",
     "SOL_VERIFY_GAME_FILES": "Vérifiez l'intégrité des fichiers du jeu",
-    "SOL_DELETE_FILE_FROM_GAME": "Supprimer {0} ({1}) du dossier du jeu",
-    "SOL_USE_OFFLINE_MODE": "Utiliser le mode hors ligne",
+    "SOL_DELETE_FILE_FROM_GAME": "Supprimez {0} ({1}) du dossier du jeu",
+    "SOL_UPDATE_MOD": "Mettez à jour {0} ({1}) vers la version {2} ou plus",
+    "SOL_USE_OFFLINE_MODE": "Utilisez le mode hors ligne",
     "SOL_INCREASE_GAME_TIMEOUT": "Augmentez la valeur du délai d'attente. Plus d'informations peuvent être trouvées sur notre page de dépannage",
     "SOL_WAIT_FOR_UPDATE": "Patientez jusqu'à la mise à jour de l'alt:V",
     "SOL_GET_BACKUP_FROM_FRIEND": "Demandez à un ami de partager son dossier de sauvegarde",
@@ -363,7 +364,12 @@
     "DESC_CRASHDUMP_UPLOADED": "Le vidage d'incident a été téléchargé. L'identifiant qui lui a été attribué est {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Le vidage d'incident a été sauvegardé au chemin {0}, mais le téléchargement du vidage a échoué.",
     "OPEN_CRASHDUMP_DIRECTORY": "Ouvrir le répertoire du vidage",
-    "COPY_CRASHDUMP_ID": "Copier l'identifiant du vidage"
- 
+    "COPY_CRASHDUMP_ID": "Copier l'identifiant du vidage",
+
+    "PIRATE_NOT_SUPPORTED": "Les versions piratées de GTA V ne sont pas compatibles !",
+    "PIRATE_CONSIDER_BUYING": "Songez à acheter le jeu dans les boutiques <b>officielles</b> :",
+    "PIRATE_BRAVE_ENOUGH": "Si vous avez de l'audace :",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Continuer avec la version piratée",
+    "PIRATE_SERIOUSLY": "Sérieusement ?"
   }
 }
