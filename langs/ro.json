@@ -105,7 +105,7 @@
     "RESOURCES_SIZE": "Resurse: {0}",
     "DATA_SIZE": "Date: {0}",
     "DELETE_DATA_HEADER": "Șterge datele serverului",
-    "CANNNOT_DELETE_CURRENT_SERVER_DATA": "Nu puteți șterge datele serverului pe care jucați în prezent",
+    "CANNOT_DELETE_CURRENT_SERVER_DATA": "Nu puteți șterge datele serverului pe care jucați în prezent",
     "DELETE_RESOURCES_HEADER": "Șterge resursele serverului",
     "LAST_VISIT": "Ultima vizită: {0}",
     "SHARED_RESOURCES": "Resurse partajate: {0}",
