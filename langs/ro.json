@@ -58,7 +58,7 @@
     "CLIENT_OUTDATED": "Serverul folosește o versiune mai nouă a alt:V",
     "SERVER_OUTDATED": "Serverul folosește o versiune mai veche a alt:V",
     "REFUSED_BY_SERVER": "Refuzat de server",
-    "EARLY_AUTH_FAILED": "Autentificare eșuată devreme",
+    "EARLY_AUTH_FAILED": "Autentificare Early Auth eșuată",
     "HTTP_SERVER_CONNECT_FAILED": "Conexiune la serverul HTTP eșuată",
     "RESOURCE_DOWNLOAD_FAILED": "Descărcarea resursei a eșuat",
     "RESOURCE_CHECK_FAILED": "Verificarea integrității resursei a eșuat",
