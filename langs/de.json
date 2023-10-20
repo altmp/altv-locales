@@ -131,6 +131,7 @@
     "SERVER_LOCKED": "Passwortgeschützt",
     "SERVER_PLAYERS": "{0} Spieler",
     "OFFLINE": "Offline",
+    "SERVER_BANNED": "Server ist gebannt",
     "LATEST_NEWS": "Aktuelle Neuigkeiten",
     "NO_RECENT_SERVERS": "Drücke {0}, um die Serverliste zu öffnen, oder drücke {1}, um eine direkte Verbindung über IP herzustellen",
     "NO_FAVORITE_SERVERS": "Markiere deine bevorzugten Server mit {0}",
