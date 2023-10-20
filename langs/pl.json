@@ -116,6 +116,7 @@
     "SERVER_LOCKED": "Zablokowany",
     "SERVER_PLAYERS": "{0} graczy",
     "OFFLINE": "Offline",
+    "SERVER_BANNED": "Serwer jest zbanowany"
     "LATEST_NEWS": "Ostatnie wiadomości",
     "NO_FAVORITE_SERVERS": "Oznacz swoje ulubione serwery {0}",
     "OPEN_LOG_FILE": "Otwórz plik z logami",
