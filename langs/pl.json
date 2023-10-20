@@ -296,6 +296,15 @@
     "UNINSTALLER_DELETE_SERVER_DATA": "Usuń także wszystkie dane serwerów",
     "UNINSTALL": "Odinstaluj",
     "SHORTCUT_DESC": "alt:V Multiplayer - klient multiplayer gry GTA V",
+    "STRESS_TEST_JOIN": "Dołącz do naszego stress testu",
+    "STRESS_TEST_DESC": "Potrzebujemy dużej ilości graczy, aby przetestować i zapewnić stabilność oraz wyjdaność alt:V, zbierając przy tym ważne dane. Twój udział ma znaczenie i jesteśmy wdzięczni, że jesteś częścią tej ważnej fazy testowania.",
+    "STRESS_TEST_SCHEDULE": "Stress test jest zaplanowany do {0} (w twojej lokalnej strefie czasowej).",
+    "STRESS_TEST_FAQ_HEADER_1": "Czym jest stress test?",
+    "STRESS_TEST_FAQ_DESC_1": "Stress test polega na sprawdzeniu naszych systemów aż do limitu, odkrywając jego możliwości i systemy, które wymagają poprawy." ,
+    "STRESS_TEST_FAQ_HEADER_2": "Co muszę robić?",
+    "STRESS_TEST_FAQ_DESC_2": "Po połączeniu się z serwerem, otrzymasz dalsze informacje",
+    "STRESS_TEST_DECLINE": "Nie, dzięki",
+    "STRESS_TEST_ACCEPT": "Weź udział w stress tescie",
 
     "UPDATING_LAUNCHER": "Aktualizacja launchera",
     "VALIDATING_LAUNCHER": "Walidacja launchera",
@@ -308,6 +317,22 @@
     "DELETING_FILE": "Usuwanie pliku {0} z {1}",
     "UPDATING_SKIN": "Aktualizacja wyglądu launchera",
     "STARTING_GTAV": "Uruchamianie Grand Theft Auto V",
-    "LOADING_CLIENT": "Ładowanie klienta alt:V Multiplayer"
+    "LOADING_CLIENT": "Ładowanie klienta alt:V Multiplayer",
+    "INJECTING_LAUNCHER_PATCHES": "Aplikowanie poprawek launchera",
+    "AUTHENTICATING": "Uwierzytelnianie",
+    "CHECKING_PRECONDITIONS": "Sprawdzanie wymagań",
+    
+    "ERR_GAME_RUNTIME_CRASH": "GTA V uległo awarii",
+    "DESC_CRASHDUMP_ZIPPED": "Crashdump został zapisany w lokalizacji {0}.",
+    "DESC_CRASHDUMP_UPLOADED": "Crashdump został wysłany. Przypisane mu ID to {0}.",
+    "DESC_CRASHDUMP_UPLOAD_FAILED": "Crashdump został zapisany w: {0}, ale jego przesłanie nie powiodło się.",
+    "OPEN_CRASHDUMP_DIRECTORY": "Otwórz katalog z crashdumpem",
+    "COPY_CRASHDUMP_ID": "Skopiuj ID crashdumpa",
+    
+    "PIRATE_NOT_SUPPORTED": "Nieobsługiwane są pirackie wersje GTA V!",
+    "PIRATE_CONSIDER_BUYING": "Rozważ zakup gry w <b>oficjalnych</b> sklepach:",
+    "PIRATE_BRAVE_ENOUGH": "Jeśli masz odwagę:",
+    "PIRATE_CONTINUE_WITH_PIRATED": "Kontynuuj z piracką wersją",
+    "PIRATE_SERIOUSLY": "Na pewno?"
   }
 }
