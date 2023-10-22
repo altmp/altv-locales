@@ -290,9 +290,9 @@
 
     "TIME_SEC": "sec",
     "TIME_MIN": "min",
-    "APPROX_TIME_LEFT": "~{0} rămas",
-    "TIME_LEFT": "{0} rămas",
-    "DATA_LEFT": "{0} rămas",
+    "APPROX_TIME_LEFT": "~{0} rămase",
+    "TIME_LEFT": "{0} rămase",
+    "DATA_LEFT": "{0} rămase",
 
     "ALTV_INSTALLER": "Instalator alt:V",
     "ALTV_UNINSTALLER": "Dezinstalator alt:V",
