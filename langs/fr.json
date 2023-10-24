@@ -55,7 +55,7 @@
     "INVALID_SERVER_INFORMATION": "Information serveur invalide",
     "FAILED_TO_VERIFY_GAME_LICENSE": "Échec de la vérification de la licence du jeu (les versions piratées du jeu ne sont pas prises en charge)",
     "SERVER_NOT_FOUND": "Serveur introuvable",
-    "MASTERLIST_RESPONSE_ERROR": "Erreur de réponse de la liste des serveurs",
+    "MASTERLIST_RESPONSE_ERROR": "Erreur de réponse de la liste de contrôle",
     "DEBUG_NOT_ALLOWED": "Le mode de débogage n'est pas autorisé sur ce serveur",
     "WRONG_BRANCH": "Le serveur utilise une branche de mise à jour différente",
     "WRONG_STABLE_BUILD": "Le serveur exécute une version différente d'alt:V",
