@@ -329,6 +329,7 @@
     "UNABLE_TO_FIND_INSTALLATION": "Нам не удалось найти GTA V на вашем компьютере автоматически. Пожалуйста, укажите путь к игре вручную.",
     "UNABLE_TO_FIND_INSTALLATION_FOLDER": "Нам не удалось найти GTA V, установленную через {0}. Пожалуйста, укажите путь к игре вручную.",
     "CONFIRM_YOUR_PREFERENCES": "Подтвердите выбор",
+    "ENABLE_LINUX_COMPATIBILITY": "Включить патчи совместимости с Linux/MacOS",
     "ALTV_LOCATION": "Путь к alt:V",
     "GTAV_LOCATION": "Путь к GTA V",
     "RECOMMENDED": "Рекомендованный",
