@@ -325,6 +325,7 @@
     "UNABLE_TO_FIND_INSTALLATION": "Die GTA V Installation konnte nicht automatisch ermittelt werden. Bitte wähle diese selbst aus der Liste.",
     "UNABLE_TO_FIND_INSTALLATION_FOLDER": "Der Ordner der GTA V Installation auf {0} konnte nicht automatisch ermittelt werden. Bitte wähle diesen selbst.",
     "CONFIRM_YOUR_PREFERENCES": "Bestätige deine Einstellungen",
+    "ENABLE_LINUX_COMPATIBILITY": "Aktiviere Linux/MacOS Kompatibilität",
     "ALTV_LOCATION": "alt:V Ordner",
     "GTAV_LOCATION": "GTA V Ordner",
     "RECOMMENDED": "Vorgeschlagen",
