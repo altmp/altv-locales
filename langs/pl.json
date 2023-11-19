@@ -277,6 +277,8 @@
     "SOL_GET_BACKUP_FROM_FRIEND": "Poproś swojego znajomego o przesłanie folderu backup",
     "SOL_CHECK_FREE_SPACE": "Upewnij się, że masz wystarczająco miejsca na dysku z alt:V",
     "SOL_VERIFY_CONFIGURATION_FILE": "Sprawdź plik konfiguracyjny. Zobacz więcej szczegółów błędu pod \"Pokaż więcej informacji\"",
+    "SOL_LAUNCHER_IN_DIR": "Usuń Rockstar Games Launcher z folderu {0}",
+    "SOL_GAME_IN_DIR": "Usuń alt:V z folderu GTA V",
 
     "SHOW_ADDITIONAL_INFO": "Pokaż więcej informacji",
     "HIDE_ADDITIONAL_INFO": "Ukryj więcej informacji",

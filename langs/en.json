@@ -274,6 +274,8 @@
     "SOL_GET_BACKUP_FROM_FRIEND": "Ask a friend to share his backup folder",
     "SOL_CHECK_FREE_SPACE": "Make sure you have free space on disk with alt:V",
     "SOL_VERIFY_CONFIGURATION_FILE": "Verify your configuration file. More details can be found in \"Show more\"",
+    "SOL_LAUNCHER_IN_DIR": "Remove Rockstar Games Launcher from {0} directory",
+    "SOL_GAME_IN_DIR": "Remove alt:V from the GTA V directory",
     
     "SHOW_ADDITIONAL_INFO": "Show more info",
     "HIDE_ADDITIONAL_INFO": "Hide more info",

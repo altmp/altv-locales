@@ -280,6 +280,8 @@
     "SOL_GET_BACKUP_FROM_FRIEND": "Попросіть друга поділитися його папкою резервної копії",
     "SOL_CHECK_FREE_SPACE": "Переконайтеся, що у вас є вільний простір на диску з alt:V",
     "SOL_VERIFY_CONFIGURATION_FILE": "Перевірте ваш файл конфигурації. Натисніть \"Показати більше інформації\" для більш детальної информації",
+    "SOL_LAUNCHER_IN_DIR": "Видаліть Rockstar Games Launcher з папки {0}",
+    "SOL_GAME_IN_DIR": "Видаліть alt:V з папки GTA V",
 
     "SHOW_ADDITIONAL_INFO": "Показати більше інформації",
     "HIDE_ADDITIONAL_INFO": "Приховати додаткові відомості",

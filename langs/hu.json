@@ -260,6 +260,8 @@
     "SOL_GET_BACKUP_FROM_FRIEND": "Kérj meg egy barátot, hogy ossza meg a biztonsági mentés mappáját",
     "SOL_CHECK_FREE_SPACE": "Győződj meg róla, hogy van szabad hely a lemezen az alt:V-vel",
     "SOL_VERIFY_CONFIGURATION_FILE": "Ellenőrizd a konfigurációs fájlt. További részletekért keresd a \"Továbbiak megjelenítése\" menüpontot.",
+    "SOL_LAUNCHER_IN_DIR": "Távolítsd el a Rockstar Games Launcher-t a(z) {0} könyvtárából",
+    "SOL_GAME_IN_DIR": "Távolítsd el a(z) alt:V-t a GTA V könyvtárából",
     
     "SHOW_ADDITIONAL_INFO": "További információk megjelenítése",
     "HIDE_ADDITIONAL_INFO": "További információk elrejtése",
