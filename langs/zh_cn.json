@@ -274,6 +274,8 @@
     "SOL_GET_BACKUP_FROM_FRIEND": "让朋友分享他的备份文件夹",
     "SOL_CHECK_FREE_SPACE": "alt:V 所在磁盘空间不足",
     "SOL_VERIFY_CONFIGURATION_FILE": "验证配置文件. 在\"显示更多\"中查看详情",
+    "SOL_LAUNCHER_IN_DIR": "从 {0} 目录删除Rockstar Games Launcher ",
+    "SOL_GAME_IN_DIR": "从 GTA V 文件夹里删除 alt:V",
     
     "SHOW_ADDITIONAL_INFO": "查看更多信息",
     "HIDE_ADDITIONAL_INFO": "隐藏更多信息",
@@ -296,7 +298,7 @@
 
     "TIME_SEC": "秒",
     "TIME_MIN": "分钟",
-    "APPROX_TIME_LEFT": "~剩余: {0}",
+    "APPROX_TIME_LEFT": "剩余: ~{0}",
     "TIME_LEFT": "剩余: {0}",
     "DATA_LEFT": "剩余: {0}",
 
@@ -323,6 +325,7 @@
     "UNABLE_TO_FIND_INSTALLATION": "我们无法找到您的 GTAV 游戏目录, 请手动选择.",
     "UNABLE_TO_FIND_INSTALLATION_FOLDER": "我们无法找到您在 {0} 上安装的 GTA V 游戏目录, 请手动选择.",
     "CONFIRM_YOUR_PREFERENCES": "确认您的偏好",
+    "ENABLE_LINUX_COMPATIBILITY": "开启Linux/MacOS兼容性补丁",
     "ALTV_LOCATION": "alt:V 位置",
     "GTAV_LOCATION": "GTA V 位置",
     "RECOMMENDED": "推荐",
