@@ -277,6 +277,6 @@
     "TIME_MIN": "min",
     "APPROX_TIME_LEFT": "~{0} restando",
     "TIME_LEFT": "{0} restando",
-    "DATA_LEFT": "{0} restando",
+    "DATA_LEFT": "{0} restando"
   }
 }
