@@ -179,7 +179,7 @@
     
     "PERMISSION_1": "Gravar sua tela dentro do jogo",
     "PERMISSION_2": "Acesso ao microfone e à webcam",
-    "PERMISSION_3": "Copiar texto para a área de transferência"
+    "PERMISSION_3": "Copiar texto para a área de transferência",
     "PERMISSION_4": "Acessar configurações do microfone e voz",
 
     "ERR_UNKNOWN": "Erro desconhecido",
@@ -190,7 +190,7 @@
     "ERR_FAILED_TO_CREATE_WINDOW": "Falha ao criar janela",
     "ERR_FAILED_TO_FETCH_FILE": "Falha ao acessar arquivo",
     "ERR_FAILED_TO_FETCH_UPDATE_INFO": "Falha ao acessar informações de atualização",
-    "ERR_FAILED_TO_PARSE_UPDATE_INFO": "Falha ao ler informações de atualizaão",
+    "ERR_FAILED_TO_PARSE_UPDATE_INFO": "Falha ao ler informações de atualização",
     "ERR_FAILED_TO_DOWNLOAD_FILE": "Falha ao baixar arquivo",
     "ERR_FAILED_TO_VALIDATE_FILE": "Falha ao validar arquivo",
     "ERR_PATH_DOES_NOT_EXIST": "O caminho selecionado não existe",
