@@ -281,6 +281,7 @@
     "SOL_GAME_IN_DIR": "Entferne alt:V aus dem GTA V Verzeichnis",
     "SOL_RESTART_PLATFORM_RGL": "Starte den Rockstar Games Launcher neu",
     "SOL_RESTART_PLATFORM": "Starte den Rockstar Games Launcher und {0} neu",
+    "SOL_DUPLICATE_MOD": "{0} ({1}) darf sich nur im Spiel- oder Backupverzeichnis befinden",
 
     "SHOW_ADDITIONAL_INFO": "Mehr Informationen anzeigen",
     "HIDE_ADDITIONAL_INFO": "Weniger Informationen anzeigen",

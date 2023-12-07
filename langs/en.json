@@ -279,6 +279,7 @@
     "SOL_GAME_IN_DIR": "Remove alt:V from the GTA V directory",
     "SOL_RESTART_PLATFORM_RGL": "Restart the Rockstar Games Launcher",
     "SOL_RESTART_PLATFORM": "Restart the Rockstar Games Launcher and {0}",
+    "SOL_DUPLICATE_MOD": "{0} ({1}) can only be located in the game or backup directory",
     
     "SHOW_ADDITIONAL_INFO": "Show more info",
     "HIDE_ADDITIONAL_INFO": "Hide more info",
