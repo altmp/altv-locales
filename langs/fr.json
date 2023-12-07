@@ -280,6 +280,8 @@
     "SOL_VERIFY_CONFIGURATION_FILE": "Vérifiez votre fichier de configuration. Plus de détails sont disponibles en cliquant sur \"Voir plus\"",
     "SOL_LAUNCHER_IN_DIR": "Retirez le Rockstar Games Launcher du dossier {0}",
     "SOL_GAME_IN_DIR": "Supprimez alt:V de votre dossier GTA V",
+    "SOL_RESTART_PLATFORM_RGL": "Redémarrez le Rockstar Games Launcher",
+    "SOL_RESTART_PLATFORM": "Redémarrez le Rockstar Games Launcher et {0}",
 
     "SHOW_ADDITIONAL_INFO": "Afficher plus d'informations",
     "HIDE_ADDITIONAL_INFO": "Masquer plus d'informations",
