@@ -297,6 +297,7 @@
     "ALTV_ALREADY_RUNNING": "alt:V is already running, do you want to close it?",
     "GTAV_ALREADY_RUNNING_HEADER": "Already running",
     "GTAV_ALREADY_RUNNING": "GTA V is already running, do you want to close it?",
+    "MODDED_GAME": "Game is modded",
 
     "TIME_SEC": "sec",
     "TIME_MIN": "min",
