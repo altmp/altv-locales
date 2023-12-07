@@ -267,6 +267,7 @@
     "SOL_RESTART_COMPUTER": "Restart your computer",
     "SOL_VERIFY_GAME_FILES": "Verify integrity of your game files",
     "SOL_DELETE_FILE_FROM_GAME": "Delete {0} ({1}) from game folder",
+    "SOL_DELETE_FILE_FROM_BACKUP": "Delete {0} ({1}) from backup folder",
     "SOL_UPDATE_MOD": "Update {0} ({1}) to version {2} or higher",
     "SOL_USE_OFFLINE_MODE": "Use offline mode",
     "SOL_INCREASE_GAME_TIMEOUT": "Increase the timeout value. More information can be found on our troubleshooting page",
