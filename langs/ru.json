@@ -393,6 +393,8 @@
     "PIRATE_CONSIDER_BUYING": "Задумайтесь о покупке игры в <b>официальных</b> магазинах:",
     "PIRATE_BRAVE_ENOUGH": "Если хватает смелости:",
     "PIRATE_CONTINUE_WITH_PIRATED": "Продолжить с пиратской версией",
+    "PIRATE_IF_NOT": "Не пират?",
+    "PIRATE_DELETE": "Удалить пиратские файлы",
     "PIRATE_SERIOUSLY": "Серьёзно?"
   }
 }
