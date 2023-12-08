@@ -251,6 +251,8 @@
     "ERR_FAILED_TO_COPY_BACKUP": "Failed to copy game backup files",
     "ERR_FAILED_TO_DELETE_OLD_BACKUP": "Failed to delete old game backup files",
     "ERR_NO_BACKUP_AVAILABLE": "No backup files found. alt:V wasn't launched prior to GTA V update",
+    "ERR_GAME_INVALID_VERSION": "Invalid game version",
+    "ERR_GAME_OUTDATED": "Outdated game version",
     "SOL_RUN_AS_ADMIN": "Try running alt:V as administrator",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Try installing alt:V into a different folder (preferably automatic location)",
     "SOL_CHECK_CONNECTION": "Check your internet connection",
@@ -280,6 +282,7 @@
     "SOL_RESTART_PLATFORM_RGL": "Restart the Rockstar Games Launcher",
     "SOL_RESTART_PLATFORM": "Restart the Rockstar Games Launcher and {0}",
     "SOL_DUPLICATE_MOD": "{0} ({1}) can only be located in the game or backup directory",
+    "SOL_UPDATE_GAME": "Update GTA V",
     
     "SHOW_ADDITIONAL_INFO": "Show more info",
     "HIDE_ADDITIONAL_INFO": "Hide more info",

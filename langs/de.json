@@ -253,6 +253,8 @@
     "ERR_FAILED_TO_COPY_BACKUP": "Fehler beim Kopieren der Backupdateien",
     "ERR_FAILED_TO_DELETE_OLD_BACKUP": "Fehler beim Löschen der alten Backupdateien",
     "ERR_NO_BACKUP_AVAILABLE": "Es wurden keine Backupdateien gefunden. alt:V wurde nicht vor dem GTA V Update gestartet.",
+    "ERR_GAME_INVALID_VERSION": "Ungültige Spielversion",
+    "ERR_GAME_OUTDATED": "Veraltete Spielversion",
     "SOL_RUN_AS_ADMIN": "Versuche alt:V als Administrator zu starten",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Versuche alt:V in einen anderen Ordner (vorzugsweise die automatische Installation) zu installieren",
     "SOL_CHECK_CONNECTION": "Überprüfe deine Internetverbindung",
@@ -282,6 +284,7 @@
     "SOL_RESTART_PLATFORM_RGL": "Starte den Rockstar Games Launcher neu",
     "SOL_RESTART_PLATFORM": "Starte den Rockstar Games Launcher und {0} neu",
     "SOL_DUPLICATE_MOD": "{0} ({1}) darf sich nur im Spiel- oder Backupverzeichnis befinden",
+    "SOL_UPDATE_GAME": "Aktualisiere GTA V",
 
     "SHOW_ADDITIONAL_INFO": "Mehr Informationen anzeigen",
     "HIDE_ADDITIONAL_INFO": "Weniger Informationen anzeigen",
