@@ -257,6 +257,8 @@
     "ERR_FAILED_TO_COPY_BACKUP": "Не вдалося скопіювати файли резервної копії гри",
     "ERR_FAILED_TO_DELETE_OLD_BACKUP": "Не вдалося видалити старі файли резервної копії гри",
     "ERR_NO_BACKUP_AVAILABLE": "Не знайдено файли резервної копії. alt:V не було запущено перед оновленням GTA V",
+    "ERR_GAME_INVALID_VERSION": "Неправильна версія гри",
+    "ERR_GAME_OUTDATED": "Застаріла версія гри",
     "SOL_RUN_AS_ADMIN": "Спробуйте запустити alt:V від імені адміністратора",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Спробуйте встановити alt:V в іншу папку (бажано, в рекомендоване розташування)",
     "SOL_CHECK_CONNECTION": "Перевірте підключення до інтернету",
@@ -273,6 +275,7 @@
     "SOL_RESTART_COMPUTER": "Перезапустіть комп'ютер",
     "SOL_VERIFY_GAME_FILES": "Перевірте цілісність ваших ігрових файлів",
     "SOL_DELETE_FILE_FROM_GAME": "Видаліть {0} ({1}) з папки гри",
+    "SOL_DELETE_FILE_FROM_BACKUP": "Видаліть {0} ({1}) з папки backup",
     "SOL_UPDATE_MOD": "Оновіть {0} ({1}) до версії {2} або вище",
     "SOL_USE_OFFLINE_MODE": "Використовуйте автономний режим",
     "SOL_INCREASE_GAME_TIMEOUT": "Збільшіть значення часу очікування. Додаткову інформацію можна знайти на нашій сторінці усунення неполадок.",
@@ -282,6 +285,10 @@
     "SOL_VERIFY_CONFIGURATION_FILE": "Перевірте ваш файл конфигурації. Натисніть \"Показати більше інформації\" для більш детальної информації",
     "SOL_LAUNCHER_IN_DIR": "Видаліть Rockstar Games Launcher з папки {0}",
     "SOL_GAME_IN_DIR": "Видаліть alt:V з папки GTA V",
+    "SOL_RESTART_PLATFORM_RGL": "Перезапустіть Rockstar Games Launcher",
+    "SOL_RESTART_PLATFORM": "Перезапустіть Rockstar Games Launcher и {0}",
+    "SOL_DUPLICATE_MOD": "{0} ({1}) може знаходитися тільки в папці гри, або в папці backup",
+    "SOL_UPDATE_GAME": "Оновіть GTA V",
 
     "SHOW_ADDITIONAL_INFO": "Показати більше інформації",
     "HIDE_ADDITIONAL_INFO": "Приховати додаткові відомості",
@@ -301,6 +308,7 @@
     "ALTV_ALREADY_RUNNING": "alt:V вже запущена, чи бажаєте ви її закрити?",
     "GTAV_ALREADY_RUNNING_HEADER": "Вже запущений",
     "GTAV_ALREADY_RUNNING": "GTA V вже запущена, чи бажаєте ви її закрити?",
+    "MODDED_GAME": "Гра була модифікована",
 
     "TIME_SEC": "сек",
     "TIME_MIN": "хв",
@@ -385,6 +393,8 @@
     "PIRATE_CONSIDER_BUYING": "Задумайтеся про покупку гри в <b>офіційних</b> магазинах:",
     "PIRATE_BRAVE_ENOUGH": "Якщо вистачає сміливості:",
     "PIRATE_CONTINUE_WITH_PIRATED": "Продовжити з піратською версією",
+    "PIRATE_IF_NOT": "Не пірат?",
+    "PIRATE_DELETE": "Видалити піратські файли",
     "PIRATE_SERIOUSLY": "Серйозно?"
   }
 }

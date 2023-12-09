@@ -387,6 +387,8 @@
     "PIRATE_CONSIDER_BUYING": "Consider buying the game from <b>official</b> stores:",
     "PIRATE_BRAVE_ENOUGH": "If you are brave enough:",
     "PIRATE_CONTINUE_WITH_PIRATED": "Continue with pirated version",
+    "PIRATE_IF_NOT": "Not a pirate?",
+    "PIRATE_DELETE": "Delete pirated files",
     "PIRATE_SERIOUSLY": "Seriously?"
   }
 }
