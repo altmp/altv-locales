@@ -389,6 +389,8 @@
     "PIRATE_CONSIDER_BUYING": "Kaufe das Spiel von <b>offiziellen</b> Shops:",
     "PIRATE_BRAVE_ENOUGH": "Wenn du mutig bist:",
     "PIRATE_CONTINUE_WITH_PIRATED": "Weiter mit gecrackter Version",
+    "PIRATE_IF_NOT": "Legale Version?",
+    "PIRATE_DELETE": "Crack-Dateien löschen",
     "PIRATE_SERIOUSLY": "Wirklich?"
   }
 }
