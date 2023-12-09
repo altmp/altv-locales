@@ -391,6 +391,8 @@
     "PIRATE_CONSIDER_BUYING": "Songez à acheter le jeu dans les boutiques <b>officielles</b> :",
     "PIRATE_BRAVE_ENOUGH": "Si vous avez de l'audace :",
     "PIRATE_CONTINUE_WITH_PIRATED": "Continuer avec la version piratée",
+    "PIRATE_IF_NOT": "Pas un pirate ?",
+    "PIRATE_DELETE": "Supprimer les fichiers piratés",
     "PIRATE_SERIOUSLY": "Sérieusement ?"
   }
 }
