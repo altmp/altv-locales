@@ -290,8 +290,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) може знаходитися тільки в папці гри, або в папці backup",
     "SOL_UPDATE_GAME": "Оновіть GTA V",
 
-    "SHOW_ADDITIONAL_INFO": "Показати більше інформації",
-    "HIDE_ADDITIONAL_INFO": "Приховати додаткові відомості",
+    "ADDITIONAL_INFO": "більше інформації",
     "POSSIBLE_SOLUTIONS": "Можливі рішення:",
     "OFFLINE_MODE": "Автономний режим",
     "RESTART_AS_ADMIN": "Перезавантажте з правами адміністратора",

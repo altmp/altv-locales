@@ -283,8 +283,7 @@
     "SOL_LAUNCHER_IN_DIR": "Выдаліць Rockstar Games Launcher з каталогу {0}",
     "SOL_GAME_IN_DIR": "Выдаліць alt:V з каталогу GTA V",
 
-    "SHOW_ADDITIONAL_INFO": "Паказаць больш інфармацыі",
-    "HIDE_ADDITIONAL_INFO": "Схаваць больш інфармацыі",
+    "ADDITIONAL_INFO": "больш інфармацыі",
     "POSSIBLE_SOLUTIONS": "Магчымыя рашэнні:",
     "OFFLINE_MODE": "Афлайн-рэжым",
     "RESTART_AS_ADMIN": "Перазапусціць як адміністратар",

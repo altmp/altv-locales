@@ -275,8 +275,7 @@
     "SOL_CHECK_FREE_SPACE": "ＡＬＴ：Ｖを使用してディスクに空き領域があることを確認します",
     "SOL_VERIFY_CONFIGURATION_FILE": "設定ファイルを確認してください。 詳細については、「もっと見る」をご覧ください。",
     
-    "SHOW_ADDITIONAL_INFO": "さらに情報を表示",
-    "HIDE_ADDITIONAL_INFO": "詳しい情報を非表示にする",
+    "ADDITIONAL_INFO": "さらに情報",
     "POSSIBLE_SOLUTIONS": "可能な解決策：",
     "OFFLINE_MODE": "オフラインモード",
     "RESTART_AS_ADMIN": "管理者として再起動します",

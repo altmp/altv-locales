@@ -284,8 +284,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) can only be located in the game or backup directory",
     "SOL_UPDATE_GAME": "Update GTA V",
     
-    "SHOW_ADDITIONAL_INFO": "Show more info",
-    "HIDE_ADDITIONAL_INFO": "Hide more info",
+    "ADDITIONAL_INFO": "More info",
     "POSSIBLE_SOLUTIONS": "Possible solutions:",
     "OFFLINE_MODE": "Offline mode",
     "RESTART_AS_ADMIN": "Restart as admin",

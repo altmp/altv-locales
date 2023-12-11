@@ -275,8 +275,7 @@
     "SOL_CHECK_FREE_SPACE": "Pārliecinieties, vai diskā ir brīva vieta priekš alt:V",
     "SOL_VERIFY_CONFIGURATION_FILE": "Pārbaudiet savu konfigurācijas failu. Sīkāku informāciju var atrast sadaļā \"Rādīt vairāk\"",
 
-    "SHOW_ADDITIONAL_INFO": "Rādīt vairāk informācijas",
-    "HIDE_ADDITIONAL_INFO": "Slēpt plašāku informāciju",
+    "ADDITIONAL_INFO": "Vairāk informācijas",
     "POSSIBLE_SOLUTIONS": "Iespējamie risinājumi:",
     "OFFLINE_MODE": "Bezsaistes režīms",
     "RESTART_AS_ADMIN": "Restartēt ar administratora tiesībām",

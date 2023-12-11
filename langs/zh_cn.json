@@ -277,8 +277,7 @@
     "SOL_LAUNCHER_IN_DIR": "从 {0} 目录删除Rockstar Games Launcher ",
     "SOL_GAME_IN_DIR": "从 GTA V 文件夹里删除 alt:V",
     
-    "SHOW_ADDITIONAL_INFO": "查看更多信息",
-    "HIDE_ADDITIONAL_INFO": "隐藏更多信息",
+    "ADDITIONAL_INFO": "更多信息",
     "POSSIBLE_SOLUTIONS": "可能的解决方案:",
     "OFFLINE_MODE": "离线模式",
     "RESTART_AS_ADMIN": "关闭并以管理员身份重新运行",

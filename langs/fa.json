@@ -233,8 +233,7 @@
     "SOL_USE_OFFLINE_MODE": "از حالت آفلاین استفاده کنید",
     "SOL_INCREASE_GAME_TIMEOUT": "مقدار تایم اوت را افزایش دهید. اطلاعات بیشتر را می توانید در صفحه عیب یابی ما بیابید",
 
-    "SHOW_ADDITIONAL_INFO": "نمایش داده های بیشتر",
-    "HIDE_ADDITIONAL_INFO": "پنهان کردن داده های بیشتر",
+    "ADDITIONAL_INFO": "داده های بیشتر",
     "POSSIBLE_SOLUTIONS": "راه حل های پیشنهادی:",
     "OFFLINE_MODE": "حالت آفلاین",
     "RESTART_AS_ADMIN": "ریست در حالت ادمین",

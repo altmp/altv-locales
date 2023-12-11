@@ -288,9 +288,8 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) ne peut se placer que dans le dossier du jeu ou dans le dossier « backup »",
     "SOL_UPDATE_GAME": "Mettez à jour GTA V",
 
-    "SHOW_ADDITIONAL_INFO": "Afficher plus d'informations",
-    "HIDE_ADDITIONAL_INFO": "Masquer plus d'informations",
-    "POSSIBLE_SOLUTIONS": "Solutions possibles : ",
+    "ADDITIONAL_INFO": "Plus d'informations",
+    "POSSIBLE_SOLUTIONS": "Solutions possibles:",
     "OFFLINE_MODE": "Mode hors-ligne",
     "RESTART_AS_ADMIN": "Redémarrer en tant qu'administrateur",
     "RESTART_IN_OFFLINE_MODE": "Redémarrer en mode hors ligne",

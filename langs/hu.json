@@ -263,8 +263,7 @@
     "SOL_LAUNCHER_IN_DIR": "Távolítsd el a Rockstar Games Launcher-t a(z) {0} könyvtárából",
     "SOL_GAME_IN_DIR": "Távolítsd el a(z) alt:V-t a GTA V könyvtárából",
     
-    "SHOW_ADDITIONAL_INFO": "További információk megjelenítése",
-    "HIDE_ADDITIONAL_INFO": "További információk elrejtése",
+    "ADDITIONAL_INFO": "További információk",
     "POSSIBLE_SOLUTIONS": "Lehetséges megoldások:",
     "OFFLINE_MODE": "Offline mód",
     "RESTART_AS_ADMIN": "Újraindítás rendszergazdaként",

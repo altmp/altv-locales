@@ -280,8 +280,7 @@
     "SOL_LAUNCHER_IN_DIR": "Usuń Rockstar Games Launcher z folderu {0}",
     "SOL_GAME_IN_DIR": "Usuń alt:V z folderu GTA V",
 
-    "SHOW_ADDITIONAL_INFO": "Pokaż więcej informacji",
-    "HIDE_ADDITIONAL_INFO": "Ukryj więcej informacji",
+    "ADDITIONAL_INFO": "Więcej informacji",
     "POSSIBLE_SOLUTIONS": "Możliwe rozwiązania:",
     "OFFLINE_MODE": "Tryb offline",
     "RESTART_AS_ADMIN": "Uruchom ponownie jako administrator",

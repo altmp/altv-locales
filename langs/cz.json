@@ -270,8 +270,7 @@
     "SOL_CHECK_FREE_SPACE": "Ujistěte se, že máte na disku, kde je nainstalováno alt:V dostatek místa",
     "SOL_VERIFY_CONFIGURATION_FILE": "Ověřte svůj konfigurační soubor. Více informací naleznete na \"Ukázat více\"",
     
-    "SHOW_ADDITIONAL_INFO": "Ukázat více informací",
-    "HIDE_ADDITIONAL_INFO": "Skrýt více informací",
+    "ADDITIONAL_INFO": "Více informací",
     "POSSIBLE_SOLUTIONS": "Možná řešení:",
     "OFFLINE_MODE": "Režim offline",
     "RESTART_AS_ADMIN": "Restartujte jako administrátor",

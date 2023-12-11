@@ -229,8 +229,7 @@
     "SOL_DELETE_FILE_FROM_GAME": "Oyun klasöründen {0} ({1}) dosyalarını silin",
     "SOL_USE_OFFLINE_MODE": "Çevrimdışı modu kullanın",
     
-    "SHOW_ADDITIONAL_INFO": "Daha fazla bilgi göster",
-    "HIDE_ADDITIONAL_INFO": "Daha az bilgi göster",
+    "ADDITIONAL_INFO": "Daha fazla bilgi",
     "POSSIBLE_SOLUTIONS": "Muhtemel çözümler:",
     "OFFLINE_MODE": "Çevrimdışı mod",
     "RESTART_AS_ADMIN": "Yönetici olarak yeniden başlat",

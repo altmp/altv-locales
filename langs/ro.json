@@ -275,8 +275,7 @@
     "SOL_CHECK_FREE_SPACE": "Asigură-te că ai spațiu liber pe discul cu alt:V",
     "SOL_VERIFY_CONFIGURATION_FILE": "Verifică fișierul de configurare. Mai multe detalii pot fi găsite în \"Afișează mai mult\"",
 
-    "SHOW_ADDITIONAL_INFO": "Afișează mai multe informații",
-    "HIDE_ADDITIONAL_INFO": "Ascunde mai multe informații",
+    "ADDITIONAL_INFO": "Mai multe informații",
     "POSSIBLE_SOLUTIONS": "Soluții posibile:",
     "OFFLINE_MODE": "Modul offline",
     "RESTART_AS_ADMIN": "Reporniți ca administrator",

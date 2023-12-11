@@ -286,8 +286,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) darf sich nur im Spiel- oder Backupverzeichnis befinden",
     "SOL_UPDATE_GAME": "Aktualisiere GTA V",
 
-    "SHOW_ADDITIONAL_INFO": "Mehr Informationen anzeigen",
-    "HIDE_ADDITIONAL_INFO": "Weniger Informationen anzeigen",
+    "ADDITIONAL_INFO": "Mehr Informationen",
     "POSSIBLE_SOLUTIONS": "Mögliche Lösungen:",
     "OFFLINE_MODE": "Offline-Modus",
     "RESTART_AS_ADMIN": "Als Administrator neustarten",
