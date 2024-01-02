@@ -374,8 +374,10 @@
     "INJECTING_LAUNCHER_PATCHES": "Injecting launcher patches",
     "AUTHENTICATING": "Authenticating",
     "CHECKING_PRECONDITIONS": "Checking preconditions",
+    "UPLOADING_CRASHDUMP": "Uploading last crash",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
+    "DESC_INVALID_CRASH_CONTEXT": "Crash information can't be read.",
     "DESC_CRASHDUMP_ZIPPED": "The crash dump has been saved at path {0}.",
     "DESC_CRASHDUMP_UPLOADED": "The crash dump has been uploaded. The assigned id is {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "The crash dump has been saved at the following path: {0}, but the upload of the crash dump failed.",
