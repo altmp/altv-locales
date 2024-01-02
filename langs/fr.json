@@ -378,8 +378,10 @@
     "INJECTING_LAUNCHER_PATCHES": "Injection de correctifs du lanceur",
     "AUTHENTICATING": "Authentification",
     "CHECKING_PRECONDITIONS": "Vérification des conditions requises",
+    "UPLOADING_CRASHDUMP": "Transfert du dernier plantage",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V a planté",
+    "DESC_INVALID_CRASH_CONTEXT": "Les données du plantage n'ont pas pu être lues.",
     "DESC_CRASHDUMP_ZIPPED": "Le fichier de vidage a été sauvegardé au chemin {0}.",
     "DESC_CRASHDUMP_UPLOADED": "Le vidage d'incident a été téléchargé. L'identifiant qui lui a été attribué est {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Le vidage d'incident a été sauvegardé au chemin {0}, mais le téléchargement du vidage a échoué.",
