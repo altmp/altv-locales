@@ -257,6 +257,7 @@
     "ERR_NO_BACKUP_AVAILABLE": "Aucun fichier de sauvegarde n'a été trouvé. alt:V n'a pas été lancé avant la mise à jour de GTA V.",
     "ERR_GAME_INVALID_VERSION": "Version du jeu invalide",
     "ERR_GAME_OUTDATED": "Version du jeu obsolète",
+    "ERR_INVALID_BRANCH": "Branche de version invalide",
     "SOL_RUN_AS_ADMIN": "Essayez d'exécuter alt:V en tant qu'administrateur",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Essayez d'installer alt:V dans un autre dossier (de préférence un emplacement automatique)",
     "SOL_CHECK_CONNECTION": "Vérifiez votre connection internet",
