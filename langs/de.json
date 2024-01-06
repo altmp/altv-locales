@@ -255,6 +255,7 @@
     "ERR_NO_BACKUP_AVAILABLE": "Es wurden keine Backupdateien gefunden. alt:V wurde nicht vor dem GTA V Update gestartet.",
     "ERR_GAME_INVALID_VERSION": "Ungültige Spielversion",
     "ERR_GAME_OUTDATED": "Veraltete Spielversion",
+    "ERR_INVALID_BRANCH": "Es wurde ein ungültiger Versionszweig angegeben.",
     "SOL_RUN_AS_ADMIN": "Versuche alt:V als Administrator zu starten",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Versuche alt:V in einen anderen Ordner (vorzugsweise die automatische Installation) zu installieren",
     "SOL_CHECK_CONNECTION": "Überprüfe deine Internetverbindung",
