@@ -380,6 +380,7 @@
     "UPLOADING_CRASHDUMP": "Sende letzten Crash",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",
+    "ERR_CAUSING_MODULE": "Absturzursache",
     "DESC_INVALID_CRASH_CONTEXT": "Informationen zum Crash konnten nicht gelesen werden.",
     "DESC_CRASHDUMP_ZIPPED": "Der Crashdump wurde erfolgreich unter folgendem Pfad gespeichert: {0}.",
     "DESC_CRASHDUMP_UPLOADED": "Der Crashdump wurde erfolgreich hochgeladen. Die zugeordnete ID lautet: {0}.",

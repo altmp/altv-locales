@@ -378,6 +378,7 @@
     "UPLOADING_CRASHDUMP": "Uploading last crash",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
+    "ERR_CAUSING_MODULE": "Source of crash",
     "DESC_INVALID_CRASH_CONTEXT": "Crash information can't be read.",
     "DESC_CRASHDUMP_ZIPPED": "The crash dump has been saved at path {0}.",
     "DESC_CRASHDUMP_UPLOADED": "The crash dump has been uploaded. The assigned id is {0}.",
