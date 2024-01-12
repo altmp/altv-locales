@@ -307,6 +307,7 @@
     "GTAV_ALREADY_RUNNING_HEADER": "Déjà lancé",
     "GTAV_ALREADY_RUNNING": "GTA V est déjà lancé, voulez vous le fermer ?",
     "MODDED_GAME": "Le jeu est modifié",
+    "ALTERNATIVE_DIRECTORY": "Répertoire personnalisé",
 
     "TIME_SEC": "sec",
     "TIME_MIN": "min",
@@ -382,6 +383,7 @@
     "UPLOADING_CRASHDUMP": "Transfert du dernier plantage",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V a planté",
+    "ERR_CAUSING_MODULE": "Cause du plantage",
     "DESC_INVALID_CRASH_CONTEXT": "Les données du plantage n'ont pas pu être lues.",
     "DESC_CRASHDUMP_ZIPPED": "Le fichier de vidage a été sauvegardé au chemin {0}.",
     "DESC_CRASHDUMP_UPLOADED": "Le vidage d'incident a été téléchargé. L'identifiant qui lui a été attribué est {0}.",
