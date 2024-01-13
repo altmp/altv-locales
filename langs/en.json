@@ -210,6 +210,7 @@
     "ERR_NETWORK": "Network error",
     "ERR_GAME_START": "Game start error",
     "ERR_FAILED_TO_INIT_LOG_FILE": "Failed to initialize the log file",
+    "ERR_FAILED_TO_INIT_LOG_DIRECTORY": "Failed to initialize the log directory",
     "ERR_FAILED_TO_CREATE_WINDOW": "Failed to create window",
     "ERR_FAILED_TO_FETCH_FILE": "Failed to fetch file",
     "ERR_FAILED_TO_FETCH_UPDATE_INFO": "Failed to fetch update information",

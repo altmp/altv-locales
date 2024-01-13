@@ -212,6 +212,7 @@
     "ERR_NETWORK": "Netzwerkfehler",
     "ERR_GAME_START": "Fehler beim Spielstart",
     "ERR_FAILED_TO_INIT_LOG_FILE": "Die Log-Datei konnte nicht initialisiert werden",
+    "ERR_FAILED_TO_INIT_LOG_DIRECTORY": "Das Log-Verzeichnis konnte nicht initialisiert werden",
     "ERR_FAILED_TO_CREATE_WINDOW": "Das Fenster konnte nicht erstellt werden",
     "ERR_FAILED_TO_FETCH_FILE": "Die Datei konnte nicht abgerufen werden",
     "ERR_FAILED_TO_FETCH_UPDATE_INFO": "Fehler beim Abrufen der Update-Informationen",
