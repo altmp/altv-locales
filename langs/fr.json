@@ -279,7 +279,7 @@
     "SOL_UPDATE_MOD": "Mettez à jour {0} ({1}) vers la version {2} ou plus",
     "SOL_USE_OFFLINE_MODE": "Utilisez le mode hors ligne",
     "SOL_INCREASE_GAME_TIMEOUT": "Augmentez la valeur du délai d'attente. Plus d'informations peuvent être trouvées sur notre page de dépannage",
-    "SOL_WAIT_FOR_UPDATE": "Patientez jusqu'à la mise à jour de l'alt:V",
+    "SOL_WAIT_FOR_UPDATE": "Patientez jusqu'à la mise à jour de alt:V",
     "SOL_GET_BACKUP_FROM_FRIEND": "Demandez à un ami de partager son dossier de sauvegarde",
     "SOL_CHECK_FREE_SPACE": "Vérifiez que vous avez de l'espace libre sur le disque où est installé alt:V",
     "SOL_VERIFY_CONFIGURATION_FILE": "Vérifiez votre fichier de configuration. Plus de détails sont disponibles en cliquant sur \"Voir plus\"",
