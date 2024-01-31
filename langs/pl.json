@@ -5,12 +5,9 @@
     "HOME": "Strona głowna",
     "WELCOME_TO": "Witamy w\n{0}",
     "RECENT_SERVERS": "Ostatnie serwery",
-    "PLAYERS_ONLINE": "{0} graczy online",
     "PLAYERS_ONLINE:ONE": "{0} gracz online",
     "PLAYERS_ONLINE:OTHER": "{0} graczy online",
-    "SERVERS_ONLINE": "{0} serwerów online",
     "SERVERS_ONLINE:ONE": "{0} serwer online",
-    "SERVERS_ONLINE:FEW": "{0} serwery online",
     "SERVERS_ONLINE:OTHER": "{0} serwerów online",
     "SERVERS": "Serwery",
     "FAVORITES": "Ulubione",
@@ -202,12 +199,10 @@
     "UNKNOWN_INPUT_DEVICE": "Nieznany",
     "DISCORD_RICH_PRESENCE": "Wyświetlaj aktywność na Discord",
     "MISC_SETTINGS": "Inne",
-
     "PERMISSION_1": "Nagrywanie okna gry",
     "PERMISSION_2": "Dostęp do mikrofonu i kamery",
     "PERMISSION_3": "Kopiowanie tekstu do schowka",
     "PERMISSION_4": "Dostęp do mikrofonu i opcji głosowych",
-
     "ERR_UNKNOWN": "Nieznany błąd",
     "ERR_UNEXPECTED": "Nieoczekiwany błąd",
     "ERR_NETWORK": "Błąd sieci",
@@ -288,7 +283,6 @@
     "SOL_RESTART_PLATFORM": "Zrestartuj Rockstart Games Launcher i {0}",
     "SOL_DUPLICATE_MOD": "Plik {0} ({1}) może być umieszczony jedynie w folderze gry lub folderze backup",
     "SOL_UPDATE_GAME": "Zaktualizuj GTA V",
-
     "ADDITIONAL_INFO": "Więcej informacji",
     "POSSIBLE_SOLUTIONS": "Możliwe rozwiązania:",
     "OFFLINE_MODE": "Tryb offline",
@@ -308,13 +302,11 @@
     "GTAV_ALREADY_RUNNING": "GTA V jest już uruchomione, czy chcesz je wyłączyć?",
     "MODDED_GAME": "Korzystasz ze zmodyfikowanej wersji gry",
     "ALTERNATIVE_DIRECTORY": "Niestandardowy katalog",
-
     "TIME_SEC": "sek",
     "TIME_MIN": "min",
     "APPROX_TIME_LEFT": "pozostało ok. {0}",
     "TIME_LEFT": "pozostało {0}",
     "DATA_LEFT": "pozostało {0}",
-
     "ALTV_INSTALLER": "Instalator [ALTV_MULTIPLAYER]",
     "ALTV_UNINSTALLER": "Odinstaluj [ALTV_MULTIPLAYER]",
     "NEXT_STEP": "Kolejny krok",
@@ -359,12 +351,11 @@
     "STRESS_TEST_DESC": "Potrzebujemy dużej ilości graczy, aby przetestować i zapewnić stabilność oraz wyjdaność [ALTV], zbierając przy tym ważne dane. Twój udział ma znaczenie i jesteśmy wdzięczni, że jesteś częścią tej ważnej fazy testowania.",
     "STRESS_TEST_SCHEDULE": "Stress test jest zaplanowany do {0} (w twojej lokalnej strefie czasowej).",
     "STRESS_TEST_FAQ_HEADER_1": "Czym jest stress test?",
-    "STRESS_TEST_FAQ_DESC_1": "Stress test polega na sprawdzeniu naszych systemów aż do limitu, odkrywając jego możliwości i systemy, które wymagają poprawy." ,
+    "STRESS_TEST_FAQ_DESC_1": "Stress test polega na sprawdzeniu naszych systemów aż do limitu, odkrywając jego możliwości i systemy, które wymagają poprawy.",
     "STRESS_TEST_FAQ_HEADER_2": "Co muszę robić?",
     "STRESS_TEST_FAQ_DESC_2": "Po połączeniu się z serwerem, otrzymasz dalsze informacje",
     "STRESS_TEST_DECLINE": "Nie, dzięki",
     "STRESS_TEST_ACCEPT": "Weź udział w stress tescie",
-
     "UPDATING_LAUNCHER": "Aktualizacja launchera",
     "VALIDATING_LAUNCHER": "Walidacja launchera",
     "DOWNLOADING_LAUNCHER": "Pobieranie launchera",
@@ -381,7 +372,6 @@
     "AUTHENTICATING": "Uwierzytelnianie",
     "CHECKING_PRECONDITIONS": "Sprawdzanie wymagań",
     "UPLOADING_CRASHDUMP": "Przesyłanie ostatniego crashdumpa",
-
     "ERR_GAME_RUNTIME_CRASH": "GTA V uległo awarii",
     "ERR_CAUSING_MODULE": "Źródło awarii",
     "DESC_INVALID_CRASH_CONTEXT": "Nie udało się odczytać kontekstu awarii",
@@ -390,7 +380,6 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Crashdump został zapisany w: {0}, ale jego przesłanie nie powiodło się.",
     "OPEN_CRASHDUMP_DIRECTORY": "Otwórz katalog z crashdumpem",
     "COPY_CRASHDUMP_ID": "Skopiuj ID crashdumpa",
-
     "PIRATE_NOT_SUPPORTED": "Nieobsługiwane są pirackie wersje GTA V!",
     "PIRATE_CONSIDER_BUYING": "Rozważ zakup gry w <b>oficjalnych</b> sklepach:",
     "PIRATE_BRAVE_ENOUGH": "Jeśli masz odwagę:",
