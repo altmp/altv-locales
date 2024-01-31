@@ -5,13 +5,9 @@
     "HOME": "Accueil",
     "WELCOME_TO": "Bienvenue sur\n{0}",
     "RECENT_SERVERS": "Serveurs récents",
-    "PLAYERS_ONLINE": "Joueurs en ligne : {0}",
     "PLAYERS_ONLINE:ONE": "{0} joueur en ligne",
-    "PLAYERS_ONLINE:MANY": "{0} de joueurs en ligne",
     "PLAYERS_ONLINE:OTHER": "{0} joueurs en ligne",
-    "SERVERS_ONLINE": "Serveurs en ligne : {0}",
     "SERVERS_ONLINE:ONE": "{0} serveur en ligne",
-    "SERVERS_ONLINE:MANY": "{0} de serveurs en ligne",
     "SERVERS_ONLINE:OTHER": "{0} serveurs en ligne",
     "SERVERS": "Serveurs",
     "FAVORITES": "Favoris",
@@ -203,12 +199,10 @@
     "UNKNOWN_INPUT_DEVICE": "Inconnu",
     "DISCORD_RICH_PRESENCE": "Montrer l'activité sur Discord",
     "MISC_SETTINGS": "Divers",
-
     "PERMISSION_1": "Enregistrer la fenêtre de votre jeu",
     "PERMISSION_2": "Accès au microphone et à la webcam",
     "PERMISSION_3": "Copier du texte dans le presse-papiers",
     "PERMISSION_4": "Accès au microphone et aux paramètres vocaux",
-
     "ERR_UNKNOWN": "Erreur inconnue",
     "ERR_UNEXPECTED": "Erreur inattendue",
     "ERR_NETWORK": "Erreur réseau",
@@ -289,7 +283,6 @@
     "SOL_RESTART_PLATFORM": "Redémarrez le Rockstar Games Launcher et {0}",
     "SOL_DUPLICATE_MOD": "{0} ({1}) ne peut se placer que dans le dossier du jeu ou dans le dossier « backup »",
     "SOL_UPDATE_GAME": "Mettez à jour GTA V",
-
     "ADDITIONAL_INFO": "Plus d'informations",
     "POSSIBLE_SOLUTIONS": "Solutions possibles:",
     "OFFLINE_MODE": "Mode hors-ligne",
@@ -309,13 +302,11 @@
     "GTAV_ALREADY_RUNNING": "GTA V est déjà lancé, voulez vous le fermer ?",
     "MODDED_GAME": "Le jeu est modifié",
     "ALTERNATIVE_DIRECTORY": "Répertoire personnalisé",
-
     "TIME_SEC": "sec",
     "TIME_MIN": "min",
     "APPROX_TIME_LEFT": "~{0} restant",
     "TIME_LEFT": "{0} restant",
     "DATA_LEFT": "{0} restant",
-
     "ALTV_INSTALLER": "Installateur [ALTV]",
     "ALTV_UNINSTALLER": "Désinstallateur [ALTV]",
     "NEXT_STEP": "Étape suivante",
@@ -365,7 +356,6 @@
     "STRESS_TEST_FAQ_DESC_2": "Lors de la connexion au serveur, vous recevrez les informations nécessaires pour procéder.",
     "STRESS_TEST_DECLINE": "Non merci",
     "STRESS_TEST_ACCEPT": "Participer aux tests de performance",
-
     "UPDATING_LAUNCHER": "Mise à jour du lanceur",
     "VALIDATING_LAUNCHER": "Validation du lanceur",
     "DOWNLOADING_LAUNCHER": "Téléchargement du lanceur",
@@ -382,7 +372,6 @@
     "AUTHENTICATING": "Authentification",
     "CHECKING_PRECONDITIONS": "Vérification des conditions requises",
     "UPLOADING_CRASHDUMP": "Transfert du dernier plantage",
-    
     "ERR_GAME_RUNTIME_CRASH": "GTA V a planté",
     "ERR_CAUSING_MODULE": "Cause du plantage",
     "DESC_INVALID_CRASH_CONTEXT": "Les données du plantage n'ont pas pu être lues.",
@@ -391,7 +380,6 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Le vidage d'incident a été sauvegardé au chemin {0}, mais le téléchargement du vidage a échoué.",
     "OPEN_CRASHDUMP_DIRECTORY": "Ouvrir le répertoire du vidage",
     "COPY_CRASHDUMP_ID": "Copier l'identifiant du vidage",
-
     "PIRATE_NOT_SUPPORTED": "Les versions piratées de GTA V ne sont pas compatibles !",
     "PIRATE_CONSIDER_BUYING": "Songez à acheter le jeu dans les boutiques <b>officielles</b> :",
     "PIRATE_BRAVE_ENOUGH": "Si vous avez de l'audace :",
