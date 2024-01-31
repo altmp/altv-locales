@@ -199,12 +199,10 @@
     "UNKNOWN_INPUT_DEVICE": "Ismeretlen",
     "DISCORD_RICH_PRESENCE": "Discord tevékenység megjelenítése",
     "MISC_SETTINGS": "Egyéb",
-
     "PERMISSION_1": "Képernyőkép készítése",
     "PERMISSION_2": "Mikrofon és webkamera hozzáférés",
     "PERMISSION_3": "Szöveg másolása vágólapra",
     "PERMISSION_4": "Mikrofon és hangbeállítások elérése",
-    
     "ERR_UNKNOWN": "Ismeretlen hiba",
     "ERR_UNEXPECTED": "Váratlan hiba",
     "ERR_NETWORK": "Hálózati hiba",
@@ -285,7 +283,6 @@
     "SOL_RESTART_PLATFORM": "Indítsd újra a Rockstar Games Launcher-t és {0}",
     "SOL_DUPLICATE_MOD": "{0} ({1}) csak a játék vagy a biztonsági mentés könyvtárában található",
     "SOL_UPDATE_GAME": "GTA V frissítése",
-    
     "ADDITIONAL_INFO": "További információk",
     "POSSIBLE_SOLUTIONS": "Lehetséges megoldások:",
     "OFFLINE_MODE": "Offline mód",
@@ -305,13 +302,11 @@
     "GTAV_ALREADY_RUNNING": "A GTA V már fut, szeretnéd bezárni?",
     "MODDED_GAME": "A játék moddolt",
     "ALTERNATIVE_DIRECTORY": "Egyéni könyvtár",
-
     "TIME_SEC": "mp",
     "TIME_MIN": "p",
     "APPROX_TIME_LEFT": "~{0} maradt",
     "TIME_LEFT": "{0} maradt",
     "DATA_LEFT": "{0} maradt",
-
     "ALTV_INSTALLER": "[ALTV] Telepítő",
     "ALTV_UNINSTALLER": "[ALTV] Eltávolító",
     "NEXT_STEP": "Következő lépés",
@@ -361,7 +356,6 @@
     "STRESS_TEST_FAQ_DESC_2": "A szerverhez való csatlakozást követően megkapod a szükséges információkat a folytatáshoz.",
     "STRESS_TEST_DECLINE": "Nem, köszönöm",
     "STRESS_TEST_ACCEPT": "Résztveszek a stressztesztben",
-
     "UPDATING_LAUNCHER": "Launcher frissítése",
     "VALIDATING_LAUNCHER": "Launcher hitelesítése",
     "DOWNLOADING_LAUNCHER": "Launcher letöltése",
@@ -378,7 +372,6 @@
     "AUTHENTICATING": "Hitelesítés",
     "CHECKING_PRECONDITIONS": "Előfeltételek ellenőrzése",
     "UPLOADING_CRASHDUMP": "Utolsó összeomlás feltöltése",
-
     "ERR_GAME_RUNTIME_CRASH": "GTA V összeomlott",
     "ERR_CAUSING_MODULE": "Az összeomlás forrása",
     "DESC_INVALID_CRASH_CONTEXT": "Az összeomlás információi nem olvashatóak.",
@@ -387,7 +380,6 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "A crashdump a következő elérési útvonalra lett mentve: {0}, de a crashdump feltöltése sikertelen volt.",
     "OPEN_CRASHDUMP_DIRECTORY": "Crashdump könyvtár megnyitása",
     "COPY_CRASHDUMP_ID": "Crashdump azonosító másolása",
-
     "PIRATE_NOT_SUPPORTED": "A GTA V kalózverziói nem támogatottak!",
     "PIRATE_CONSIDER_BUYING": "Fontold meg a játék megvásárlását a <b>hivatalos</b> boltokból:",
     "PIRATE_BRAVE_ENOUGH": "Ha elég bátor vagy hozzá:",
