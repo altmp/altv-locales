@@ -199,12 +199,10 @@
     "UNKNOWN_INPUT_DEVICE": "Unknown",
     "DISCORD_RICH_PRESENCE": "Show Discord Activity",
     "MISC_SETTINGS": "Misc",
-
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
     "PERMISSION_3": "Copy text into clipboard",
     "PERMISSION_4": "Microphone and voice options access",
-
     "ERR_UNKNOWN": "Unknown error",
     "ERR_UNEXPECTED": "Unexpected error",
     "ERR_NETWORK": "Network error",
@@ -285,7 +283,6 @@
     "SOL_RESTART_PLATFORM": "Restart the Rockstar Games Launcher and {0}",
     "SOL_DUPLICATE_MOD": "{0} ({1}) can only be located in the game or backup directory",
     "SOL_UPDATE_GAME": "Update GTA V",
-    
     "ADDITIONAL_INFO": "More info",
     "POSSIBLE_SOLUTIONS": "Possible solutions:",
     "OFFLINE_MODE": "Offline mode",
@@ -305,13 +302,11 @@
     "GTAV_ALREADY_RUNNING": "GTA V is already running, do you want to close it?",
     "MODDED_GAME": "Game is modded",
     "ALTERNATIVE_DIRECTORY": "Custom directory",
-
     "TIME_SEC": "sec",
     "TIME_MIN": "min",
     "APPROX_TIME_LEFT": "~{0} left",
     "TIME_LEFT": "{0} left",
     "DATA_LEFT": "{0} left",
-
     "ALTV_INSTALLER": "[ALTV] Installer",
     "ALTV_UNINSTALLER": "[ALTV] Uninstaller",
     "NEXT_STEP": "Next step",
@@ -361,7 +356,6 @@
     "STRESS_TEST_FAQ_DESC_2": "Upon connecting to the server, you will be provided with required information how to proceed.",
     "STRESS_TEST_DECLINE": "No, thanks",
     "STRESS_TEST_ACCEPT": "Participate in stress test",
-
     "UPDATING_LAUNCHER": "Updating launcher",
     "VALIDATING_LAUNCHER": "Validating launcher",
     "DOWNLOADING_LAUNCHER": "Downloading launcher",
@@ -378,7 +372,6 @@
     "AUTHENTICATING": "Authenticating",
     "CHECKING_PRECONDITIONS": "Checking preconditions",
     "UPLOADING_CRASHDUMP": "Uploading last crash",
-    
     "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
     "ERR_CAUSING_MODULE": "Source of crash",
     "DESC_INVALID_CRASH_CONTEXT": "Crash information can't be read.",
@@ -387,7 +380,6 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "The crash dump has been saved at the following path: {0}, but the upload of the crash dump failed.",
     "OPEN_CRASHDUMP_DIRECTORY": "Open crashdump directory",
     "COPY_CRASHDUMP_ID": "Copy crashdump id",
-    
     "PIRATE_NOT_SUPPORTED": "Pirated versions of GTA V are not supported!",
     "PIRATE_CONSIDER_BUYING": "Consider buying the game from <b>official</b> stores:",
     "PIRATE_BRAVE_ENOUGH": "If you are brave enough:",
