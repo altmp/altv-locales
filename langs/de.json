@@ -5,10 +5,8 @@
     "HOME": "Startseite",
     "WELCOME_TO": "Willkommen bei\n{0}",
     "RECENT_SERVERS": "Letzte Server",
-    "PLAYERS_ONLINE": "{0} Spieler online",
     "PLAYERS_ONLINE:ONE": "{0} Spieler online",
     "PLAYERS_ONLINE:OTHER": "{0} Spieler online",
-    "SERVERS_ONLINE": "{0} Server online",
     "SERVERS_ONLINE:ONE": "{0} Server online",
     "SERVERS_ONLINE:OTHER": "{0} Server online",
     "SERVERS": "Server",
@@ -201,12 +199,10 @@
     "UNKNOWN_INPUT_DEVICE": "Unbekannt",
     "DISCORD_RICH_PRESENCE": "Discordaktivität anzeigen",
     "MISC_SETTINGS": "Sonstiges",
-
     "PERMISSION_1": "Das Spielfenster aufzeichnen",
     "PERMISSION_2": "Zugriff auf Mikrofon und Webcam",
     "PERMISSION_3": "Kopieren von Text in die Zwischenablage",
     "PERMISSION_4": "Zugriff auf Audiokonfiguration",
-
     "ERR_UNKNOWN": "Unbekannter Fehler",
     "ERR_UNEXPECTED": "Unerwarteter Fehler",
     "ERR_NETWORK": "Netzwerkfehler",
@@ -287,7 +283,6 @@
     "SOL_RESTART_PLATFORM": "Starte den Rockstar Games Launcher und {0} neu",
     "SOL_DUPLICATE_MOD": "{0} ({1}) darf sich nur im Spiel- oder Backupverzeichnis befinden",
     "SOL_UPDATE_GAME": "Aktualisiere GTA V",
-
     "ADDITIONAL_INFO": "Mehr Informationen",
     "POSSIBLE_SOLUTIONS": "Mögliche Lösungen:",
     "OFFLINE_MODE": "Offline-Modus",
@@ -307,13 +302,11 @@
     "GTAV_ALREADY_RUNNING": "GTA V ist bereits gestartet, möchtest du es schließen?",
     "MODDED_GAME": "Spiel wurde modifiziert",
     "ALTERNATIVE_DIRECTORY": "Benutzerdefiniertes Verzeichnis",
-
     "TIME_SEC": "sek",
     "TIME_MIN": "min",
     "APPROX_TIME_LEFT": "~{0} verbleibend",
     "TIME_LEFT": "{0} verbleibend",
     "DATA_LEFT": "{0} verbleibend",
-
     "ALTV_INSTALLER": "[ALTV] Installer",
     "ALTV_UNINSTALLER": "[ALTV] Uninstaller",
     "NEXT_STEP": "Nächster Schritt",
@@ -363,7 +356,6 @@
     "STRESS_TEST_FAQ_DESC_2": "Nach dem Verbinden mit dem Server erhältst du alle erforderlichen Informationen über das weitere Vorgehen.",
     "STRESS_TEST_DECLINE": "Nein, danke",
     "STRESS_TEST_ACCEPT": "Am Stresstest teilnehmen",
-
     "UPDATING_LAUNCHER": "Launcher wird aktualisiert",
     "VALIDATING_LAUNCHER": "Launcher wird überprüft",
     "DOWNLOADING_LAUNCHER": "Launcher wird heruntergeladen",
@@ -380,7 +372,6 @@
     "AUTHENTICATING": "Authentifiziere",
     "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen",
     "UPLOADING_CRASHDUMP": "Sende letzten Crash",
-
     "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",
     "ERR_CAUSING_MODULE": "Absturzursache",
     "DESC_INVALID_CRASH_CONTEXT": "Informationen zum Crash konnten nicht gelesen werden.",
@@ -389,7 +380,6 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Der Crashdump wurde unter folgendem Pfad gespeichert: {0}, jedoch war das Hochladen nicht möglich.",
     "OPEN_CRASHDUMP_DIRECTORY": "Crashdump Verzeichnis öffnen",
     "COPY_CRASHDUMP_ID": "Crashdump Id kopieren",
-
     "PIRATE_NOT_SUPPORTED": "Gecrackte GTA V Versionen werden nicht unterstützt!",
     "PIRATE_CONSIDER_BUYING": "Kaufe das Spiel von <b>offiziellen</b> Shops:",
     "PIRATE_BRAVE_ENOUGH": "Wenn du mutig bist:",
