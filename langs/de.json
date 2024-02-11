@@ -298,6 +298,7 @@
     "OPEN_LOGS": "Protokollordner öffnen",
     "OPEN_GTA": "Spielverzeichnis öffnen",
     "REINSTALL_ALTV": "[ALTV] neuinstallieren",
+    "REMOVE_MODS": "Mods entfernen",
     "ERROR_FOOTER": "Besuche unsere {0} um zu sehen ob es sich um einen häufigen Fehler handelt oder stelle eine Frage auf {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "Fehlerbehebungsseite",
     "ERROR_FOOTER_DISCORD_SERVER": "unserem Discord Server",

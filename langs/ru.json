@@ -300,6 +300,7 @@
     "OPEN_LOGS": "Открыть папку с логами",
     "OPEN_GTA": "Открыть папку GTA V",
     "REINSTALL_ALTV": "Переустановить [ALTV]",
+    "REMOVE_MODS": "Удалить моды",
     "ERROR_FOOTER": "Проверьте нашу {0} или задайте вопрос на нашем {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "страницу распространенных проблем",
     "ERROR_FOOTER_DISCORD_SERVER": "сервере Discord",
