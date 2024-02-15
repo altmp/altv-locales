@@ -296,6 +296,7 @@
     "OPEN_LOGS": "Naplókönyvtár megnyitása",
     "OPEN_GTA": "Játékkönyvtár megnyitása",
     "REINSTALL_ALTV": "[ALTV] újratelepítése",
+    "REMOVE_MODS": "Modok eltávolítása",
     "ERROR_FOOTER": "Látogasd meg a {0}, ha gyakori hibát kaptál, vagy tegyél fel kérdést a {1}.",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "hibaelhárítási oldalunkat",
     "ERROR_FOOTER_DISCORD_SERVER": "Discord szerverünkön",
