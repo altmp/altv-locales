@@ -45,7 +45,7 @@
     "VOICE_NORMALIZATION": "调节音量",
     "INPUT_VOLUME": "输入音量",
     "INPUT_SENSITIVITY": "输入灵敏度",
-    "PUSH_TO_TALK_KEY": "一键通键",
+    "PUSH_TO_TALK_KEY": "按住说话键",
     "OUTPUT_VOLUME": "输出音量",
     "CONNECTION_FAILED": "连接失败",
     "LOST_CONNECTION": "与服务器失去连接",
