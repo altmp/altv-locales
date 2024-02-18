@@ -271,6 +271,7 @@
     "SOL_RESTART_COMPUTER": "Repornește calculatorul",
     "SOL_VERIFY_GAME_FILES": "Verifică integritatea fișierelor jocului",
     "SOL_DELETE_FILE_FROM_GAME": "Șterge {0} ({1}) din folderul jocului",
+    "SOL_DELETE_FILE_FROM_BACKUP": "Ștergeți {0} ({1}) din folderul de backup",
     "SOL_UPDATE_MOD": "Actualizează {0} ({1}) la versiunea {2} sau una mai mare",
     "SOL_USE_OFFLINE_MODE": "Folosește modul offline",
     "SOL_INCREASE_GAME_TIMEOUT": "Crește valoarea de timeout. Mai multe informații pot fi găsite pe pagina noastră de depanare",
@@ -278,6 +279,12 @@
     "SOL_GET_BACKUP_FROM_FRIEND": "Întreabă un prieten să-ți partajeze folderul de backup",
     "SOL_CHECK_FREE_SPACE": "Asigură-te că ai spațiu liber pe discul cu [ALTV]",
     "SOL_VERIFY_CONFIGURATION_FILE": "Verifică fișierul de configurare. Mai multe detalii pot fi găsite în \"Afișează mai mult\"",
+    "SOL_LAUNCHER_IN_DIR": "Elimină Rockstar Games Launcher din directorul {0}",
+    "SOL_GAME_IN_DIR": "Elimină [ALTV] din directorul GTA V",
+    "SOL_RESTART_PLATFORM_RGL": "Reporniți Rockstar Games Launcher",
+    "SOL_RESTART_PLATFORM": "Reporniți Rockstar Games Launcher și {0}",
+    "SOL_DUPLICATE_MOD": "{0} ({1}) poate fi localizat doar în directorul jocului sau al copiei de rezervă",
+    "SOL_UPDATE_GAME": "Actualizați GTA V",
 
     "ADDITIONAL_INFO": "Mai multe informații",
     "POSSIBLE_SOLUTIONS": "Soluții posibile:",
@@ -374,8 +381,8 @@
     "UPLOADING_CRASHDUMP": "Se încarcă ultimul crash",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V a dat crash",
-    "DESC_INVALID_CRASH_CONTEXT": "Informațiile despre crash nu pot fi citite.",
     "ERR_CAUSING_MODULE": "Sursa crash-ului",
+    "DESC_INVALID_CRASH_CONTEXT": "Informațiile despre crash nu pot fi citite.",
     "DESC_CRASHDUMP_ZIPPED": "Fișierul de crash dump a fost salvat în urmatorul path {0}.",
     "DESC_CRASHDUMP_UPLOADED": "Fișierul de crash dump a fost încărcat. ID-ul atribuit este {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Fișierul de crash dump a fost salvat în urmatorul path: {0}, dar încărcarea crash dump-ului a eșuat.",
@@ -386,6 +393,8 @@
     "PIRATE_CONSIDER_BUYING": "Ia în considerare achiziționarea jocului din magazinele <b>oficiale</b>:",
     "PIRATE_BRAVE_ENOUGH": "Dacă ai curaj suficient:",
     "PIRATE_CONTINUE_WITH_PIRATED": "Continuă cu versiunea piratată",
+    "PIRATE_IF_NOT": "Nu ești pirat?",
+    "PIRATE_DELETE": "Șterge fișierele piratate",
     "PIRATE_SERIOUSLY": "Serios?"
   }
 }
