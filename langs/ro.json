@@ -375,7 +375,7 @@
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V a dat crash",
     "DESC_INVALID_CRASH_CONTEXT": "Informațiile despre crash nu pot fi citite.",
-    "ERR_CAUSING_MODULE": "Sursa crash-ului"
+    "ERR_CAUSING_MODULE": "Sursa crash-ului",
     "DESC_CRASHDUMP_ZIPPED": "Fișierul de crash dump a fost salvat în urmatorul path {0}.",
     "DESC_CRASHDUMP_UPLOADED": "Fișierul de crash dump a fost încărcat. ID-ul atribuit este {0}.",
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Fișierul de crash dump a fost salvat în urmatorul path: {0}, dar încărcarea crash dump-ului a eșuat.",
