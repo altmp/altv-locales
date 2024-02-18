@@ -376,6 +376,8 @@
     "PIRATE_CONSIDER_BUYING": "Ia în considerare achiziționarea jocului din magazinele <b>oficiale</b>:",
     "PIRATE_BRAVE_ENOUGH": "Dacă ai curaj suficient:",
     "PIRATE_CONTINUE_WITH_PIRATED": "Continuă cu versiunea piratată",
+    "PIRATE_IF_NOT": "Nu ești pirat?",
+    "PIRATE_DELETE": "Șterge fișierele piratate",
     "PIRATE_SERIOUSLY": "Serios?"
   }
 }
