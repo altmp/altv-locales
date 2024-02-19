@@ -379,6 +379,7 @@
     "AUTHENTICATING": "Authenticating",
     "CHECKING_PRECONDITIONS": "Checking preconditions",
     "UPLOADING_CRASHDUMP": "Uploading last crash",
+    "VALIDATING_BACKUP": "Validating backup",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
     "ERR_CAUSING_MODULE": "Source of crash",
