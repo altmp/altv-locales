@@ -300,6 +300,7 @@
     "OPEN_LOGS": "Ouvrir le dossier log",
     "OPEN_GTA": "Ouvrir le dossier GTA V",
     "REINSTALL_ALTV": "Réinstaller [ALTV]",
+    "REMOVE_MODS": "Supprimer les mods",
     "ERROR_FOOTER": "Visitez notre {0} pour voir si vous avez une erreur courante ou posez une question sur {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "page de dépannage",
     "ERROR_FOOTER_DISCORD_SERVER": "notre serveur Discord",
@@ -382,6 +383,7 @@
     "AUTHENTICATING": "Authentification",
     "CHECKING_PRECONDITIONS": "Vérification des conditions requises",
     "UPLOADING_CRASHDUMP": "Transfert du dernier plantage",
+    "VALIDATING_BACKUP": "Validation de la sauvegarde",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V a planté",
     "ERR_CAUSING_MODULE": "Cause du plantage",
@@ -391,6 +393,7 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Le vidage d'incident a été sauvegardé au chemin {0}, mais le téléchargement du vidage a échoué.",
     "OPEN_CRASHDUMP_DIRECTORY": "Ouvrir le répertoire du vidage",
     "COPY_CRASHDUMP_ID": "Copier l'identifiant du vidage",
+    "DONT_SEND_US_THE_ID": "Vous n'avez pas besoin de nous envoyer votre ID. Il est transmis automatiquement et nos développeurs en sont informés.",
 
     "PIRATE_NOT_SUPPORTED": "Les versions piratées de GTA V ne sont pas compatibles !",
     "PIRATE_CONSIDER_BUYING": "Songez à acheter le jeu dans les boutiques <b>officielles</b> :",
