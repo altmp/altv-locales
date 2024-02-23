@@ -379,6 +379,7 @@
     "AUTHENTICATING": "Se autentifică",
     "CHECKING_PRECONDITIONS": "Se verifică precondițiile",
     "UPLOADING_CRASHDUMP": "Se încarcă ultimul crash",
+    "VALIDATING_BACKUP": "Validarea copiei de siguranță",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V a dat crash",
     "ERR_CAUSING_MODULE": "Sursa crash-ului",
@@ -388,6 +389,7 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Fișierul de crash dump a fost salvat în urmatorul path: {0}, dar încărcarea crash dump-ului a eșuat.",
     "OPEN_CRASHDUMP_DIRECTORY": "Deschide directorul cu fișierele de crash dump",
     "COPY_CRASHDUMP_ID": "Copiază ID-ul crash dump-ului",
+    "DONT_SEND_US_THE_ID": "Nu trebuie să ne trimiteți ID-ul dumneavoastră. Acesta este încărcat automat și dezvoltatorii sunt conștienți de acest lucru.",
 
     "PIRATE_NOT_SUPPORTED": "Versiunile piratate ale GTA V nu sunt acceptate!",
     "PIRATE_CONSIDER_BUYING": "Ia în considerare achiziționarea jocului din magazinele <b>oficiale</b>:",
