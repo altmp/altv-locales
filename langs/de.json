@@ -381,6 +381,7 @@
     "AUTHENTICATING": "Authentifiziere",
     "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen",
     "UPLOADING_CRASHDUMP": "Sende letzten Crash",
+    "VALIDATING_BACKUP": "Prüfe Sicherung",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",
     "ERR_CAUSING_MODULE": "Absturzursache",
@@ -390,6 +391,7 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Der Crashdump wurde unter folgendem Pfad gespeichert: {0}, jedoch war das Hochladen nicht möglich.",
     "OPEN_CRASHDUMP_DIRECTORY": "Crashdump Verzeichnis öffnen",
     "COPY_CRASHDUMP_ID": "Crashdump Id kopieren",
+    "DONT_SEND_US_THE_ID": "Du musst uns deine ID nicht senden. Sie wird automatisch hochgeladen und die Entwickler sind informiert.",
 
     "PIRATE_NOT_SUPPORTED": "Gecrackte GTA V Versionen werden nicht unterstützt!",
     "PIRATE_CONSIDER_BUYING": "Kaufe das Spiel von <b>offiziellen</b> Shops:",
