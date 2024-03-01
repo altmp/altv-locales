@@ -269,7 +269,7 @@
     "SOL_RESTART_COMPUTER": "Restartējiet datoru",
     "SOL_VERIFY_GAME_FILES": "Pārbaudiet spēles failu integritāti",
     "SOL_DELETE_FILE_FROM_GAME": "Dzēst {0} ({1}) no spēles mapes",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Dzēst {0} ({1}) no backup mapes",
+    "SOL_DELETE_FILE_FROM_MODS": "Dzēst {0} ({1}) no mods mapes",
     "SOL_UPDATE_MOD": "Atjauniniet {0} ({1}) uz versiju {2} vai jaunāku",
     "SOL_USE_OFFLINE_MODE": "Izmantojiet bezsaistes režīmu",
     "SOL_INCREASE_GAME_TIMEOUT": "Palieliniet taimauta vērtību. Plašāku informāciju var atrast mūsu problēmu novēršanas lapā",

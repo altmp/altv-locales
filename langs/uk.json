@@ -275,7 +275,7 @@
     "SOL_RESTART_COMPUTER": "Перезапустіть комп'ютер",
     "SOL_VERIFY_GAME_FILES": "Перевірте цілісність ваших ігрових файлів",
     "SOL_DELETE_FILE_FROM_GAME": "Видаліть {0} ({1}) з папки гри",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Видаліть {0} ({1}) з папки backup",
+    "SOL_DELETE_FILE_FROM_MODS": "Видаліть {0} ({1}) з папки mods",
     "SOL_UPDATE_MOD": "Оновіть {0} ({1}) до версії {2} або вище",
     "SOL_USE_OFFLINE_MODE": "Використовуйте автономний режим",
     "SOL_INCREASE_GAME_TIMEOUT": "Збільшіть значення часу очікування. Додаткову інформацію можна знайти на нашій сторінці усунення неполадок.",

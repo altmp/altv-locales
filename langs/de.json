@@ -273,7 +273,7 @@
     "SOL_RESTART_COMPUTER": "Starte deinen Computer neu",
     "SOL_VERIFY_GAME_FILES": "Prüfe die Integrität der Spieldateien",
     "SOL_DELETE_FILE_FROM_GAME": "Lösche {0} ({1}) aus deinem GTA V Ordner",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Lösche {0} ({1}) aus deinem Backup Ordner",
+    "SOL_DELETE_FILE_FROM_MODS": "Lösche {0} ({1}) aus deinem Mods Ordner",
     "SOL_UPDATE_MOD": "Aktualisiere {0} ({1}) auf Version {2} oder höher",
     "SOL_USE_OFFLINE_MODE": "Verwende den Offline-Modus",
     "SOL_INCREASE_GAME_TIMEOUT": "Erhöhe den Wert der Zeitüberschreitung. Weitere Informationen findest du auf unserer Fehlerbehebungsseite",
