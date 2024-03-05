@@ -257,6 +257,7 @@
     "ERR_GAME_INVALID_VERSION": "Ungültige Spielversion",
     "ERR_GAME_OUTDATED": "Veraltete Spielversion",
     "ERR_INVALID_BRANCH": "Es wurde ein ungültiger Versionszweig angegeben.",
+    "ERR_DOWNLOAD_FAILED": "Download fehlgeschlagen",
     "SOL_RUN_AS_ADMIN": "Versuche [ALTV] als Administrator zu starten",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Versuche [ALTV] in einen anderen Ordner (vorzugsweise die automatische Installation) zu installieren",
     "SOL_CHECK_CONNECTION": "Überprüfe deine Internetverbindung",
@@ -382,6 +383,7 @@
     "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen",
     "UPLOADING_CRASHDUMP": "Sende letzten Crash",
     "VALIDATING_BACKUP": "Prüfe Sicherung",
+    "DOWNLOADING_BACKUP": "Lade Backup",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",
     "ERR_CAUSING_MODULE": "Absturzursache",

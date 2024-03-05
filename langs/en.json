@@ -255,6 +255,7 @@
     "ERR_GAME_INVALID_VERSION": "Invalid game version",
     "ERR_GAME_OUTDATED": "Outdated game version",
     "ERR_INVALID_BRANCH": "Invalid branch specified",
+    "ERR_DOWNLOAD_FAILED": "Download failed",
     "SOL_RUN_AS_ADMIN": "Try running [ALTV] as administrator",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Try installing [ALTV] into a different folder (preferably automatic location)",
     "SOL_CHECK_CONNECTION": "Check your internet connection",
@@ -380,6 +381,7 @@
     "CHECKING_PRECONDITIONS": "Checking preconditions",
     "UPLOADING_CRASHDUMP": "Uploading last crash",
     "VALIDATING_BACKUP": "Validating backup",
+    "DOWNLOADING_BACKUP": "Downloading backup",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
     "ERR_CAUSING_MODULE": "Source of crash",
