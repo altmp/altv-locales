@@ -275,7 +275,7 @@
     "SOL_RESTART_COMPUTER": "Redémarrez votre ordinateur",
     "SOL_VERIFY_GAME_FILES": "Vérifiez l'intégrité des fichiers du jeu",
     "SOL_DELETE_FILE_FROM_GAME": "Supprimez {0} ({1}) du dossier du jeu",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Supprimez {0} ({1}) du dossier « backup »",
+    "SOL_DELETE_FILE_FROM_MODS": "Supprimez {0} ({1}) du dossier « mods »",
     "SOL_UPDATE_MOD": "Mettez à jour {0} ({1}) vers la version {2} ou plus",
     "SOL_USE_OFFLINE_MODE": "Utilisez le mode hors ligne",
     "SOL_INCREASE_GAME_TIMEOUT": "Augmentez la valeur du délai d'attente. Plus d'informations peuvent être trouvées sur notre page de dépannage",
@@ -300,6 +300,7 @@
     "OPEN_LOGS": "Ouvrir le dossier log",
     "OPEN_GTA": "Ouvrir le dossier GTA V",
     "REINSTALL_ALTV": "Réinstaller [ALTV]",
+    "REMOVE_MODS": "Supprimer les mods",
     "ERROR_FOOTER": "Visitez notre {0} pour voir si vous avez une erreur courante ou posez une question sur {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "page de dépannage",
     "ERROR_FOOTER_DISCORD_SERVER": "notre serveur Discord",
@@ -382,6 +383,7 @@
     "AUTHENTICATING": "Authentification",
     "CHECKING_PRECONDITIONS": "Vérification des conditions requises",
     "UPLOADING_CRASHDUMP": "Transfert du dernier plantage",
+    "VALIDATING_BACKUP": "Validation de la sauvegarde",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V a planté",
     "ERR_CAUSING_MODULE": "Cause du plantage",
@@ -391,6 +393,7 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Le vidage d'incident a été sauvegardé au chemin {0}, mais le téléchargement du vidage a échoué.",
     "OPEN_CRASHDUMP_DIRECTORY": "Ouvrir le répertoire du vidage",
     "COPY_CRASHDUMP_ID": "Copier l'identifiant du vidage",
+    "DONT_SEND_US_THE_ID": "Vous n'avez pas besoin de nous envoyer votre ID. Il est transmis automatiquement et nos développeurs en sont informés.",
 
     "PIRATE_NOT_SUPPORTED": "Les versions piratées de GTA V ne sont pas compatibles !",
     "PIRATE_CONSIDER_BUYING": "Songez à acheter le jeu dans les boutiques <b>officielles</b> :",

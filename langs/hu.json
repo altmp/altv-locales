@@ -271,7 +271,7 @@
     "SOL_RESTART_COMPUTER": "Indítsd újra a számítógépet",
     "SOL_VERIFY_GAME_FILES": "Ellenőrizd a játékfájlok éppségét",
     "SOL_DELETE_FILE_FROM_GAME": "Töröld {0} ({1}) a játék mappából",
-    "SOL_DELETE_FILE_FROM_BACKUP": "{0} ({1}) törlése a biztonsági mentés mappából",
+    "SOL_DELETE_FILE_FROM_MODS": "{0} ({1}) törlése a modifikációk mappából",
     "SOL_UPDATE_MOD": "{0} ({1}) frissítése {2} vagy magasabb verzióra",
     "SOL_USE_OFFLINE_MODE": "Offline mód használata",
     "SOL_INCREASE_GAME_TIMEOUT": "Növeld az időtúllépés időkorlátját. További információ a hibaelhárítási oldalunkon található meg.",
@@ -296,6 +296,7 @@
     "OPEN_LOGS": "Naplókönyvtár megnyitása",
     "OPEN_GTA": "Játékkönyvtár megnyitása",
     "REINSTALL_ALTV": "[ALTV] újratelepítése",
+    "REMOVE_MODS": "Modifikációk eltávolítása",
     "ERROR_FOOTER": "Látogasd meg a {0}, ha gyakori hibát kaptál, vagy tegyél fel kérdést a {1}.",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "hibaelhárítási oldalunkat",
     "ERROR_FOOTER_DISCORD_SERVER": "Discord szerverünkön",
@@ -378,6 +379,7 @@
     "AUTHENTICATING": "Hitelesítés",
     "CHECKING_PRECONDITIONS": "Előfeltételek ellenőrzése",
     "UPLOADING_CRASHDUMP": "Utolsó összeomlás feltöltése",
+    "VALIDATING_BACKUP": "Biztonsági mentés hitelesítése",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V összeomlott",
     "ERR_CAUSING_MODULE": "Az összeomlás forrása",
@@ -387,6 +389,7 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "A crashdump a következő elérési útvonalra lett mentve: {0}, de a crashdump feltöltése sikertelen volt.",
     "OPEN_CRASHDUMP_DIRECTORY": "Crashdump könyvtár megnyitása",
     "COPY_CRASHDUMP_ID": "Crashdump azonosító másolása",
+    "DONT_SEND_US_THE_ID": "Nem kell elküldened nekünk az azonosítódat. A rendszer automatikusan feltölti, és a fejlesztők tudnak róla.",
 
     "PIRATE_NOT_SUPPORTED": "A GTA V kalózverziói nem támogatottak!",
     "PIRATE_CONSIDER_BUYING": "Fontold meg a játék megvásárlását a <b>hivatalos</b> boltokból:",

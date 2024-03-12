@@ -257,6 +257,7 @@
     "ERR_GAME_INVALID_VERSION": "Ungültige Spielversion",
     "ERR_GAME_OUTDATED": "Veraltete Spielversion",
     "ERR_INVALID_BRANCH": "Es wurde ein ungültiger Versionszweig angegeben.",
+    "ERR_DOWNLOAD_FAILED": "Download fehlgeschlagen",
     "SOL_RUN_AS_ADMIN": "Versuche [ALTV] als Administrator zu starten",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Versuche [ALTV] in einen anderen Ordner (vorzugsweise die automatische Installation) zu installieren",
     "SOL_CHECK_CONNECTION": "Überprüfe deine Internetverbindung",
@@ -273,7 +274,7 @@
     "SOL_RESTART_COMPUTER": "Starte deinen Computer neu",
     "SOL_VERIFY_GAME_FILES": "Prüfe die Integrität der Spieldateien",
     "SOL_DELETE_FILE_FROM_GAME": "Lösche {0} ({1}) aus deinem GTA V Ordner",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Lösche {0} ({1}) aus deinem Backup Ordner",
+    "SOL_DELETE_FILE_FROM_MODS": "Lösche {0} ({1}) aus deinem Mods Ordner",
     "SOL_UPDATE_MOD": "Aktualisiere {0} ({1}) auf Version {2} oder höher",
     "SOL_USE_OFFLINE_MODE": "Verwende den Offline-Modus",
     "SOL_INCREASE_GAME_TIMEOUT": "Erhöhe den Wert der Zeitüberschreitung. Weitere Informationen findest du auf unserer Fehlerbehebungsseite",
@@ -381,6 +382,8 @@
     "AUTHENTICATING": "Authentifiziere",
     "CHECKING_PRECONDITIONS": "Prüfe Voraussetzungen",
     "UPLOADING_CRASHDUMP": "Sende letzten Crash",
+    "VALIDATING_BACKUP": "Prüfe Sicherung",
+    "DOWNLOADING_BACKUP": "Lade Backup",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V ist abgestürzt",
     "ERR_CAUSING_MODULE": "Absturzursache",
@@ -390,6 +393,7 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Der Crashdump wurde unter folgendem Pfad gespeichert: {0}, jedoch war das Hochladen nicht möglich.",
     "OPEN_CRASHDUMP_DIRECTORY": "Crashdump Verzeichnis öffnen",
     "COPY_CRASHDUMP_ID": "Crashdump Id kopieren",
+    "DONT_SEND_US_THE_ID": "Du musst uns deine ID nicht senden. Sie wird automatisch hochgeladen und die Entwickler sind informiert.",
 
     "PIRATE_NOT_SUPPORTED": "Gecrackte GTA V Versionen werden nicht unterstützt!",
     "PIRATE_CONSIDER_BUYING": "Kaufe das Spiel von <b>offiziellen</b> Shops:",

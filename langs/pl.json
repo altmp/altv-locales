@@ -274,7 +274,7 @@
     "SOL_RESTART_COMPUTER": "Zrestartuj swój komputer",
     "SOL_VERIFY_GAME_FILES": "Zweryfikuj integralność plików gry",
     "SOL_DELETE_FILE_FROM_GAME": "Usuń plik {0} ({1}) z folderu z grą",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Usuń plik {0} ({1}) z folderu backup",
+    "SOL_DELETE_FILE_FROM_MODS": "Usuń plik {0} ({1}) z folderu mods",
     "SOL_UPDATE_MOD": "Zaktualizuj plik {0} ({1}) do wersji {2} lub wyższej",
     "SOL_USE_OFFLINE_MODE": "Użyj trybu offline",
     "SOL_INCREASE_GAME_TIMEOUT": "Zwiększ wartość limitu czasu. Więcej informacji można znaleźć na naszej stronie poświęconej rozwiązywaniu problemów",
