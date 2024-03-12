@@ -254,7 +254,8 @@
     "ERR_NO_BACKUP_AVAILABLE": "Nu s-au găsit fișiere de backup. [ALTV] nu a fost lansat înainte de actualizarea GTA V",
     "ERR_GAME_INVALID_VERSION": "Versiunea jocului invalidă",
     "ERR_GAME_OUTDATED": "Versiunea jocului este veche",
-    "ERR_INVALID_BRANCH": "Branch-ul specificat este invalid",
+    "ERR_INVALID_BRANCH": "Branch-ul specificat este invalid",\
+    "ERR_DOWNLOAD_FAILED": "Descărcarea a eșuat",
     "SOL_RUN_AS_ADMIN": "Încearcă să rulezi [ALTV] ca administrator",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Încearcă să reinstalezi [ALTV] într-un alt folder (preferabil într-o locație automată)",
     "SOL_CHECK_CONNECTION": "Verifică-ți conexiunea la internet",
@@ -379,8 +380,9 @@
     "AUTHENTICATING": "Se autentifică",
     "CHECKING_PRECONDITIONS": "Se verifică precondițiile",
     "UPLOADING_CRASHDUMP": "Se încarcă ultimul crash",
-    "VALIDATING_BACKUP": "Validarea copiei de siguranță",
-
+    "VALIDATING_BACKUP": "Validarea copiei de rezervă",
+    "DOWNLOADING_BACKUP": "Se descarcă copia de rezervă",
+    
     "ERR_GAME_RUNTIME_CRASH": "GTA V a dat crash",
     "ERR_CAUSING_MODULE": "Sursa crash-ului",
     "DESC_INVALID_CRASH_CONTEXT": "Informațiile despre crash nu pot fi citite.",
