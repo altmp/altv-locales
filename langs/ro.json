@@ -272,7 +272,7 @@
     "SOL_RESTART_COMPUTER": "Repornește calculatorul",
     "SOL_VERIFY_GAME_FILES": "Verifică integritatea fișierelor jocului",
     "SOL_DELETE_FILE_FROM_GAME": "Șterge {0} ({1}) din folderul jocului",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Ștergeți {0} ({1}) din folderul de backup",
+    "SOL_DELETE_FILE_FROM_MODS": "Ștergeți {0} ({1}) din folderul de moduri",
     "SOL_UPDATE_MOD": "Actualizează {0} ({1}) la versiunea {2} sau una mai mare",
     "SOL_USE_OFFLINE_MODE": "Folosește modul offline",
     "SOL_INCREASE_GAME_TIMEOUT": "Crește valoarea de timeout. Mai multe informații pot fi găsite pe pagina noastră de depanare",
