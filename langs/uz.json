@@ -255,6 +255,7 @@
     "ERR_GAME_INVALID_VERSION": "O'yinning noto'g'ri versiyasi",
     "ERR_GAME_OUTDATED": "O'yinning eskirgan versiyasi",
     "ERR_INVALID_BRANCH": "Yaroqsiz branch ko‘rsatilgan",
+    "ERR_DOWNLOAD_FAILED": "Yuklab olish amalga oshmadi",
     "SOL_RUN_AS_ADMIN": "[ALTV] ni administrator sifatida ishga tushirishga harakat qilib ko'ring",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "[ALTV] ni boshqa papkaga oʻrnatib koʻring (tavsiya etilgan joyga)",
     "SOL_CHECK_CONNECTION": "Internet aloqangizni tekshiring",
@@ -271,7 +272,7 @@
     "SOL_RESTART_COMPUTER": "Kompyuteringizni o'chirib qayta yoqing",
     "SOL_VERIFY_GAME_FILES": "O'yin fayllarining yaxlitligini tekshiring",
     "SOL_DELETE_FILE_FROM_GAME": "{0} ({1}) ni oʻyin papkasidan oʻchiring",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Backup papkasidan {0} ({1})ni olib tashlang",
+    "SOL_DELETE_FILE_FROM_MODS": "Mods papkasidan {0} ({1})ni olib tashlang",
     "SOL_UPDATE_MOD": "{0} ({1}) ni {2} yoki undan keyingi versiyaga yangilang",
     "SOL_USE_OFFLINE_MODE": "Oflayn rejimdan foydalaning",
     "SOL_INCREASE_GAME_TIMEOUT": "Timeout qiymatini oshiring. Qo'shimcha ma'lumotni umumiy muammolar sahifamizda topishingiz mumkin",
@@ -379,6 +380,8 @@
     "AUTHENTICATING": "Autentifikatsiya",
     "CHECKING_PRECONDITIONS": "Dastlabki sharoitlar tekshirilmoqda",
     "UPLOADING_CRASHDUMP": "Oxirgi nosozlik yuklanmoqda",
+    "VALIDATING_BACKUP": "Zaxira nusxasi tasdiqlanmoqda",
+    "DOWNLOADING_BACKUP": "Zaxira yuklanmoqda",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V halokatga uchradi",
     "ERR_CAUSING_MODULE": "Halokat manbai",
@@ -388,6 +391,7 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Halokat hisoboti quyidagi yo‘lda saqlandi: {0}, uni jo‘natib bo‘lmadi.",
     "OPEN_CRASHDUMP_DIRECTORY": "Halokatlar hisobotlari papkasini ochish",
     "COPY_CRASHDUMP_ID": "Nosozlik hisoboti ID-sini nusxa olish",
+    "DONT_SEND_US_THE_ID": "Bizga identifikatoringizni yuborishingiz shart emas. U avtomatik ravishda yuklanadi va dasturchilar buni bilishadi.",
 
     "PIRATE_NOT_SUPPORTED": "GTA V ning pirat versiyalari qo'llab-quvvatlanmaydi!",
     "PIRATE_CONSIDER_BUYING": "O'yinni <b>rasmiy</b> do'konlarda sotib olishni o'ylab ko'ring:",
