@@ -255,6 +255,7 @@
     "ERR_GAME_INVALID_VERSION": "Versiunea jocului invalidă",
     "ERR_GAME_OUTDATED": "Versiunea jocului este veche",
     "ERR_INVALID_BRANCH": "Branch-ul specificat este invalid",
+    "ERR_DOWNLOAD_FAILED": "Descărcarea a eșuat",
     "SOL_RUN_AS_ADMIN": "Încearcă să rulezi [ALTV] ca administrator",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Încearcă să reinstalezi [ALTV] într-un alt folder (preferabil într-o locație automată)",
     "SOL_CHECK_CONNECTION": "Verifică-ți conexiunea la internet",
@@ -271,7 +272,7 @@
     "SOL_RESTART_COMPUTER": "Repornește calculatorul",
     "SOL_VERIFY_GAME_FILES": "Verifică integritatea fișierelor jocului",
     "SOL_DELETE_FILE_FROM_GAME": "Șterge {0} ({1}) din folderul jocului",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Ștergeți {0} ({1}) din folderul de backup",
+    "SOL_DELETE_FILE_FROM_MODS": "Ștergeți {0} ({1}) din folderul de moduri",
     "SOL_UPDATE_MOD": "Actualizează {0} ({1}) la versiunea {2} sau una mai mare",
     "SOL_USE_OFFLINE_MODE": "Folosește modul offline",
     "SOL_INCREASE_GAME_TIMEOUT": "Crește valoarea de timeout. Mai multe informații pot fi găsite pe pagina noastră de depanare",
@@ -379,8 +380,9 @@
     "AUTHENTICATING": "Se autentifică",
     "CHECKING_PRECONDITIONS": "Se verifică precondițiile",
     "UPLOADING_CRASHDUMP": "Se încarcă ultimul crash",
-    "VALIDATING_BACKUP": "Validarea copiei de siguranță",
-
+    "VALIDATING_BACKUP": "Validarea copiei de rezervă",
+    "DOWNLOADING_BACKUP": "Se descarcă copia de rezervă",
+    
     "ERR_GAME_RUNTIME_CRASH": "GTA V a dat crash",
     "ERR_CAUSING_MODULE": "Sursa crash-ului",
     "DESC_INVALID_CRASH_CONTEXT": "Informațiile despre crash nu pot fi citite.",
