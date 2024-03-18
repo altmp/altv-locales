@@ -399,6 +399,9 @@
     "PIRATE_CONTINUE_WITH_PIRATED": "Continue with pirated version",
     "PIRATE_IF_NOT": "Not a pirate?",
     "PIRATE_DELETE": "Delete pirated files",
-    "PIRATE_SERIOUSLY": "Seriously?"
+    "PIRATE_SERIOUSLY": "Seriously?",
+
+    "RESET_EPIC_CACHE": "Reset EGS cache",
+    "VALIDATE_FILES_EPIC": "Cache has been resetted. Validate your game files in the Epic Games Launcher."
   }
 }

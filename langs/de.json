@@ -401,6 +401,9 @@
     "PIRATE_CONTINUE_WITH_PIRATED": "Weiter mit gecrackter Version",
     "PIRATE_IF_NOT": "Legale Version?",
     "PIRATE_DELETE": "Crack-Dateien löschen",
-    "PIRATE_SERIOUSLY": "Wirklich?"
+    "PIRATE_SERIOUSLY": "Wirklich?",
+    
+    "RESET_EPIC_CACHE": "EGS Cache zurücksetzen",
+    "VALIDATE_FILES_EPIC": "Der Cache wurde zurückgesetzt. Validiere deine Spieldateien im Epic Games Launcher."
   }
 }
