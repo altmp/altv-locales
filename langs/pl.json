@@ -397,6 +397,9 @@
     "PIRATE_CONTINUE_WITH_PIRATED": "Kontynuuj z piracką wersją",
     "PIRATE_IF_NOT": "Nie korzystasz z pirackiej wersji gry?",
     "PIRATE_DELETE": "Usuń pirackie pliki",
-    "PIRATE_SERIOUSLY": "Na pewno?"
+    "PIRATE_SERIOUSLY": "Na pewno?",
+    
+    "RESET_EPIC_CACHE": "Zresetuj pamięć podręczną EGS",
+    "VALIDATE_FILES_EPIC": "Pamięć podręczna została zresetowana. Zweryfikuj pliki gry w aplikacji Epic Games."
   }
 }
