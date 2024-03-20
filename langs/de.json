@@ -288,6 +288,7 @@
     "SOL_RESTART_PLATFORM": "Starte den Rockstar Games Launcher und {0} neu",
     "SOL_DUPLICATE_MOD": "{0} ({1}) darf sich nur im Spiel- oder Backupverzeichnis befinden",
     "SOL_UPDATE_GAME": "Aktualisiere GTA V",
+    "SOL_REMOVE_OUTDATED_MODS": "Entferne veraltete Modifikationen",
 
     "ADDITIONAL_INFO": "Mehr Informationen",
     "POSSIBLE_SOLUTIONS": "Mögliche Lösungen:",
