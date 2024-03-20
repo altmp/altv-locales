@@ -406,6 +406,9 @@
     "PIRATE_CONTINUE_WITH_PIRATED": "Продолжить с пиратской версией",
     "PIRATE_IF_NOT": "Не пират?",
     "PIRATE_DELETE": "Удалить пиратские файлы",
-    "PIRATE_SERIOUSLY": "Серьёзно?"
+    "PIRATE_SERIOUSLY": "Серьёзно?",
+
+    "RESET_EPIC_CACHE": "Сбросить кэш EGS",
+    "VALIDATE_FILES_EPIC": "Кэш был сброшен. Выполните проверку файлов игры в Epic Games Launcher."
   }
 }
