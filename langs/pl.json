@@ -382,8 +382,8 @@
     "AUTHENTICATING": "Uwierzytelnianie",
     "CHECKING_PRECONDITIONS": "Sprawdzanie wymagań",
     "UPLOADING_CRASHDUMP": "Przesyłanie ostatniego zrzutu awaryjnego",
-    "VALIDATING_BACKUP": "Walidacja backup-u",
-    "DOWNLOADING_BACKUP": "Pobieranie backup-u",
+    "VALIDATING_BACKUP": "Walidacja kopii zapasowej",
+    "DOWNLOADING_BACKUP": "Pobieranie kopii zapasowej",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V przestało odpowiadać",
     "ERR_CAUSING_MODULE": "Źródło awarii",
