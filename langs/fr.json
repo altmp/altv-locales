@@ -259,6 +259,7 @@
     "ERR_GAME_INVALID_VERSION": "Version du jeu invalide",
     "ERR_GAME_OUTDATED": "Version du jeu obsolète",
     "ERR_INVALID_BRANCH": "Branche de version invalide",
+    "ERR_DOWNLOAD_FAILED": "Échec du téléchargement",
     "SOL_RUN_AS_ADMIN": "Essayez d'exécuter [ALTV] en tant qu'administrateur",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Essayez d'installer [ALTV] dans un autre dossier (de préférence un emplacement automatique)",
     "SOL_CHECK_CONNECTION": "Vérifiez votre connection internet",
@@ -289,6 +290,7 @@
     "SOL_RESTART_PLATFORM": "Redémarrez le Rockstar Games Launcher et {0}",
     "SOL_DUPLICATE_MOD": "{0} ({1}) ne peut se placer que dans le dossier du jeu ou dans le dossier « backup »",
     "SOL_UPDATE_GAME": "Mettez à jour GTA V",
+    "SOL_REMOVE_OUTDATED_MODS": "Supprimez les mods obsolètes",
 
     "ADDITIONAL_INFO": "Plus d'informations",
     "POSSIBLE_SOLUTIONS": "Solutions possibles:",
@@ -384,6 +386,7 @@
     "CHECKING_PRECONDITIONS": "Vérification des conditions requises",
     "UPLOADING_CRASHDUMP": "Transfert du dernier plantage",
     "VALIDATING_BACKUP": "Validation de la sauvegarde",
+    "DOWNLOADING_BACKUP": "Téléchargement de la sauvegarde",
     
     "ERR_GAME_RUNTIME_CRASH": "GTA V a planté",
     "ERR_CAUSING_MODULE": "Cause du plantage",
@@ -401,6 +404,9 @@
     "PIRATE_CONTINUE_WITH_PIRATED": "Continuer avec la version piratée",
     "PIRATE_IF_NOT": "Pas un pirate ?",
     "PIRATE_DELETE": "Supprimer les fichiers piratés",
-    "PIRATE_SERIOUSLY": "Sérieusement ?"
+    "PIRATE_SERIOUSLY": "Sérieusement ?",
+
+    "RESET_EPIC_CACHE": "Vider le cache d'EGS",
+    "VALIDATE_FILES_EPIC": "Le cache a été vidé. Lancez une vérification des fichiers du jeu dans le lanceur Epic Games."
   }
 }
