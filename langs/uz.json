@@ -286,6 +286,7 @@
     "SOL_RESTART_PLATFORM": "Rockstar Games Launcher va {0}-ni qayta ishga tushiring",
     "SOL_DUPLICATE_MOD": "{0} ({1}) faqat oʻyin yoki backup papkasida joylashgan boʻlishi mumkin",
     "SOL_UPDATE_GAME": "GTA V-ni yangilang",
+    "SOL_REMOVE_OUTDATED_MODS": "Eskirgan modlarni olib tashlang",
 
     "ADDITIONAL_INFO": "batafsil ma'lumot",
     "POSSIBLE_SOLUTIONS": "Mumkin bo'lgan yechimlar:",
@@ -399,6 +400,9 @@
     "PIRATE_CONTINUE_WITH_PIRATED": "Pirat versiya bilan davom etish",
     "PIRATE_IF_NOT": "Pirat emasmi?",
     "PIRATE_DELETE": "Pirat fayllarni olib tashlash",
-    "PIRATE_SERIOUSLY": "Jiddiymi?"
+    "PIRATE_SERIOUSLY": "Jiddiymi?",
+
+    "RESET_EPIC_CACHE": "EGS keshini tiklash",
+    "VALIDATE_FILES_EPIC": "Kesh qayta tiklandi. Oʻyin fayllaringizni Epic Games Launcher orqali tasdiqlang."
   }
 }
