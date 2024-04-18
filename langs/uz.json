@@ -199,12 +199,10 @@
     "UNKNOWN_INPUT_DEVICE": "Noma'lum",
     "DISCORD_RICH_PRESENCE": "Discord faoliyatini ko'rsatish",
     "MISC_SETTINGS": "Boshqa",
-
     "PERMISSION_1": "Oʻyin oynasini yozib olish",
     "PERMISSION_2": "Mikrofon va kameraga ruxsat",
     "PERMISSION_3": "Matnni vaqtinchalik xotiraga saqlash",
     "PERMISSION_4": "Mikrofon va ovozli chat sozlamalariga ruxsat",
-
     "ERR_UNKNOWN": "Noma'lum xato",
     "ERR_UNEXPECTED": "Kutilmagan xato",
     "ERR_NETWORK": "Ulanishda xato",
@@ -272,6 +270,7 @@
     "SOL_RESTART_COMPUTER": "Kompyuteringizni o'chirib qayta yoqing",
     "SOL_VERIFY_GAME_FILES": "O'yin fayllarining yaxlitligini tekshiring",
     "SOL_DELETE_FILE_FROM_GAME": "{0} ({1}) ni oʻyin papkasidan oʻchiring",
+    "SOL_DELETE_FILE_FROM_BACKUP": "backup papkasidan {0} ({1})-ni oʻchirib tashlang",
     "SOL_DELETE_FILE_FROM_MODS": "Mods papkasidan {0} ({1})ni olib tashlang",
     "SOL_UPDATE_MOD": "{0} ({1}) ni {2} yoki undan keyingi versiyaga yangilang",
     "SOL_USE_OFFLINE_MODE": "Oflayn rejimdan foydalaning",
@@ -287,7 +286,6 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) faqat oʻyin yoki backup papkasida joylashgan boʻlishi mumkin",
     "SOL_UPDATE_GAME": "GTA V-ni yangilang",
     "SOL_REMOVE_OUTDATED_MODS": "Eskirgan modlarni olib tashlang",
-
     "ADDITIONAL_INFO": "batafsil ma'lumot",
     "POSSIBLE_SOLUTIONS": "Mumkin bo'lgan yechimlar:",
     "OFFLINE_MODE": "Oflayn rejim",
@@ -308,13 +306,11 @@
     "GTAV_ALREADY_RUNNING": "GTA V allaqachon ishlayapti, uni yopmoqchimisiz?",
     "MODDED_GAME": "O'yin modifikatsiya qilindi",
     "ALTERNATIVE_DIRECTORY": "Maxsus katalog",
-
     "TIME_SEC": "sek",
     "TIME_MIN": "min",
     "APPROX_TIME_LEFT": "~{0} qoldi",
     "TIME_LEFT": "{0} qoldi",
     "DATA_LEFT": "{0} qoldi",
-
     "ALTV_INSTALLER": "[ALTV] O'rnatish",
     "ALTV_UNINSTALLER": "[ALTV] O'chirish",
     "NEXT_STEP": "Keyingi qadam",
@@ -364,7 +360,6 @@
     "STRESS_TEST_FAQ_DESC_2": "Serverga ulanganingizdan so'ng sizga bu haqda ma'lumot beriladi.",
     "STRESS_TEST_DECLINE": "Yo'q rahmat",
     "STRESS_TEST_ACCEPT": "Stress testida qatnashish",
-
     "UPDATING_LAUNCHER": "Launcher yangilanmoqda",
     "VALIDATING_LAUNCHER": "Launcher tekshirilmoqda",
     "DOWNLOADING_LAUNCHER": "Launcher yozilmoqda",
@@ -383,7 +378,6 @@
     "UPLOADING_CRASHDUMP": "Oxirgi nosozlik yuklanmoqda",
     "VALIDATING_BACKUP": "Zaxira nusxasi tasdiqlanmoqda",
     "DOWNLOADING_BACKUP": "Zaxira yuklanmoqda",
-
     "ERR_GAME_RUNTIME_CRASH": "GTA V halokatga uchradi",
     "ERR_CAUSING_MODULE": "Halokat manbai",
     "DESC_INVALID_CRASH_CONTEXT": "Halokat haqidagi ma’lumotni o‘qib bo‘lmaydi.",
@@ -393,7 +387,6 @@
     "OPEN_CRASHDUMP_DIRECTORY": "Halokatlar hisobotlari papkasini ochish",
     "COPY_CRASHDUMP_ID": "Nosozlik hisoboti ID-sini nusxa olish",
     "DONT_SEND_US_THE_ID": "Bizga identifikatoringizni yuborishingiz shart emas. U avtomatik ravishda yuklanadi va dasturchilar buni bilishadi.",
-
     "PIRATE_NOT_SUPPORTED": "GTA V ning pirat versiyalari qo'llab-quvvatlanmaydi!",
     "PIRATE_CONSIDER_BUYING": "O'yinni <b>rasmiy</b> do'konlarda sotib olishni o'ylab ko'ring:",
     "PIRATE_BRAVE_ENOUGH": "Agar sizda jasorat bo'lsa:",
@@ -401,7 +394,6 @@
     "PIRATE_IF_NOT": "Pirat emasmi?",
     "PIRATE_DELETE": "Pirat fayllarni olib tashlash",
     "PIRATE_SERIOUSLY": "Jiddiymi?",
-
     "RESET_EPIC_CACHE": "EGS keshini tiklash",
     "VALIDATE_FILES_EPIC": "Kesh qayta tiklandi. Oʻyin fayllaringizni Epic Games Launcher orqali tasdiqlang."
   }
