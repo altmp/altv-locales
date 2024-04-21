@@ -255,6 +255,7 @@
     "ERR_GAME_INVALID_VERSION": "Érvénytelen játék verzió",
     "ERR_GAME_OUTDATED": "Elavult játék verzió",
     "ERR_INVALID_BRANCH": "Érvénytelen ág lett megadva",
+    "ERR_DOWNLOAD_FAILED": "Sikertelen letöltés",
     "SOL_RUN_AS_ADMIN": "Próbáld meg az [ALTV]-t rendszergazdaként futtatni",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Próbáld meg az [ALTV]-t egy másik mappába telepíteni (lehetőleg automatikus helyre).",
     "SOL_CHECK_CONNECTION": "Ellenőrizd az internet kapcsolatod",
@@ -285,6 +286,7 @@
     "SOL_RESTART_PLATFORM": "Indítsd újra a Rockstar Games Launcher-t és {0}",
     "SOL_DUPLICATE_MOD": "{0} ({1}) csak a játék vagy a biztonsági mentés könyvtárában található",
     "SOL_UPDATE_GAME": "GTA V frissítése",
+    "SOL_REMOVE_OUTDATED_MODS": "Távolítsd el az elavult modokat",
     
     "ADDITIONAL_INFO": "További információk",
     "POSSIBLE_SOLUTIONS": "Lehetséges megoldások:",
@@ -380,6 +382,7 @@
     "CHECKING_PRECONDITIONS": "Előfeltételek ellenőrzése",
     "UPLOADING_CRASHDUMP": "Utolsó összeomlás feltöltése",
     "VALIDATING_BACKUP": "Biztonsági mentés hitelesítése",
+    "DOWNLOADING_BACKUP": "Biztonsági mentés letöltése",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V összeomlott",
     "ERR_CAUSING_MODULE": "Az összeomlás forrása",
@@ -398,5 +401,8 @@
     "PIRATE_IF_NOT": "Nem kalóz?",
     "PIRATE_DELETE": "Kalózkodott fájlok törlése",
     "PIRATE_SERIOUSLY": "Tényleg?"
+
+    "RESET_EPIC_CACHE": "EGS gyorsítótár visszaállítása",
+    "VALIDATE_FILES_EPIC": "A gyorsítótár vissza lett állítva. Hitelesítsd a játékfájljait az Epic Games Launcherben."
   }
 }
