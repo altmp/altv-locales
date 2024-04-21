@@ -400,7 +400,7 @@
     "PIRATE_CONTINUE_WITH_PIRATED": "Folytatás a kalózverzióval",
     "PIRATE_IF_NOT": "Nem kalóz?",
     "PIRATE_DELETE": "Kalózkodott fájlok törlése",
-    "PIRATE_SERIOUSLY": "Tényleg?"
+    "PIRATE_SERIOUSLY": "Tényleg?",
 
     "RESET_EPIC_CACHE": "EGS gyorsítótár visszaállítása",
     "VALIDATE_FILES_EPIC": "A gyorsítótár vissza lett állítva. Hitelesítsd a játékfájljait az Epic Games Launcherben."
