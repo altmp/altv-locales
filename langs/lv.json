@@ -255,6 +255,7 @@
     "ERR_GAME_INVALID_VERSION": "Nederīga spēles versija",
     "ERR_GAME_OUTDATED": "Novecojusi spēles versija",
     "ERR_INVALID_BRANCH": "Norādīts nederīgs atzars",
+    "ERR_DOWNLOAD_FAILED": "Lejupielāde neizdevās",
     "SOL_RUN_AS_ADMIN": "Pamēģiniet palaist [ALTV] ar administratora tiesībām",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Mēģiniet instalēt [ALTV] citā mapē (vēlams noklusējuma atrašanās vieta)",
     "SOL_CHECK_CONNECTION": "Pārbaudiet interneta savienojumu",
@@ -285,6 +286,7 @@
     "SOL_RESTART_PLATFORM": "Restartēt Rockstar Games Launcher un {0}",
     "SOL_DUPLICATE_MOD": "{0} ({1}) var atrasties tikai spēles vai backup mapē",
     "SOL_UPDATE_GAME": "Atjaunināt GTA V",
+    "SOL_REMOVE_OUTDATED_MODS": "Noņemt novecojušas modifikācijas",
 
     "ADDITIONAL_INFO": "Vairāk informācijas",
     "POSSIBLE_SOLUTIONS": "Iespējamie risinājumi:",
@@ -380,6 +382,7 @@
     "CHECKING_PRECONDITIONS": "Priekšnosacījumu pārbaude",
     "UPLOADING_CRASHDUMP": "Augšupielādē pēdējo crash",
     "VALIDATING_BACKUP": "Pārbauda rezerves kopiju",
+    "DOWNLOADING_BACKUP": "Lejupielādē backup",
 
     "ERR_GAME_RUNTIME_CRASH": "GTA V nokrešoja",
     "ERR_CAUSING_MODULE": "Crash avots",
@@ -389,6 +392,7 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "Crash dump tika saglabāts šādā direktorijā: {0}, jo crash dump augšupielāde neizdevās",
     "OPEN_CRASHDUMP_DIRECTORY": "Atvērt crashdump direktoriju",
     "COPY_CRASHDUMP_ID": "Kopēt crashdump id",
+    "DONT_SEND_US_THE_ID": "Jums nav jānosūta mums savs ID. Tas tiek automātiski augšupielādēts, un izstrādātāji ir informēti par to.",
 
     "PIRATE_NOT_SUPPORTED": "Pirātiskās GTA V versijas netiek atbalstītas!",
     "PIRATE_CONSIDER_BUYING": "Apsveriet iespēju iegādāties spēli <b>oficiālajos</b> veikalos:",
@@ -396,6 +400,9 @@
     "PIRATE_CONTINUE_WITH_PIRATED": "Turpiniet ar pirātisko versiju",
     "PIRATE_IF_NOT": "Nav pirātiska?",
     "PIRATE_DELETE": "Dzēst pirātiskus failus",
-    "PIRATE_SERIOUSLY": "Nopietni?"
+    "PIRATE_SERIOUSLY": "Nopietni?",
+
+    "RESET_EPIC_CACHE": "Atiestatīt EGS cache",
+    "VALIDATE_FILES_EPIC": "Cache tika atiestatīts. Validējiet savus spēles failus iekš Epic Games Launcher."
   }
 }
