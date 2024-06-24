@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) poate fi localizat doar în directorul jocului sau în directorul de backup",
     "SOL_UPDATE_GAME": "Actualizare GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "Elimină modurile învechite",
+    "SOL_REMOVE_DUPLICATE_GTA": "Elimină directoarele GTA duplicate",
     "ADDITIONAL_INFO": "Mai multe informații",
     "POSSIBLE_SOLUTIONS": "Soluții posibile:",
     "OFFLINE_MODE": "Modul offline",
