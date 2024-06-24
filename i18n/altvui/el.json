@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) μπορεί να βρίσκεται μόνο στον κατάλογο του παιχνιδιού ή στον κατάλογο αντιγράφων ασφαλείας.",
     "SOL_UPDATE_GAME": "Ενημέρωση GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "Αφαίρεση ξεπερασμένων mods",
+    "SOL_REMOVE_DUPLICATE_GTA": "Αφαίρεση διπλότυπων καταλόγων GTA",
     "ADDITIONAL_INFO": "Περισσότερες πληροφορίες",
     "POSSIBLE_SOLUTIONS": "Πιθανές λύσεις:",
     "OFFLINE_MODE": "Λειτουργία εκτός σύνδεσης",
