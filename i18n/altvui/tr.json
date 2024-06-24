@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) yalnızca oyun veya yedekleme dizininde bulunabilir",
     "SOL_UPDATE_GAME": "GTA V'i Güncelle",
     "SOL_REMOVE_OUTDATED_MODS": "Güncel olmayan modları kaldırın",
+    "SOL_REMOVE_DUPLICATE_GTA": "Yinelenen GTA dizinlerini kaldırın",
     "ADDITIONAL_INFO": "Daha fazla bilgi",
     "POSSIBLE_SOLUTIONS": "Olası çözümler:",
     "OFFLINE_MODE": "Çevrimdışı mod",
