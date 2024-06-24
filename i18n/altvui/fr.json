@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) ne peut se trouver que dans le répertoire du jeu ou de la sauvegarde.",
     "SOL_UPDATE_GAME": "Mise à jour GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "Supprimer les mods périmés",
+    "SOL_REMOVE_DUPLICATE_GTA": "Supprimer les répertoires GTA dupliqués",
     "ADDITIONAL_INFO": "Plus d'informations",
     "POSSIBLE_SOLUTIONS": "Solutions possibles :",
     "OFFLINE_MODE": "Mode hors ligne",
