@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) darf sich nur im Spiel- oder Backupverzeichnis befinden",
     "SOL_UPDATE_GAME": "GTA V aktualisieren",
     "SOL_REMOVE_OUTDATED_MODS": "Entfernen Sie veraltete Mods",
+    "SOL_REMOVE_DUPLICATE_GTA": "Entferne duplizierte GTA-Verzeichnisse",
     "ADDITIONAL_INFO": "Mehr Informationen",
     "POSSIBLE_SOLUTIONS": "Mögliche Lösungen:",
     "OFFLINE_MODE": "Offline-Modus",
