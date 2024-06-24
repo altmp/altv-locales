@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) は、ゲームまたはバックアップ・ディレクトリにのみ置くことができます。",
     "SOL_UPDATE_GAME": "アップデート GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "古いMODを削除",
+    "SOL_REMOVE_DUPLICATE_GTA": "重複した GTA ディレクトリを削除",
     "ADDITIONAL_INFO": "詳細はこちら",
     "POSSIBLE_SOLUTIONS": "考えられる解決策",
     "OFFLINE_MODE": "オフラインモード",
