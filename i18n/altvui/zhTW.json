@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1})只能位於遊戲或備份目錄中",
     "SOL_UPDATE_GAME": "更新GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "移除過期的改裝配件",
+    "SOL_REMOVE_DUPLICATE_GTA": "移除重複的GTA目錄",
     "ADDITIONAL_INFO": "更多信息",
     "POSSIBLE_SOLUTIONS": "可能的解決方案：",
     "OFFLINE_MODE": "離線模式",
