@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0}{1}() يمكن أن يكون موجودا فقط في اللعبة أو دليل النسخ الاحتياطي",
     "SOL_UPDATE_GAME": "تحديث GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "إزالة المودات القديمة",
+    "SOL_REMOVE_DUPLICATE_GTA": "إزالة أدلة GTA مكررة",
     "ADDITIONAL_INFO": "المزيد من المعلومات",
     "POSSIBLE_SOLUTIONS": "الحلول الممكنة:",
     "OFFLINE_MODE": "وضع عدم الاتصال",
