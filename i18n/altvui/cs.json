@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) může být umístěn pouze v adresáři hry nebo zálohy.",
     "SOL_UPDATE_GAME": "Aktualizace GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "Odstranit zastaralé mody",
+    "SOL_REMOVE_DUPLICATE_GTA": "Odstranit duplikované GTA adresáře",
     "ADDITIONAL_INFO": "Více informací",
     "POSSIBLE_SOLUTIONS": "Možná řešení:",
     "OFFLINE_MODE": "Režim offline",
