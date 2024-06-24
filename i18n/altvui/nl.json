@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) kan alleen in de spel- of back-updirectory staan",
     "SOL_UPDATE_GAME": "Update GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "Verwijder verouderde mods",
+    "SOL_REMOVE_DUPLICATE_GTA": "Dubbele GTA mappen verwijderen",
     "ADDITIONAL_INFO": "Meer informatie",
     "POSSIBLE_SOLUTIONS": "Mogelijke oplossingen:",
     "OFFLINE_MODE": "Offline modus",
