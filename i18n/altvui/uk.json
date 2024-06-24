@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) може знаходитися тільки в каталозі гри або резервної копії",
     "SOL_UPDATE_GAME": "Оновлення GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "Видалити застарілі моди",
+    "SOL_REMOVE_DUPLICATE_GTA": "Вилучити дубльовані GTA папки",
     "ADDITIONAL_INFO": "Більше інформації",
     "POSSIBLE_SOLUTIONS": "Можливі рішення:",
     "OFFLINE_MODE": "Офлайн-режим",
