@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) var atrasties tikai spēles vai dublējuma direktorijā.",
     "SOL_UPDATE_GAME": "GTA V atjaunināšana",
     "SOL_REMOVE_OUTDATED_MODS": "Novecojušu modu noņemšana",
+    "SOL_REMOVE_DUPLICATE_GTA": "Dublēto GTA direktoriju noņemšana",
     "ADDITIONAL_INFO": "Vairāk informācijas",
     "POSSIBLE_SOLUTIONS": "Iespējamie risinājumi:",
     "OFFLINE_MODE": "Bezsaistes režīms",
