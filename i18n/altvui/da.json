@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) kan kun findes i spil- eller backupmappen.",
     "SOL_UPDATE_GAME": "Opdatering af GTA V",
     "SOL_REMOVE_OUTDATED_MODS": "Fjern forældede modifikationer",
+    "SOL_REMOVE_DUPLICATE_GTA": "Fjern duplikerede GTA-mapper",
     "ADDITIONAL_INFO": "Mere information",
     "POSSIBLE_SOLUTIONS": "Mulige løsninger:",
     "OFFLINE_MODE": "Offline-tilstand",
