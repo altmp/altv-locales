@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) gali būti tik žaidimo arba atsarginės kopijos kataloge",
     "SOL_UPDATE_GAME": "GTA V atnaujinimas",
     "SOL_REMOVE_OUTDATED_MODS": "Pašalinti pasenusius modifikacijas",
+    "SOL_REMOVE_DUPLICATE_GTA": "Pašalinti besidubliuojančius GTA katalogus",
     "ADDITIONAL_INFO": "Daugiau informacijos",
     "POSSIBLE_SOLUTIONS": "Galimi sprendimai:",
     "OFFLINE_MODE": "Neprisijungusysis režimas",
