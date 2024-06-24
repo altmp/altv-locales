@@ -285,6 +285,7 @@
     "SOL_DUPLICATE_MOD": "{0} ({1}) csak a játék vagy a biztonsági mentés könyvtárában található.",
     "SOL_UPDATE_GAME": "GTA V frissítése",
     "SOL_REMOVE_OUTDATED_MODS": "Távolítsa el az elavult modokat",
+    "SOL_REMOVE_DUPLICATE_GTA": "Duplikált GTA könyvtárak eltávolítása",
     "ADDITIONAL_INFO": "További információ",
     "POSSIBLE_SOLUTIONS": "Lehetséges megoldások:",
     "OFFLINE_MODE": "Offline üzemmód",
