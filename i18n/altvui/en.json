@@ -23,7 +23,7 @@
     "FULL": "Full",
     "EMPTY": "Empty",
     "LOCKED": "Locked",
-    "SERVER_NAME": "Servername",
+    "SERVER_NAME": "Server name",
     "PLAYERS": "Players",
     "GAMEMODE": "Gamemode",
     "PING": "Ping",
@@ -199,10 +199,12 @@
     "UNKNOWN_INPUT_DEVICE": "Unknown",
     "DISCORD_RICH_PRESENCE": "Show Discord Activity",
     "MISC_SETTINGS": "Misc",
+
     "PERMISSION_1": "Record your game's window",
     "PERMISSION_2": "Microphone and webcam access",
     "PERMISSION_3": "Copy text into clipboard",
     "PERMISSION_4": "Microphone and voice options access",
+
     "ERR_UNKNOWN": "Unknown error",
     "ERR_UNEXPECTED": "Unexpected error",
     "ERR_NETWORK": "Network error",
@@ -253,6 +255,7 @@
     "ERR_GAME_INVALID_VERSION": "Invalid game version",
     "ERR_GAME_OUTDATED": "Outdated game version",
     "ERR_INVALID_BRANCH": "Invalid branch specified",
+    "ERR_DOWNLOAD_FAILED": "Download failed",
     "SOL_RUN_AS_ADMIN": "Try running [ALTV] as administrator",
     "SOL_REINSTALL_TO_ANOTHER_LOCATION": "Try installing [ALTV] into a different folder (preferably automatic location)",
     "SOL_CHECK_CONNECTION": "Check your internet connection",
@@ -269,7 +272,7 @@
     "SOL_RESTART_COMPUTER": "Restart your computer",
     "SOL_VERIFY_GAME_FILES": "Verify integrity of your game files",
     "SOL_DELETE_FILE_FROM_GAME": "Delete {0} ({1}) from game folder",
-    "SOL_DELETE_FILE_FROM_BACKUP": "Delete {0} ({1}) from backup folder",
+    "SOL_DELETE_FILE_FROM_MODS": "Delete {0} ({1}) from mods folder",
     "SOL_UPDATE_MOD": "Update {0} ({1}) to version {2} or higher",
     "SOL_USE_OFFLINE_MODE": "Use offline mode",
     "SOL_INCREASE_GAME_TIMEOUT": "Increase the timeout value. More information can be found on our troubleshooting page",
@@ -283,6 +286,9 @@
     "SOL_RESTART_PLATFORM": "Restart the Rockstar Games Launcher and {0}",
     "SOL_DUPLICATE_MOD": "{0} ({1}) can only be located in the game or backup directory",
     "SOL_UPDATE_GAME": "Update GTA V",
+    "SOL_REMOVE_OUTDATED_MODS": "Remove outdated mods",
+    "SOL_REMOVE_DUPLICATE_GTA": "Remove duplicated GTA directories",
+
     "ADDITIONAL_INFO": "More info",
     "POSSIBLE_SOLUTIONS": "Possible solutions:",
     "OFFLINE_MODE": "Offline mode",
@@ -293,6 +299,7 @@
     "OPEN_LOGS": "Open log directory",
     "OPEN_GTA": "Open game directory",
     "REINSTALL_ALTV": "Reinstall [ALTV]",
+    "REMOVE_MODS": "Remove mods",
     "ERROR_FOOTER": "Visit our {0} to see if you've got a common error or ask a question on {1}",
     "ERROR_FOOTER_TROUBLESHOOTING_PAGE": "troubleshooting page",
     "ERROR_FOOTER_DISCORD_SERVER": "our Discord server",
@@ -302,11 +309,13 @@
     "GTAV_ALREADY_RUNNING": "GTA V is already running, do you want to close it?",
     "MODDED_GAME": "Game is modded",
     "ALTERNATIVE_DIRECTORY": "Custom directory",
+
     "TIME_SEC": "sec",
     "TIME_MIN": "min",
     "APPROX_TIME_LEFT": "~{0} left",
     "TIME_LEFT": "{0} left",
     "DATA_LEFT": "{0} left",
+
     "ALTV_INSTALLER": "[ALTV] Installer",
     "ALTV_UNINSTALLER": "[ALTV] Uninstaller",
     "NEXT_STEP": "Next step",
@@ -316,10 +325,10 @@
     "PAGE_GAME_LOCATION": "Game location",
     "PAGE_CONFIRM": "Confirm",
     "INSTALL": "Install",
-    "WHERE_TO_INSTALL_ALTV": "Where to install [ALTV_MULTIPLAYER]?",
+    "WHERE_TO_INSTALL_ALTV": "Select a cache directory",
     "RECOMMENDED_LOCATION": "Recommended location",
     "CHOOSE_LOCATION_MYSELF": "I want to choose it myself",
-    "SELECT_ALTV_FOLDER": "Select [ALTV] folder",
+    "SELECT_ALTV_FOLDER": "Select a cache directory",
     "SELECT_ALTV_FOLDER_NOTICE": "Do not select a folder with restricted permissions (like Program Files) or a folder with non-latin symbols. Usage of those folders may lead to unexpected side effects",
     "INSTALLER_PRERELEASE": "You are installing a pre-release version of [ALTV] ({0} branch). If you want to install the release version, please download the installer from {1}",
     "DO_YOU_NEED_SHORTCUTS": "Do you need shortcuts?",
@@ -356,6 +365,7 @@
     "STRESS_TEST_FAQ_DESC_2": "Upon connecting to the server, you will be provided with required information how to proceed.",
     "STRESS_TEST_DECLINE": "No, thanks",
     "STRESS_TEST_ACCEPT": "Participate in stress test",
+
     "UPDATING_LAUNCHER": "Updating launcher",
     "VALIDATING_LAUNCHER": "Validating launcher",
     "DOWNLOADING_LAUNCHER": "Downloading launcher",
@@ -372,6 +382,9 @@
     "AUTHENTICATING": "Authenticating",
     "CHECKING_PRECONDITIONS": "Checking preconditions",
     "UPLOADING_CRASHDUMP": "Uploading last crash",
+    "VALIDATING_BACKUP": "Validating backup",
+    "DOWNLOADING_BACKUP": "Downloading backup",
+
     "ERR_GAME_RUNTIME_CRASH": "GTA V crashed",
     "ERR_CAUSING_MODULE": "Source of crash",
     "DESC_INVALID_CRASH_CONTEXT": "Crash information can't be read.",
@@ -380,12 +393,17 @@
     "DESC_CRASHDUMP_UPLOAD_FAILED": "The crash dump has been saved at the following path: {0}, but the upload of the crash dump failed.",
     "OPEN_CRASHDUMP_DIRECTORY": "Open crashdump directory",
     "COPY_CRASHDUMP_ID": "Copy crashdump id",
+    "DONT_SEND_US_THE_ID": "You don't need to send us your id. It is automatically uploaded and the developers are aware.",
+
     "PIRATE_NOT_SUPPORTED": "Pirated versions of GTA V are not supported!",
     "PIRATE_CONSIDER_BUYING": "Consider buying the game from <b>official</b> stores:",
     "PIRATE_BRAVE_ENOUGH": "If you are brave enough:",
     "PIRATE_CONTINUE_WITH_PIRATED": "Continue with pirated version",
     "PIRATE_IF_NOT": "Not a pirate?",
     "PIRATE_DELETE": "Delete pirated files",
-    "PIRATE_SERIOUSLY": "Seriously?"
+    "PIRATE_SERIOUSLY": "Seriously?",
+
+    "RESET_EPIC_CACHE": "Reset EGS cache",
+    "VALIDATE_FILES_EPIC": "Cache has been resetted. Validate your game files in the Epic Games Launcher."
   }
 }
