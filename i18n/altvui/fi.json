@@ -1,5 +1,5 @@
 {
-  "name": "Englanti",
+  "name": "Suomi",
   "rtl": false,
   "strings": {
     "HOME": "Koti",
@@ -263,7 +263,7 @@
     "SOL_TRY_INSTALL_AGAIN": "Yritä asentaa uudelleen",
     "SOL_RESTART": "Käynnistä [ALTV]",
     "SOL_REPORT_DISCORD": "Ilmoita virheestä meidän Discord-palvelimellamme",
-    "SOL_VERIFY_ALTV_NOT_RUNNING": "Verify that you don't have [ALTV] running",
+    "SOL_VERIFY_ALTV_NOT_RUNNING": "Varmista, että [ALTV] ei ole käynnissä.",
     "SOL_VERIFY_GTA_NOT_RUNNING": "Varmista, että sinulla ei ole GTA V käynnissä",
     "SOL_START_GAME_ONCE": "Aloita singleplayer vähintään kerran",
     "SOL_SPECIFY_ANOTHER_GAME_DIR": "Määritä toinen pelikansio",
@@ -347,7 +347,7 @@
     "LAUNCH_NOW": "Käynnistä nyt",
     "ARE_YOU_SURE_CANCEL_INSTALLATION": "Oletko varma, että haluat peruuttaa asennuksen?",
     "UNINSTALLING": "Poistetaan",
-    "ARE_YOU_SURE_UNINSTALL": "Are you sure you want to uninstall [ALTV_MULTIPLAYER]?",
+    "ARE_YOU_SURE_UNINSTALL": "Haluatko varmasti poistaa [ALTV_MULTIPLAYER]?",
     "UNINSTALLER_DELETE_SERVER_DATA": "Poista myös kaikki palvelimen tiedot",
     "UNINSTALL": "Poista",
     "SHORTCUT_DESC": "[ALTV_MULTIPLAYER] - GTA 5 moninpeli alusta",
