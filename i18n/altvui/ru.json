@@ -2,7 +2,7 @@
   "name": "Русский",
   "rtl": false,
   "strings": {
-    "HOME": "Домашний",
+    "HOME": "Главная страница",
     "WELCOME_TO": "Добро пожаловать в\n{0}",
     "RECENT_SERVERS": "Недавние серверы",
     "PLAYERS_ONLINE:ONE": "{0} игрок онлайн",
@@ -34,7 +34,7 @@
     "CONNECT": "Подключиться",
     "NICKNAME": "Ник",
     "SERVERLIST": "Список серверов",
-    "PROMOTED_ON_TOP": "Рекламные серверы поверх",
+    "PROMOTED_ON_TOP": "Рекламируемые серверы наверху",
     "VOICE_CHAT": "Голосовой чат",
     "INPUT_DEVICE": "Устройство ввода",
     "OUTPUT_DEVICE": "Устройство вывода",
