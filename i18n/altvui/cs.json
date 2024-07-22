@@ -1,5 +1,5 @@
 {
-  "name": "Angličtina",
+  "name": "Česky",
   "rtl": false,
   "strings": {
     "HOME": "Home",
@@ -249,7 +249,7 @@
     "ERR_FAILED_TO_INIT_BACKUP_SYSTEM": "Nepodařilo se inicializovat systém zálohování hry",
     "ERR_FAILED_TO_COPY_BACKUP": "Nepodařilo se zkopírovat soubory zálohy hry",
     "ERR_FAILED_TO_DELETE_OLD_BACKUP": "Nepodařilo se odstranit staré soubory zálohy hry",
-    "ERR_NO_BACKUP_AVAILABLE": "No backup files found. [ALTV] wasn't launched prior to GTA V update",
+    "ERR_NO_BACKUP_AVAILABLE": "Nebyly nalezeny žádné záložní soubory. [ALTV] nebyl spuštěn před aktualizací GTA V",
     "ERR_GAME_INVALID_VERSION": "Neplatná verze hry",
     "ERR_GAME_OUTDATED": "Zastaralá verze hry",
     "ERR_INVALID_BRANCH": "Zadána neplatná větev",
