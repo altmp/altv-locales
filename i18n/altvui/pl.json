@@ -345,7 +345,7 @@
     "INSTALLED_JOIN_OUR_DISCORD_DESC": "Dołącz do naszej społeczności, aby dotrzeć do wiadomości:",
     "INSTALLED_JOIN_OUR_DISCORD": "Dołącz do serwera Discorda",
     "INSTALLED_DONATE_ON_PATREON_DESC": "Pomóż naszemu zespołowi w utrzymaniu światła:",
-    "INSTALLED_DONATE_ON_PATREON": "Wesprzyj na Patreon",
+    "INSTALLED_DONATE_ON_PATREON": "Wesprzyj nas na Patreon",
     "LAUNCH_NOW": "Uruchom teraz",
     "ARE_YOU_SURE_CANCEL_INSTALLATION": "Czy na pewno chcesz anulować instalację?",
     "UNINSTALLING": "Odinstalowywanie",
@@ -393,9 +393,9 @@
     "PIRATE_CONSIDER_BUYING": "Rozważ zakup gry z <b>oficjalnych sklepów</b>:",
     "PIRATE_BRAVE_ENOUGH": "Jeśli jesteś wystarczająco odważny:",
     "PIRATE_CONTINUE_WITH_PIRATED": "Kontynuuj z wersją piracką",
-    "PIRATE_IF_NOT": "Nie jesteś piracki?",
+    "PIRATE_IF_NOT": "Nie jesteś piratem?",
     "PIRATE_DELETE": "Usuń pliki pirackie",
-    "PIRATE_SERIOUSLY": "Poważnie?",
+    "PIRATE_SERIOUSLY": "Serio?",
     "RESET_EPIC_CACHE": "Reset EGS cache",
     "VALIDATE_FILES_EPIC": "Pamięć podręczna została zresetowana. Sprawdź swoje pliki gry w Epic Games Launcher."
   }
