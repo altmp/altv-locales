@@ -3,7 +3,7 @@
   "rtl": false,
   "strings": {
     "HOME": "Strona główna",
-    "WELCOME_TO": "Witamy w\n{0}",
+    "WELCOME_TO": "Witamy na\n{0}",
     "RECENT_SERVERS": "Najnowsze serwery",
     "PLAYERS_ONLINE:ONE": "Gracz {0} online",
     "PLAYERS_ONLINE:OTHER": "{0} gracze online",
