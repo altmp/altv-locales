@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "잘못된 주소",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "별도의 창에서 콘솔",
+    "AUDIO_FRAME_LIMITER": "FPS 제한(186fps)",
     "SERVER_DATA_SETTINGS": "서버 데이터 설정",
     "DELETE_RESOURCES": "리소스 삭제",
     "DELETE_DATA": "데이터 삭제",

@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "無効なアドレス",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "別ウィンドウ内のコンソール",
+    "AUDIO_FRAME_LIMITER": "Limit FPS (186fps)",
     "SERVER_DATA_SETTINGS": "サーバーデータの設定",
     "DELETE_RESOURCES": "リソースを削除",
     "DELETE_DATA": "データを削除",

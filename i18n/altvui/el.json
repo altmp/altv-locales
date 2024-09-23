@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Μη έγκυρη διεύθυνση",
     "DEBUG": "Αποσφαλμάτωση",
     "USE_EXTERNAL_CONSOLE": "Κονσόλα σε ξεχωριστό παράθυρο",
+    "AUDIO_FRAME_LIMITER": "Όριο FPS (186fps)",
     "SERVER_DATA_SETTINGS": "Ρυθμίσεις δεδομένων διακομιστή",
     "DELETE_RESOURCES": "Διαγραφή πόρων",
     "DELETE_DATA": "Διαγραφή δεδομένων",

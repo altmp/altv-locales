@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Neteisingas adresas",
     "DEBUG": "Derinimas",
     "USE_EXTERNAL_CONSOLE": "Konsole atskirame lange",
+    "AUDIO_FRAME_LIMITER": "Ribinis FPS (186 kadrų per sekundę)",
     "SERVER_DATA_SETTINGS": "Serverio duomenų nustatymai",
     "DELETE_RESOURCES": "Išteklių ištrynimas",
     "DELETE_DATA": "Ištrinti duomenis",

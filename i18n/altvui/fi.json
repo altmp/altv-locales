@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Virheellinen osoite",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Konsoli erillisessä ikkunassa",
+    "AUDIO_FRAME_LIMITER": "Rajoita FPS (186Fps)",
     "SERVER_DATA_SETTINGS": "Palvelimen tietojen asetukset",
     "DELETE_RESOURCES": "Poista resurssit",
     "DELETE_DATA": "Poista tiedot",

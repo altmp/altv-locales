@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "عنوان غير صالح",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "وحدة التحكم في نافذة منفصلة",
+    "AUDIO_FRAME_LIMITER": "حد FPS (186fps)",
     "SERVER_DATA_SETTINGS": "إعدادات بيانات الخادم",
     "DELETE_RESOURCES": "حذف الموارد",
     "DELETE_DATA": "حذف البيانات",

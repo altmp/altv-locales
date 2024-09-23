@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Érvénytelen cím",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Konzol egy külön ablakban",
+    "AUDIO_FRAME_LIMITER": "Limit FPS (186fps)",
     "SERVER_DATA_SETTINGS": "Szerveradatok beállításai",
     "DELETE_RESOURCES": "Erőforrások törlése",
     "DELETE_DATA": "Adatok törlése",

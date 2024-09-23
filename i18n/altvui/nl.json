@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Ongeldig adres",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Console in een apart venster",
+    "AUDIO_FRAME_LIMITER": "Beperk FPS (186fps)",
     "SERVER_DATA_SETTINGS": "Server gegevensinstellingen",
     "DELETE_RESOURCES": "Verwijder bronnen",
     "DELETE_DATA": "Gegevens verwijderen",

@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "ที่อยู่ไม่ถูกต้อง",
     "DEBUG": "ดีบัก",
     "USE_EXTERNAL_CONSOLE": "คอนโซลในหน้าต่างแยกต่างหาก",
+    "AUDIO_FRAME_LIMITER": "จำกัด FPS (186fps)",
     "SERVER_DATA_SETTINGS": "การตั้งค่าข้อมูลเซิร์ฟเวอร์",
     "DELETE_RESOURCES": "ลบแหล่งข้อมูล",
     "DELETE_DATA": "ลบข้อมูล",

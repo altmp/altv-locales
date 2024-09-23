@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "無效地址",
     "DEBUG": "除錯",
     "USE_EXTERNAL_CONSOLE": "獨立視窗中的主控臺",
+    "AUDIO_FRAME_LIMITER": "極限 FPS (186fps)",
     "SERVER_DATA_SETTINGS": "伺服器資料設定",
     "DELETE_RESOURCES": "刪除資源",
     "DELETE_DATA": "刪除資料",
