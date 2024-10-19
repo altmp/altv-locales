@@ -3,7 +3,7 @@
   "rtl": false,
   "strings": {
     "HOME": "Strona główna",
-    "WELCOME_TO": "Witamy na\n{0}",
+    "WELCOME_TO": "Witamy w\n{0}",
     "RECENT_SERVERS": "Najnowsze serwery",
     "PLAYERS_ONLINE:ONE": "Gracz {0} online",
     "PLAYERS_ONLINE:OTHER": "{0} gracze online",
@@ -309,7 +309,7 @@
     "ALTERNATIVE_DIRECTORY": "Katalog niestandardowy",
     "TIME_SEC": "sek.",
     "TIME_MIN": "min.",
-    "APPROX_TIME_LEFT": "~{0} lewo",
+    "APPROX_TIME_LEFT": "Pozostało ~{0}",
     "TIME_LEFT": "{0} lewy",
     "DATA_LEFT": "{0} lewy",
     "ALTV_INSTALLER": "[ALTV] Instalator",
