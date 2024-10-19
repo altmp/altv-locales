@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Недійсна адреса",
     "DEBUG": "Відладка",
     "USE_EXTERNAL_CONSOLE": "Консоль в окремому вікні",
+    "AUDIO_FRAME_LIMITER": "Обмеження FPS (186fps)",
     "SERVER_DATA_SETTINGS": "Керування файлами серверів",
     "DELETE_RESOURCES": "Видалити ресурси",
     "DELETE_DATA": "Видалити дані",

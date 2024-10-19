@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Nederīga adrese",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Konsole atsevišķā logā",
+    "AUDIO_FRAME_LIMITER": "FPS ierobežojums (186 kadri sekundē)",
     "SERVER_DATA_SETTINGS": "Servera datu iestatījumi",
     "DELETE_RESOURCES": "Resursu dzēšana",
     "DELETE_DATA": "Dzēst datus",

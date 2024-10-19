@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Indirizzo non valido",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Aprire la console in una finestra separata",
+    "AUDIO_FRAME_LIMITER": "Limite FPS (186 Fps)",
     "SERVER_DATA_SETTINGS": "Impostazioni dati server",
     "DELETE_RESOURCES": "Elimina risorse",
     "DELETE_DATA": "Elimina dati",

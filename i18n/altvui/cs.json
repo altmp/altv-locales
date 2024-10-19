@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Špatná adresa",
     "DEBUG": "Ladění",
     "USE_EXTERNAL_CONSOLE": "Otevřít konzoli v samostatném okně",
+    "AUDIO_FRAME_LIMITER": "Limit FPS (186fps)",
     "SERVER_DATA_SETTINGS": "Nastavení dat serveru",
     "DELETE_RESOURCES": "Smazat zdroje",
     "DELETE_DATA": "Smazat data",

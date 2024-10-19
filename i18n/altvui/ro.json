@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Adresă invalidă",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Consolă într-o fereastră separată",
+    "AUDIO_FRAME_LIMITER": "Limita FPS (186 fps)",
     "SERVER_DATA_SETTINGS": "Setări date server",
     "DELETE_RESOURCES": "Ștergere resurse",
     "DELETE_DATA": "Ștergere date",

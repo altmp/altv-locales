@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Ungültige Server-Adresse",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Konsole in einem separaten Fenster öffnen",
+    "AUDIO_FRAME_LIMITER": "Limit FPS (186fps)",
     "SERVER_DATA_SETTINGS": "Serverdaten verwalten",
     "DELETE_RESOURCES": "Ressourcen löschen",
     "DELETE_DATA": "Daten löschen",

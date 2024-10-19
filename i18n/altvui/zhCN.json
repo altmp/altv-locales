@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "无效地址",
     "DEBUG": "调试(DEBUG)",
     "USE_EXTERNAL_CONSOLE": "在单独窗口打开控制台",
+    "AUDIO_FRAME_LIMITER": "限制FPS (186fps)",
     "SERVER_DATA_SETTINGS": "服务器资源管理",
     "DELETE_RESOURCES": "删除客户端资源",
     "DELETE_DATA": "删除数据",

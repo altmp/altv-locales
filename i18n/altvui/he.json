@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "כתובת לא חוקית",
     "DEBUG": "איתור באגים",
     "USE_EXTERNAL_CONSOLE": "מסוף בחלון נפרד",
+    "AUDIO_FRAME_LIMITER": "הגבלת FPS (186fps)",
     "SERVER_DATA_SETTINGS": "הגדרות נתוני שרת",
     "DELETE_RESOURCES": "מחיקת משאבים",
     "DELETE_DATA": "מחיקת נתונים",

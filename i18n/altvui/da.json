@@ -97,6 +97,7 @@
     "INVALID_ADDRESS": "Ugyldig adresse",
     "DEBUG": "Debug",
     "USE_EXTERNAL_CONSOLE": "Konsol i et separat vindue",
+    "AUDIO_FRAME_LIMITER": "Begræns FPS (186fps)",
     "SERVER_DATA_SETTINGS": "Server data indstillinger",
     "DELETE_RESOURCES": "Slet ressourcer",
     "DELETE_DATA": "Slet data",
